@@ -1,0 +1,30 @@
+#container{
+width: 1000px;
+margin: 0 auto;
+padding: 40px 0;
+}
+.title{
+font: 30px Arial;
+color: #929292;
+margin: 0 0px 25px 0px;
+text-align: center;
+}
+.place{
+font: 20px Arial;
+color: #929292;
+margin: 0 0px 15px 0px;
+text-align: center;
+}
+.content{
+text-align: center;
+}
+.text p{padding:0 0 20px 0;}
+.text h2{font: 18px Arial; color:#929292; margin:0 0 10px 0;}
+.text h3{font: 15px Arial; color:#929292; margin:0 0 10px 0;}
+.text h4{font: 14px Arial; color:#ff7f66; margin:0 0 10px 0;}
+
+.text ul{list-style-type:circle; margin:0 0 20px 40px;}
+.text ol{list-style-type:decimal;margin:0 0 20px 40px;}
+
+/* classed */
+.clear{ clear: both; }

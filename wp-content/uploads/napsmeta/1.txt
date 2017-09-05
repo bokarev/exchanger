@@ -1,0 +1,35 @@
+a:14:{s:15:"description_txt";s:1910:"[ru_RU:]Для обмена Вам необходимо выполнить несколько шагов:
+<ol>
+ 	<li>Заполните все поля представленной формы. Нажмите кнопку «Обменять».</li>
+ 	<li>Ознакомьтесь с условиями договора на оказание услуг обмена, если вы принимаете их, поставьте галочку в соответствующем поле и нажмите кнопку «Создать заявку».</li>
+ 	<li>Оплатите заявку.  Для этого следует совершить перевод необходимой суммы, следуя инструкциям на нашем сайте.</li>
+ 	<li>После выполнения указанных действий, система переместит Вас на страницу «Состояние заявки», где будет указан статус вашего перевода.</li>
+</ol>
+<strong>Внимание</strong>: для выполнения данной операции потребуется участие оператора (см. статус оператора).[:ru_RU][en_US:]For exchange you need to follow a few steps:
+<ol>
+ 	<li>Fill in all the fields of the form submitted. Click «Exchange».</li>
+ 	<li>Read the terms of the agreement on exchange services, when accepting it, please tick the appropriate field and press the button «Create bid».</li>
+ 	<li>Pay for the bid. To do this, transfer the necessary amount, following the instructions on our website.</li>
+ 	<li>After this is done, the system will redirect you to the «Bid status» page, where the status of your transferwill be shown.</li>
+</ol>
+Note: this operation will require the participation of the operator. The application process takes about 20 minutes.[:en_US]";s:12:"timeline_txt";s:438:"[ru_RU:]Данная операция производится оператором в ручном режиме и занимает от 5 до 30 минут в рабочее время (см. статус оператора).[:ru_RU][en_US:]<span style=\"line-height: 1.5;\">Note: This transaction is performed by the operator in manual mode and takes 5 to 30 minutes during working hours (daily from 9:00 to 24:00 MSK).</span>[:en_US]";s:10:"status_new";s:664:"[ru_RU:]<ol>
+ 	<li>Авторизуйтесь в платежной системе XXXXXXX;</li>
+ 	<li>Переведите указанную ниже сумму на кошелек XXXXXXX;</li>
+ 	<li>Нажмите на кнопку \"Я оплатил заявку\";</li>
+ 	<li>Ожидайте обработку заявки оператором.</li>
+</ol>[:ru_RU][en_US:]<ol>
+ 	<li> <span style=\"line-height: 1.5;\">Log in to the system XXXXXXX;</span></li>
+ 	<li>Turn the amounts shown below on the wallet XXXXXXX;</li>
+ 	<li>Click on the \"I paid bid\";</li>
+ 	<li>Expect the processing of the application by the operator.</li>
+</ol>[:en_US]";s:13:"status_cancel";s:173:"[ru_RU:]Оплата по заявке была возвращена на ваш кошелек.[:ru_RU][en_US:]Payment on the bid has been returned to your wallet.[:en_US]";s:13:"status_delete";s:91:"[ru_RU:]Заявка была удалена.[:ru_RU][en_US:]Bid has been deleted.[:en_US]";s:12:"status_payed";s:244:"[ru_RU:]Подтверждение оплаты принято.
+Ваша заявка обрабатывается оператором.[:ru_RU][en_US:]Confirmation of payment accepted.
+Your request is being processed by the operator.[:en_US]";s:14:"status_realpay";s:244:"[ru_RU:]Подтверждение оплаты принято.
+Ваша заявка обрабатывается оператором.[:ru_RU][en_US:]Confirmation of payment accepted.
+Your request is being processed by the operator.[:en_US]";s:13:"status_verify";s:244:"[ru_RU:]Подтверждение оплаты принято.
+Ваша заявка обрабатывается оператором.[:ru_RU][en_US:]Confirmation of payment accepted.
+Your request is being processed by the operator.[:en_US]";s:12:"status_error";s:201:"[ru_RU:]В заявке есть ошибки. Обратитесь в техническую поддержку.[:ru_RU][en_US:]In the bid there is an error. Please contact technical support.[:en_US]";s:14:"status_success";s:476:"[ru_RU:]Ваша заявка выполнена.
+Благодарим за то, что воспользовались услугами нашего сервиса.
+Оставьте, пожалуйста, <a href=\"/reviews/\">отзыв</a> о работе нашего сервиса![:ru_RU][en_US:]Your application is complete.
+Thank you for using the services of our service.
+Please leave <a href=\"/reviews/\">review</a> review of the work of our service![:en_US]";s:14:"status_coldpay";s:266:"[ru_RU:]Ожидаем подтверждения оплаты от платежной системы. Это может занять некоторое время.[:ru_RU][en_US:]Waiting for payment confirmation from payment system. This may take some time.[:en_US]";s:18:"status_coldsuccess";s:287:"[ru_RU:]Ожидаем подтверждения статуса транзакции от платежной системы. Это может занять некоторое время.[:ru_RU][en_US:]Waiting for transaction status from payment system. This may take some time.[:en_US]";s:14:"status_techpay";s:127:"[ru_RU:]Заявка находится в процессе оплаты.[:ru_RU][en_US:]Bid is in the payment process.[:en_US]";s:18:"status_payouterror";s:0:"";}

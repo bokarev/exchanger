@@ -1,0 +1,6684 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Premium\n"
+"POT-Creation-Date: 2017-07-29 12:57+0300\n"
+"PO-Revision-Date: 2017-07-29 12:57+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: js\n"
+
+#: includes/admin_func.php:48
+msgid "Error! insufficient privileges!"
+msgstr "Ошибка! Недостаточно прав!"
+
+#: includes/admin_func.php:123
+msgid "Error text"
+msgstr "Текст ошибки"
+
+#: includes/admin_func.php:312
+msgid "Filter"
+msgstr "Фильтр"
+
+#: includes/admin_func.php:314
+msgid "Cancel"
+msgstr "Отменить"
+
+#: includes/admin_func.php:693 includes/admin_func.php:1075
+#: includes/admin_func.php:1181
+msgid "Clear field"
+msgstr "Очистить поле"
+
+#: includes/admin_func.php:1365
+msgid "All"
+msgstr "Все"
+
+#: includes/admin_func.php:1438
+msgid "Put in the correct order"
+msgstr "Расставьте в нужном порядке"
+
+#: includes/init_page.php:20 includes/init_page.php:25
+msgid "NOT CSRF!"
+msgstr "NOT CSRF!"
+
+#: includes/init_page.php:87 includes/init_page.php:92
+msgid "Action have not completed because you had changed your browser"
+msgstr "Действие не выполнено, потому что вы используете другой браузер"
+
+#: includes/init_page.php:105 includes/init_page.php:110
+msgid "Not action"
+msgstr "Нет действия"
+
+#: includes/menu_filters.php:88
+msgid "Title designer"
+msgstr "Конструктор заголовков"
+
+#: includes/pagenavi.php:96 includes/pagenavi.php:166 includes/pagenavi.php:176
+msgid "First page"
+msgstr "Первая"
+
+#: includes/pagenavi.php:169 includes/pagenavi.php:179
+msgid "Last page"
+msgstr "Последняя"
+
+#: includes/premium_class.php:64
+#, php-format
+msgid ""
+"%1$s is <strong>deprecated</strong> in plugin <strong>%2$s</strong> since "
+"version %3$s! Use %4$s instead."
+msgstr ""
+"%1$s <strong>устарела</strong> в плагине <strong>%2$s</strong> с версии "
+"%3$s! Используйте %4$s."
+
+#: includes/premium_class.php:66
+#, php-format
+msgid ""
+"%1$s is <strong>deprecated</strong> in plugin <strong>%2$s</strong> since "
+"version %3$s with no alternative available."
+msgstr ""
+"%1$s <strong>устарела</strong> в плагине <strong>%2$s</strong> с версии "
+"%3$s! Альтернативы нет."
+
+#: includes/premium_class.php:187
+#, php-format
+msgid "Tech page \"%s\""
+msgstr "Техническая страница \"%s\""
+
+#: includes/premium_class.php:202
+msgid "No"
+msgstr "Нет"
+
+#: includes/premium_class.php:361
+msgid "Action completed successfully"
+msgstr "Действие успешно выполнено"
+
+#: includes/premium_class.php:367
+msgid "Error! Action not completed"
+msgstr "Ошибка! Действие не выполнено"
+
+#~ msgid "Firefox"
+#~ msgstr "Firefox"
+
+#~ msgid "Opera"
+#~ msgstr "Opera"
+
+#~ msgid "Chrome"
+#~ msgstr "Chrome"
+
+#~ msgid "Internet Explorer"
+#~ msgstr "Internet Explorer"
+
+#~ msgid "Safari"
+#~ msgstr "Safari"
+
+#~ msgid "Unknown"
+#~ msgstr "Неизвестно"
+
+#~ msgid "Jan."
+#~ msgstr "Янв."
+
+#~ msgid "Feb."
+#~ msgstr "Фев."
+
+#~ msgid "Mar."
+#~ msgstr "Мар."
+
+#~ msgid "Apr."
+#~ msgstr "Апр."
+
+#~ msgid "May"
+#~ msgstr "Мая"
+
+#~ msgid "June"
+#~ msgstr "Июн."
+
+#~ msgid "July"
+#~ msgstr "Июл."
+
+#~ msgid "Aug."
+#~ msgstr "Авг."
+
+#~ msgid "Sep."
+#~ msgstr "Сент."
+
+#~ msgid "Oct."
+#~ msgstr "Окт."
+
+#~ msgid "Nov."
+#~ msgstr "Ноя."
+
+#~ msgid "Dec."
+#~ msgstr "Дек."
+
+#~ msgid "Admin panel"
+#~ msgstr "Админ-панель"
+
+#~ msgid "Widgets on the main"
+#~ msgstr "Виджеты на главной"
+
+#~ msgid "Save"
+#~ msgstr "Сохранить"
+
+#~ msgid "Hide Welcome Panel"
+#~ msgstr "Скрыть панель приветствия"
+
+#~ msgid "Yes"
+#~ msgstr "Да"
+
+#~ msgid "Hide In sight"
+#~ msgstr "Скрыть На виду"
+
+#~ msgid "Hide Activity"
+#~ msgstr "Скрыть Активность"
+
+#~ msgid "Hide Quick Draft"
+#~ msgstr "Скрыть Быстрый черновик"
+
+#~ msgid "Hide WordPress News"
+#~ msgstr "Скрыть новости Wordpress"
+
+#~ msgid "Hide Recent Comments"
+#~ msgstr "Скрыть последние комментарии"
+
+#~ msgid "Hide Incoming links"
+#~ msgstr "Скрыть входящие ссылки"
+
+#~ msgid "Hide Plugins"
+#~ msgstr "Скрыть плагины"
+
+#~ msgid "Hide Recent Drafts"
+#~ msgstr "Скрыть последние черновики"
+
+#~ msgid "Sections menu"
+#~ msgstr "Разделы меню"
+
+#~ msgid "Hide section \"%s\""
+#~ msgstr "Скрыть раздел \"%s\""
+
+#~ msgid "Posts"
+#~ msgstr "Записи"
+
+#~ msgid "Comments"
+#~ msgstr "Комментарии"
+
+#~ msgid "Other"
+#~ msgstr "Другое"
+
+#~ msgid "Disable notification about the change user password"
+#~ msgstr "Отключить уведомление пользователю по e-mail о смене пароля"
+
+#~ msgid "Username: %s"
+#~ msgstr "Username: %s"
+
+#~ msgid "Password: %s"
+#~ msgstr "Password: %s"
+
+#~ msgid "Deleting old authorization logs"
+#~ msgstr "Удаление старых логов авторизации"
+
+#~ msgid "Authorization log"
+#~ msgstr "Лог авторизации"
+
+#~ msgid "Log in your personal area"
+#~ msgstr "Уведомление при авторизации в ЛК"
+
+#~ msgid "Date"
+#~ msgstr "Дата"
+
+#~ msgid "IP"
+#~ msgstr "IP"
+
+#~ msgid "Browser"
+#~ msgstr "Браузер"
+
+#~ msgid "User"
+#~ msgstr "Пользователь"
+
+#~ msgid "Date start"
+#~ msgstr "Дата начала"
+
+#~ msgid "Date end"
+#~ msgstr "Дата окончания"
+
+#~ msgid "Delete"
+#~ msgstr "Удалить"
+
+#~ msgid "Display"
+#~ msgstr "Отображать"
+
+#~ msgid "Error"
+#~ msgstr "Ошибка"
+
+#~ msgid "Authorisation Error"
+#~ msgstr "Ошибка авторизации"
+
+#~ msgid "Actions"
+#~ msgstr "Действия"
+
+#~ msgid "Apply"
+#~ msgstr "Применить"
+
+#~ msgid "Total bids"
+#~ msgstr "Всего заявок"
+
+#~ msgid "No bids"
+#~ msgstr "Нет заявок"
+
+#~ msgid "No object"
+#~ msgstr "Нет объекта"
+
+#~ msgid "missing"
+#~ msgstr "отсутствует"
+
+#~ msgid "Account does not match with initial account"
+#~ msgstr "Счет не совпадает с первоночальным"
+
+#~ msgid "Original"
+#~ msgstr "Оригинал"
+
+#~ msgid "id"
+#~ msgstr "id"
+
+#~ msgid "Attention! Customer accounts were spoofed"
+#~ msgstr "Внимание! Реквизиты клиента подменены"
+
+#~ msgid "Language"
+#~ msgstr "Язык"
+
+#~ msgid "Rate"
+#~ msgstr "Курс"
+
+#~ msgid "Edit direction"
+#~ msgstr "Редактировать направление"
+
+#~ msgid "Creation date"
+#~ msgstr "Дата создания"
+
+#~ msgid "Change date"
+#~ msgstr "Дата изменения"
+
+#~ msgid "Payee"
+#~ msgstr "Счет получателя"
+
+#~ msgid "Auto payout account"
+#~ msgstr "Счет автовыплаты"
+
+#~ msgid "Merchant transaction ID"
+#~ msgstr "ID транзакции мерчанта"
+
+#~ msgid "Auto payout transaction ID"
+#~ msgstr "ID транзакции автовыплаты"
+
+#~ msgid "Real sum"
+#~ msgstr "Реальная сумма оплаты"
+
+#~ msgid "Real account"
+#~ msgstr "Реальный счет"
+
+#~ msgid "Give"
+#~ msgstr "Отдаете"
+
+#~ msgid "Sum (with add. fee)"
+#~ msgstr "Сумма (с доп. ком.)"
+
+#~ msgid "Sum (with add. fee and PS fee)"
+#~ msgstr "Сумма (с доп. ком. и ПС ком.)"
+
+#~ msgid "From account"
+#~ msgstr "Со счета"
+
+#~ msgid "Get"
+#~ msgstr "Получаете"
+
+#~ msgid "To account"
+#~ msgstr "На счет"
+
+#~ msgid "Last name"
+#~ msgstr "Фамилия"
+
+#~ msgid "First name"
+#~ msgstr "Имя"
+
+#~ msgid "Second name"
+#~ msgstr "Отчество"
+
+#~ msgid "Phone"
+#~ msgstr "Телефон"
+
+#~ msgid "Skype"
+#~ msgstr "Skype"
+
+#~ msgid "E-mail"
+#~ msgstr "E-mail"
+
+#~ msgid "Passport"
+#~ msgstr "Номер паспорта"
+
+#~ msgid "User ip"
+#~ msgstr "IP"
+
+#~ msgid "Guest"
+#~ msgstr "Гость"
+
+#~ msgid "Summary"
+#~ msgstr "Информация"
+
+#~ msgid "User id"
+#~ msgstr "ID пользователя"
+
+#~ msgid "User IP"
+#~ msgstr "IP-адрес"
+
+#~ msgid "User discount (%)"
+#~ msgstr "Скидка"
+
+#~ msgid "User discount (sum)"
+#~ msgstr "Сумма скидки"
+
+#~ msgid "Profit"
+#~ msgstr "Прибыль"
+
+#~ msgid "Amount in internal currency"
+#~ msgstr "Сумма во внутренней валюте"
+
+#~ msgid "Summary Give"
+#~ msgstr "Информация \"Отдаю\""
+
+#~ msgid "Sum Give"
+#~ msgstr "Сумма Отдаете"
+
+#~ msgid "Add. fee sum"
+#~ msgstr "Сумма доп. ком."
+
+#~ msgid "Sum Give (add. fee)"
+#~ msgstr "Сумма Отдаете (доп. ком.)"
+
+#~ msgid "PS fee sum"
+#~ msgstr "Комиссия ПС"
+
+#~ msgid "Sum Give (add.fee and PS fee)"
+#~ msgstr "Сумма Отдаю (с доп. ком. и ПС ком.)"
+
+#~ msgid "Sum for reserve"
+#~ msgstr "Сумма для резерва"
+
+#~ msgid "Summary Get"
+#~ msgstr "Информация \"Получаю\""
+
+#~ msgid "Sum of rate"
+#~ msgstr "Сумма по курсу"
+
+#~ msgid "Sum with discount"
+#~ msgstr "Сумма со скидкой"
+
+#~ msgid "Sum Get (add. fee)"
+#~ msgstr "Сумма Получаете  (доп. ком.)"
+
+#~ msgid "Sum Get (add.fee and PS fee)"
+#~ msgstr "Сумма Получаю (с доп. ком. и ПС ком.)"
+
+#~ msgid "Similar exchanges"
+#~ msgstr "Похожие обмены"
+
+#~ msgid "info"
+#~ msgstr "инфо"
+
+#~ msgid "Similar"
+#~ msgstr "Похожие"
+
+#~ msgid "Bids"
+#~ msgstr "Заявки"
+
+#~ msgid "Filters"
+#~ msgstr "Фильтры"
+
+#~ msgid "Display bids"
+#~ msgstr "Выводимых заявок"
+
+#~ msgid "Bids status"
+#~ msgstr "Статусы заявок"
+
+#~ msgid "Sum and date"
+#~ msgstr "Сумма и дата"
+
+#~ msgid "Currency and codes"
+#~ msgstr "Валюты и коды"
+
+#~ msgid "User filters"
+#~ msgstr "Фильтры пользователей"
+
+#~ msgid "Other filters"
+#~ msgstr "Остальные фильтры"
+
+#~ msgid "Not paid bids"
+#~ msgstr "Не оплаченные заявки"
+
+#~ msgid "Paid bids"
+#~ msgstr "Оплаченные заявки"
+
+#~ msgid "Payment status"
+#~ msgstr "Платежный статус"
+
+#~ msgid "Bid status"
+#~ msgstr "Статус заявки"
+
+#~ msgid "Pay status"
+#~ msgstr "Платежный статус"
+
+#~ msgid "Bid id"
+#~ msgstr "Заявка id"
+
+#~ msgid "Start date"
+#~ msgstr "Дата начала"
+
+#~ msgid "End date"
+#~ msgstr "Дата окончания"
+
+#~ msgid "Min. sum Give"
+#~ msgstr "Мин. сумма Отдаю"
+
+#~ msgid "Min. sum Get"
+#~ msgstr "Мин. сумма Получаю"
+
+#~ msgid "Exchange direction"
+#~ msgstr "Направление обмена"
+
+#~ msgid "Currency title Give"
+#~ msgstr "Название валюты Отдаю"
+
+#~ msgid "Currency title Get"
+#~ msgstr "Название валюты Получаю"
+
+#~ msgid "PS title Give"
+#~ msgstr "Название ПС Отдаю"
+
+#~ msgid "PS title Get"
+#~ msgstr "Название ПС Получаю"
+
+#~ msgid "Currency code Give"
+#~ msgstr "Код валюты Отдаю"
+
+#~ msgid "Currency code Get"
+#~ msgstr "Код валюты Получаю"
+
+#~ msgid "User login"
+#~ msgstr "Логин пользователя"
+
+#~ msgid "User e-mail"
+#~ msgstr "E-mail автора"
+
+#~ msgid "User skype"
+#~ msgstr "Skype"
+
+#~ msgid "User phone"
+#~ msgstr "Телефон"
+
+#~ msgid "User passport"
+#~ msgstr "Номер паспорта"
+
+#~ msgid "Account Give"
+#~ msgstr "Счет Отдаете"
+
+#~ msgid "Account Get"
+#~ msgstr "Счет Получаете"
+
+#~ msgid "Account payment"
+#~ msgstr "Счет оплаты"
+
+#~ msgid "Hide"
+#~ msgstr "Скрыть"
+
+#~ msgid "Apply filters"
+#~ msgstr "Применить фильтры"
+
+#~ msgid "Clear filters"
+#~ msgstr "Очистить фильтры"
+
+#~ msgid "Save filters"
+#~ msgstr "Сохранить фильтры"
+
+#~ msgid "Restore filters"
+#~ msgstr "Восстановить фильтры"
+
+#~ msgid "Error! not selected action!"
+#~ msgstr "Ошибка! Не выбрано действие!"
+
+#~ msgid "LIVE bids"
+#~ msgstr "LIVE заявки"
+
+#~ msgid "Work with exchange bids"
+#~ msgstr "Работать с заявками на обмен"
+
+#~ msgid "Complete bids removal"
+#~ msgstr "Полное удаление заявок"
+
+#~ msgid "There are pending applications"
+#~ msgstr "Есть заявки в ожидании"
+
+#~ msgid "complete removal"
+#~ msgstr "полное удаление"
+
+#~ msgid "Live"
+#~ msgstr "Live"
+
+#~ msgid "Settings"
+#~ msgstr "Настройки"
+
+#~ msgid "Page auto-update"
+#~ msgstr "Автообновление страницы"
+
+#~ msgid "disable"
+#~ msgstr "выключить"
+
+#~ msgid "enable"
+#~ msgstr "включить"
+
+#~ msgid "Auto-update period"
+#~ msgstr "Период автообновления"
+
+#~ msgid "seconds"
+#~ msgstr "секунд"
+
+#~ msgid "minute"
+#~ msgstr "минута"
+
+#~ msgid "minutes"
+#~ msgstr "минут"
+
+#~ msgid "Ringtone alert"
+#~ msgstr "Сигнал оповещения"
+
+#~ msgid "No ringtone"
+#~ msgstr "Нет сигнала"
+
+#~ msgid "hide bids after transition to it"
+#~ msgstr "скрывать заявки после перехода к ним"
+
+#~ msgid "Status"
+#~ msgstr "Статус"
+
+#~ msgid "View"
+#~ msgstr "Просмотреть"
+
+#~ msgid "Edit bids status"
+#~ msgstr "Редактировать статус заявки"
+
+#~ msgid "Add bids status"
+#~ msgstr "Добавить статус заявки"
+
+#~ msgid "Back to list"
+#~ msgstr "Назад к списку"
+
+#~ msgid "Add new"
+#~ msgstr "Добавить"
+
+#~ msgid "Status name"
+#~ msgstr "Выводимое имя"
+
+#~ msgid "Status title"
+#~ msgstr "Заголовок для сайта"
+
+#~ msgid "Short status description"
+#~ msgstr "Краткое описание статуса"
+
+#~ msgid "Status description"
+#~ msgstr "Описание на сайте"
+
+#~ msgid "Auto-update page"
+#~ msgstr "Автообновление страницы"
+
+#~ msgid "Send a notification?"
+#~ msgstr "Отправлять уведомление?"
+
+#~ msgid "Subject"
+#~ msgstr "Заголовок письма"
+
+#~ msgid "Sender e-mail"
+#~ msgstr "E-mail отправителя"
+
+#~ msgid "Sender's name"
+#~ msgstr "Имя отправителя"
+
+#~ msgid "Site name"
+#~ msgstr "Имя сайта"
+
+#~ msgid "Bid ID"
+#~ msgstr "ID заявки"
+
+#~ msgid "Rate Give"
+#~ msgstr "Курс Отдаете"
+
+#~ msgid "Rate Get"
+#~ msgstr "Курс Получаете"
+
+#~ msgid "Name of PS Give"
+#~ msgstr "Название ПС Отдаете"
+
+#~ msgid "Name of PS Get"
+#~ msgstr "Название ПС Получаете"
+
+#~ msgid "Currency type Give"
+#~ msgstr "Тип валюта Отдаете"
+
+#~ msgid "Currency type Get"
+#~ msgstr "Тип валюты Получаете"
+
+#~ msgid "Sum Give (PS fee)"
+#~ msgstr "Сумма Отдаете (ком. ПС)"
+
+#~ msgid "Sum Get"
+#~ msgstr "Сумма Получаете"
+
+#~ msgid "Sum Get (PS fee)"
+#~ msgstr "Сумма Получаете (ком. ПС)"
+
+#~ msgid "URL"
+#~ msgstr "Ссылка на обмен"
+
+#~ msgid "Message"
+#~ msgstr "Сообщение"
+
+#~ msgid "Work with bids statuses"
+#~ msgstr "Работа со статусами заявок"
+
+#~ msgid "Bids statuses"
+#~ msgstr "Статусы заявок"
+
+#~ msgid "Add"
+#~ msgstr "Добавить"
+
+#~ msgid "Sort"
+#~ msgstr "Сортировка"
+
+#~ msgid "Edit"
+#~ msgstr "Редактировать"
+
+#~ msgid "Number of bids"
+#~ msgstr "Кол-во заявок"
+
+#~ msgid "Edit custom field"
+#~ msgstr "Редактировать доп.поле"
+
+#~ msgid "Add custom field"
+#~ msgstr "Добавить доп.поле"
+
+#~ msgid "Custom field title"
+#~ msgstr "Название"
+
+#~ msgid "Custom field type"
+#~ msgstr "Тип"
+
+#~ msgid "Text input"
+#~ msgstr "Текстовое поле"
+
+#~ msgid "Select"
+#~ msgstr "Выбор"
+
+#~ msgid "Data visibility in bid"
+#~ msgstr "Видимость данных в заявке на сайте"
+
+#~ msgid "show data"
+#~ msgstr "не скрывать"
+
+#~ msgid "hide data"
+#~ msgstr "скрыть полностью"
+
+#~ msgid "show first 4 symbols"
+#~ msgstr "не скрывать первые 4-и символа"
+
+#~ msgid "show last 4 symbols"
+#~ msgstr "не скрывать последние  4-и символа"
+
+#~ msgid "show first 4 symbols and show last 4 symbols"
+#~ msgstr "не скрывать первые 4-и символа и последние  4-и символа"
+
+#~ msgid "Autocomplete"
+#~ msgstr "Автозаполнение"
+
+#~ msgid "Min. number of symbols"
+#~ msgstr "Мин. кол-во символов"
+
+#~ msgid "Max. number of symbols"
+#~ msgstr "Макс. кол-во символов"
+
+#~ msgid "First symbols"
+#~ msgstr "Первые символы"
+
+#~ msgid "More info"
+#~ msgstr "Подробнее"
+
+#~ msgid "Checking the first symbols when a customer fills out a field."
+#~ msgstr "Проверка первых символов, когда клиент заполняет поле."
+
+#~ msgid "Required field?"
+#~ msgstr "Обязательное поле?"
+
+#~ msgid "Tips on filling"
+#~ msgstr "Подсказка при вводе"
+
+#~ msgid "Options (on a new line)"
+#~ msgstr "Варианты (с новой строки)"
+
+#~ msgid "active field"
+#~ msgstr "активное поле"
+
+#~ msgid "not active field"
+#~ msgstr "не активное поле"
+
+#~ msgid "Custom fields"
+#~ msgstr "Доп.поля"
+
+#~ msgid "Sort custom fields"
+#~ msgstr "Сортировка"
+
+#~ msgid "Work with custom fields"
+#~ msgstr "Работа с доп. полями"
+
+#~ msgid "active custom fields"
+#~ msgstr "активные"
+
+#~ msgid "not active custom fields"
+#~ msgstr "не активные"
+
+#~ msgid "Activated"
+#~ msgstr "Активировать"
+
+#~ msgid "Deactivated"
+#~ msgstr "Деактивировать"
+
+#~ msgid "No item"
+#~ msgstr "Нет значения"
+
+#~ msgid "Currency title"
+#~ msgstr "Название валюты"
+
+#~ msgid "Display field"
+#~ msgstr "Когда выводить?"
+
+#~ msgid "always"
+#~ msgstr "всегда"
+
+#~ msgid "give"
+#~ msgstr "отдаете"
+
+#~ msgid "get"
+#~ msgstr "получается"
+
+#~ msgid "Custom currency fields"
+#~ msgstr "Доп. поля валют"
+
+#~ msgid "Work with custom currency fields"
+#~ msgstr "Работа с доп. полями валют"
+
+#~ msgid "All currency"
+#~ msgstr "Все валюты"
+
+#~ msgid "Make a choice"
+#~ msgstr "Сделайте выбор"
+
+#~ msgid "Exchanger settings"
+#~ msgstr "Настройки обменника"
+
+#~ msgid "Update mode"
+#~ msgstr "Режим обновления"
+
+#~ msgid "Site Title"
+#~ msgstr "Site Title"
+
+#~ msgid "Description"
+#~ msgstr "Описание"
+
+#~ msgid "Cron"
+#~ msgstr "Cron"
+
+#~ msgid "Always"
+#~ msgstr "Всегда"
+
+#~ msgid "In a special file"
+#~ msgstr "В специальном файле"
+
+#~ msgid "If you are using server cron, then select \"In a special file.\""
+#~ msgstr ""
+#~ "Если вы используете крон на сервере, то тогда выберите \"В специальном "
+#~ "файле.\""
+
+#~ msgid "User language auto detecting"
+#~ msgstr "Авто определение языка пользователя"
+
+#~ msgid "Admin panel address"
+#~ msgstr "Адрес админ панели"
+
+#~ msgid "Second name in site"
+#~ msgstr "Отчество на сайте"
+
+#~ msgid "Test cron jobs"
+#~ msgstr "Тест крон-заданий"
+
+#~ msgid "If for some reason your job does not work, you can use direct link"
+#~ msgstr ""
+#~ "Если по каким-то причинам задания не выполняются, вы можете использовать "
+#~ "прямую ссылку"
+
+#~ msgid "Cron tasks"
+#~ msgstr "Cron задания"
+
+#~ msgid "When handling"
+#~ msgstr "При обращении"
+
+#~ msgid "Interval 2 minutes"
+#~ msgstr "Интервал 2 минуты"
+
+#~ msgid "Interval 5 minutes"
+#~ msgstr "Интервал 5 минут"
+
+#~ msgid "Interval 10 minutes"
+#~ msgstr "Интервал 10 минут"
+
+#~ msgid "Interval 30 minutes"
+#~ msgstr "Интервал 30 минут"
+
+#~ msgid "Interval 1 hour"
+#~ msgstr "Интервал 1 час"
+
+#~ msgid "Interval 3 hour"
+#~ msgstr "Интервал 3 часа"
+
+#~ msgid "Interval half day"
+#~ msgstr "Интервал пол дня"
+
+#~ msgid "Interval 1 day"
+#~ msgstr "Интервал 1 день"
+
+#~ msgid "none"
+#~ msgstr "нет"
+
+#~ msgid "Run"
+#~ msgstr "Выполнить"
+
+#~ msgid "Cron file"
+#~ msgstr "Cron-файл"
+
+#~ msgid "Error! Invalid command!"
+#~ msgstr "Ошибка! Не верная команда!"
+
+#~ msgid "Edit member discount"
+#~ msgstr "Редактировать скидку"
+
+#~ msgid "Add member discount"
+#~ msgstr "Добавить скидку"
+
+#~ msgid "Amount more than"
+#~ msgstr "Сумма больше"
+
+#~ msgid "Discount"
+#~ msgstr "Процент скидки"
+
+#~ msgid "Table discount"
+#~ msgstr "Таблица скидок"
+
+#~ msgid "Member discounts"
+#~ msgstr "Скидки пользователей"
+
+#~ msgid "Setup user discounts"
+#~ msgstr "Настройки скидок пользователей"
+
+#~ msgid "Sum"
+#~ msgstr "Сумма"
+
+#~ msgid "Processing. Please wait"
+#~ msgstr "Идет обработка. Пожалуйста подождите"
+
+#~ msgid "Error! The direction does not exist"
+#~ msgstr "Ошибка! Направление не существует"
+
+#~ msgid "invalid account number"
+#~ msgstr "неверный номер счета"
+
+#~ msgid "account has invalid status"
+#~ msgstr "счет имеет неверный статус"
+
+#~ msgid "min"
+#~ msgstr "min"
+
+#~ msgid "max"
+#~ msgstr "max"
+
+#~ msgid "field is not filled"
+#~ msgstr "поле не заполнено"
+
+#~ msgid "Error!"
+#~ msgstr "Ошибка!"
+
+#~ msgid "Bid successfully created"
+#~ msgstr "Заявка успешно создана"
+
+#~ msgid "Error! System error!"
+#~ msgstr "Ошибка! Системная ошибка!"
+
+#~ msgid "Error! System error"
+#~ msgstr "Ошибка! Системная ошибка!"
+
+#~ msgid "Error! Not enough reserve for the transaction"
+#~ msgstr "Ошибка! Не хватает резерва для обмена"
+
+#~ msgid "Redirecting. Please wait"
+#~ msgstr "Идет перенаправление. Подождите пожалуйста"
+
+#~ msgid "Removal bids with inappropriate rules"
+#~ msgstr "Удаление заявок с непринятыми правилами"
+
+#~ msgid "Removal unpaid bids"
+#~ msgstr "Удаление неоплаченных заявок"
+
+#~ msgid "account has valid status"
+#~ msgstr "кошелек имеет верный статус"
+
+#~ msgid "No purse"
+#~ msgstr "Нет кошелька"
+
+#~ msgid "Personal data"
+#~ msgstr "Личные данные"
+
+#~ msgid "New bid"
+#~ msgstr "Новая заявка"
+
+#~ msgid "Cancelled bid"
+#~ msgstr "Отмененная заявка"
+
+#~ msgid "When user goes to payment"
+#~ msgstr "Когда пользователь переходит к оплате"
+
+#~ msgid "Paid bid in manual mode"
+#~ msgstr "Заявка оплачена вручную"
+
+#~ msgid "Waiting for merchant confirmation"
+#~ msgstr "Ожидание подтверждения от мерчанта"
+
+#~ msgid "Paid bid by merchant"
+#~ msgstr "Заявка оплачена через мерчант"
+
+#~ msgid "Bid on checking"
+#~ msgstr "Заявка на проверке"
+
+#~ msgid "Error bid"
+#~ msgstr "Текст для ошибочной заявки"
+
+#~ msgid "Waiting for auto pay confirmation"
+#~ msgstr "Ожидание подтверждения от модуля автовыплат"
+
+#~ msgid "Completed bid"
+#~ msgstr "Выполненная заявка"
+
+#~ msgid "Full deleted bid"
+#~ msgstr "Полностью удаленная заявка"
+
+#~ msgid "Deleted bid"
+#~ msgstr "Текст для удаленной заявки"
+
+#~ msgid "PS name Give"
+#~ msgstr "Имя ПС Отдаю"
+
+#~ msgid "PS name Get"
+#~ msgstr "Имя ПС Получаю"
+
+#~ msgid "Reserve"
+#~ msgstr "Резерв"
+
+#~ msgid "Not enough?"
+#~ msgstr "Не хватает?"
+
+#~ msgid "Exchange"
+#~ msgstr "Обменять"
+
+#~ msgid "Selected direction does not exist"
+#~ msgstr "Выбранное направление не существует"
+
+#~ msgid "With fee"
+#~ msgstr "С комиссией"
+
+#~ msgid "Exchange rate"
+#~ msgstr "Курс обмена"
+
+#~ msgid "Your discount"
+#~ msgstr "Ваша скидка"
+
+#~ msgid "Attention!"
+#~ msgstr "Внимание!"
+
+#~ msgid "Remember entries"
+#~ msgstr "Запомнить введенные данные"
+
+#~ msgid "Exchange settings"
+#~ msgstr "Настройки обмена"
+
+#~ msgid "Exchange table type"
+#~ msgstr "Тип таблицы выбора направления обмена"
+
+#~ msgid "If select non-existent direction"
+#~ msgstr "Если выбрать не существующее направление"
+
+#~ msgid "Show error"
+#~ msgstr "Показать ошибку"
+
+#~ msgid "Show nearest"
+#~ msgstr "Показать ближайшее"
+
+#~ msgid "Exchange form"
+#~ msgstr "Форма обмена"
+
+#~ msgid "On new page"
+#~ msgstr "На новой странице"
+
+#~ msgid "On main page"
+#~ msgstr "На главной странице"
+
+#~ msgid "Allow to manage request from another browser"
+#~ msgstr "Разрешить управлять заявкой из другого браузера"
+
+#~ msgid "Sum Give with add. fee"
+#~ msgstr "Сумма Отдаю с доп. комиссией"
+
+#~ msgid "Sum Give with add. fee and PS fee"
+#~ msgstr "Сумма Отдаю с доп. комиссией и комиссией ПС"
+
+#~ msgid "Sum Get with add. feen"
+#~ msgstr "Сумма Получа с доп. комиссией"
+
+#~ msgid "Sum Get with add. fee and PS fe"
+#~ msgstr "Сумма Получаю с доп. комиссией и комиссией ПС"
+
+#~ msgid "Sum of the exchange is"
+#~ msgstr "Сумма обмена это"
+
+#~ msgid ""
+#~ "Send email notifications to admin if admin changes status of bid on his "
+#~ "own"
+#~ msgstr "Отправлять email админу если админ сам меняет статус заявки"
+
+#~ msgid "Data visibility in bid for account Give"
+#~ msgstr "Видимость номера счета в заявке для Отдаю"
+
+#~ msgid "Data visibility in bid for account Get"
+#~ msgstr "Видимость номера счета в заявке для Получаю"
+
+#~ msgid "Allow reserve request"
+#~ msgstr "Разрешить запрос резерва"
+
+#~ msgid "Use \"Conversion to\""
+#~ msgstr "Использовать \"Преобразовать к\""
+
+#~ msgid "Everywhere"
+#~ msgstr "Везде"
+
+#~ msgid "Exchange table and tariffs"
+#~ msgstr "Таблица выбора направления обмена и тарифы"
+
+#~ msgid "Exchange table"
+#~ msgstr "Таблица выбора направления обмена"
+
+#~ msgid "Redirect to exchange page"
+#~ msgstr "Редирект на страницу обмена"
+
+#~ msgid "Calculate sum \"on fly\""
+#~ msgstr "Вычислять суммы \"на лету\""
+
+#~ msgid "Calculating method of sum"
+#~ msgstr "Метод вычисления суммы"
+
+#~ msgid "Old method"
+#~ msgstr "Старый метод"
+
+#~ msgid "New method (faster)"
+#~ msgstr "Новый метод (быстрее)"
+
+#~ msgid "Automatic deletion of unpaid bids"
+#~ msgstr "Автоматическое удаление неоплаченных заявок"
+
+#~ msgid "How many hours?"
+#~ msgstr "Через сколько часов?"
+
+#~ msgid "How many minutes?"
+#~ msgstr "Через сколько минут?"
+
+#~ msgid "Exchange filters"
+#~ msgstr "Фильтры обмена"
+
+#~ msgid ""
+#~ "You can set the filter properties for the following objects. For example, "
+#~ "if the user will see the exchange direction on the home page if his "
+#~ "country is forbidden for this exchange direction. Will the user see the "
+#~ "exchange direction on the home page if he is not registered user and etc."
+#~ msgstr ""
+#~ "Для перечисленных ниже объектов вы можете установить свойства "
+#~ "фильтрации.  Например, будет ли пользователь видеть направление обмена на "
+#~ "главной странице, если для его страны запрещено данное направление "
+#~ "обмена. Будет ли пользователь видеть направление обмена на главной "
+#~ "странице, если он является незарегистрированным пользователем и т.п."
+
+#~ msgid "Show but disabled"
+#~ msgstr "Показать, но отключить"
+
+#~ msgid "Home exchange table"
+#~ msgstr "Таблица выбора направления обмена на главной"
+
+#~ msgid "Tariffs"
+#~ msgstr "Тарифы"
+
+#~ msgid "Export files for monitoring"
+#~ msgstr "Файлы с курсами для мониторингов"
+
+#~ msgid "Sitemap XML"
+#~ msgstr "XML карта сайта"
+
+#~ msgid "Sitemap HTML"
+#~ msgstr "HTML карта сайта"
+
+#~ msgid "AJAX settings"
+#~ msgstr "Настройки AJAX"
+
+#~ msgid "It can create additional load on server"
+#~ msgstr "Данная опция может создавать дополнительную нагрузку на сервер"
+
+#~ msgid "Frequency of requests from admin panel"
+#~ msgstr "Частота запросов из админ-панели "
+
+#~ msgid "Frequency of requests from site"
+#~ msgstr "Частота запросов с сайта"
+
+#~ msgid "HTML sitemap settings"
+#~ msgstr "Настройки HTML карты"
+
+#~ msgid "Show news?"
+#~ msgstr "Показывать новости?"
+
+#~ msgid "Show exchange directions?"
+#~ msgstr "Показывать направления обменов?"
+
+#~ msgid "Show pages?"
+#~ msgstr "Показывать страницы?"
+
+#~ msgid "Exclude pages"
+#~ msgstr "Исключить страницы"
+
+#~ msgid "Language settings"
+#~ msgstr "Языковые настройки"
+
+#~ msgid "Admin-panel language"
+#~ msgstr "Язык админ-панели"
+
+#~ msgid "Site language"
+#~ msgstr "Язык сайта"
+
+#~ msgid "Multilingual"
+#~ msgstr "Мультиязычность"
+
+#~ msgid "Authorization by e-mail"
+#~ msgstr "Авторизация  по одноразовой ссылке"
+
+#~ msgid "Link"
+#~ msgstr "Ссылка"
+
+#~ msgid "We sent you link for authorization. Check your e-mail."
+#~ msgstr "Проверьте ваш e-mail. Мы отправили вам ссылку для авторизации"
+
+#~ msgid "Error! Authorisation Error!"
+#~ msgstr "Ошибка! Ошибка авторизации!"
+
+#~ msgid "Working with e-mail templates"
+#~ msgstr "Работа с шаблонами e-mail"
+
+#~ msgid "E-mail templates"
+#~ msgstr "E-mail шаблоны"
+
+#~ msgid "Admin notification"
+#~ msgstr "Уведомление администратору"
+
+#~ msgid "User notification"
+#~ msgstr "Уведомления пользователям"
+
+#~ msgid "Setting up"
+#~ msgstr "Настраиваем"
+
+#~ msgid "Send letter"
+#~ msgstr "Отправлять письмо"
+
+#~ msgid "Use only existing e-mail like info@site.ru"
+#~ msgstr "Используйте только существующий e-mail вида info@site.ru"
+
+#~ msgid "Sender name"
+#~ msgstr "Имя отправителя"
+
+#~ msgid "Recipient e-mail"
+#~ msgstr "E-mail получателя"
+
+#~ msgid "If recipient e-mails more than one use comma to separate address"
+#~ msgstr ""
+#~ "Если e-mail получателей больше чем один, то укажите необходимые через "
+#~ "запятую"
+
+#~ msgid "E-mail text"
+#~ msgstr "Текст сообщения"
+
+#~ msgid "SMS gates settings"
+#~ msgstr "Настройки SMS гейтов"
+
+#~ msgid "Send SMS when paying through merchant?"
+#~ msgstr "Отправлять SMS при оплате через мерчант?"
+
+#~ msgid "Send SMS when manual notification of payment?"
+#~ msgstr "Отправлять SMS при ручном уведомлении об оплате?"
+
+#~ msgid "Text SMS"
+#~ msgstr "Текст SMS"
+
+#~ msgid "Send SMS when auto payment was made?"
+#~ msgstr "Отправлять SMS при совершение автовыплаты?"
+
+#~ msgid "Accounts verification checker settings"
+#~ msgstr "Настройки чекера верификации кошельков"
+
+#~ msgid "Work with merchants"
+#~ msgstr "Работать с мерчантами"
+
+#~ msgid "Merchants"
+#~ msgstr "Мерчанты"
+
+#~ msgid "Merchants settings"
+#~ msgstr "Настройки мерчантов"
+
+#~ msgid "Auto payouts"
+#~ msgstr "Авто выплаты"
+
+#~ msgid "Auto payouts settings"
+#~ msgstr "Настройки авто выплат"
+
+#~ msgid "SMS gates"
+#~ msgstr "SMS гейты"
+
+#~ msgid "Accounts verification checker"
+#~ msgstr "Чекер верификации кошельков"
+
+#~ msgid "Instruction"
+#~ msgstr "Инструкция"
+
+#~ msgid "Payment sum"
+#~ msgstr "Сумма платежа"
+
+#~ msgid "Currency name Give"
+#~ msgstr "Имя валюты Отдаю"
+
+#~ msgid "Currency name Get"
+#~ msgstr "Имя валюты Получаю"
+
+#~ msgid "User name"
+#~ msgstr "Имя пользователя"
+
+#~ msgid "User email"
+#~ msgstr "E-mail пользователя"
+
+#~ msgid "Note for payment"
+#~ msgstr "Примечание для платежа"
+
+#~ msgid "Checking account number from which payment is actually made"
+#~ msgstr "Проверка номера счета с которого реально была сделана оплата"
+
+#~ msgid "Type"
+#~ msgstr "Тип"
+
+#~ msgid "Standart merchant fee"
+#~ msgstr "Стандартная комиссия мерчанта"
+
+#~ msgid "Not standart merchant fee"
+#~ msgstr "Нестандартная комиссия мерчанта"
+
+#~ msgid ""
+#~ "Set \"Not standart merchant fee\" if a payment system takes a fee for "
+#~ "incoming payment. In other case set \"Standart merchant fee\"."
+#~ msgstr ""
+#~ "Выберите \"Нестандартная комиссия мерчанта\" если платежная система берет "
+#~ "комиссию за входящий платеж. В других случаях выберите \"Стандартная "
+#~ "комиссия мерчанта\""
+
+#~ msgid ""
+#~ "Do not use auto payouts unnecessarily. Developer is not responsible for "
+#~ "the safety of money on your accounts. More details <a href=\"%s\">here</"
+#~ "a>."
+#~ msgstr ""
+#~ "Не используйте авто выплаты без острой необходимости. Разработчик "
+#~ "программного обеспечения не несет ответственности за сохранность денежных "
+#~ "средств на ваших счетах. Подробнее читайте <a href=\"%s\">тут</a>."
+
+#~ msgid "Auto payout without confirmation of operator"
+#~ msgstr "Авто выплата без подтверждения оператора"
+
+#~ msgid "Auto payout if bid paid from another purse"
+#~ msgstr "Авто выплата если заявка оплачена с другого кошелька"
+
+#~ msgid "Button for manual payout in bid"
+#~ msgstr "Кнопка для ручной выплаты в заявке"
+
+#~ msgid "Max. sum for auto payouts in day"
+#~ msgstr "Макс. сумма для авто выплаты в день"
+
+#~ msgid "You have refused payment"
+#~ msgstr "Вы отказались от оплаты"
+
+#~ msgid "You have successfully paid"
+#~ msgstr "Вы успешно оплатили заявку"
+
+#~ msgid "active merchant"
+#~ msgstr "активный мерчант"
+
+#~ msgid "not active merchant"
+#~ msgstr "не активный мерчант"
+
+#~ msgid "Version"
+#~ msgstr "Версия"
+
+#~ msgid "Disabled"
+#~ msgstr "Отключен"
+
+#~ msgid "Enabled"
+#~ msgstr "Включен"
+
+#~ msgid "Deactivate"
+#~ msgstr "Деактивировать"
+
+#~ msgid "Activate"
+#~ msgstr "Активировать"
+
+#~ msgid "Title"
+#~ msgstr "Заголовок"
+
+#~ msgid "Merchant description"
+#~ msgstr "Описание мерчанта"
+
+#~ msgid "active payout"
+#~ msgstr "активная авто выплата"
+
+#~ msgid "not active payout"
+#~ msgstr "не активная авто выплата"
+
+#~ msgid "Payout description"
+#~ msgstr "Описание авто выплаты"
+
+#~ msgid "active SMS gate"
+#~ msgstr "активный SMS гейт"
+
+#~ msgid "not active SMS gate"
+#~ msgstr "не активный SMS гейт"
+
+#~ msgid "SMS gate description"
+#~ msgstr "Описание SMS гейта"
+
+#~ msgid "Received payment ID %s"
+#~ msgstr "Получена оплата по заявке id %s"
+
+#~ msgid "Auto payouts ID %s"
+#~ msgstr "Автовыплата ID %s"
+
+#~ msgid "Exchange %1$s to %2$s"
+#~ msgstr "Обмен %1$s на %2$s"
+
+#~ msgid "Back to page of bid"
+#~ msgstr "Вернуться на страницу заявки"
+
+#~ msgid "active checkers"
+#~ msgstr "активный чекер"
+
+#~ msgid "not active checkers"
+#~ msgstr "не активный чекер"
+
+#~ msgid "Checker description"
+#~ msgstr "Описание чекера"
+
+#~ msgid "Migration"
+#~ msgstr "Миграция"
+
+#~ msgid "Migration (if version is less than %s)"
+#~ msgstr "Миграция (если версия меньше чем %s)"
+
+#~ msgid "Step %s"
+#~ msgstr "Шаг %s"
+
+#~ msgid "Found: %1s %2s %3s requests"
+#~ msgstr "Найдено: %1s %2s %3s запросов"
+
+#~ msgid "Perform"
+#~ msgstr "Выполнять по"
+
+#~ msgid "Start"
+#~ msgstr "Начать"
+
+#~ msgid "we determine the number of requests"
+#~ msgstr "определяем кол-во запросов"
+
+#~ msgid "number of requests defined"
+#~ msgstr "кол-во запросов определено"
+
+#~ msgid "completed %now% of %max% steps"
+#~ msgstr "выполнен %now% из %max% шагов"
+
+#~ msgid "step %now% is successful"
+#~ msgstr "шаг %now% успешен"
+
+#~ msgid "action is completed"
+#~ msgstr "действие выполнено"
+
+#~ msgid "Ok!"
+#~ msgstr "Ок!"
+
+#~ msgid "Modules"
+#~ msgstr "Модули"
+
+#~ msgid "active moduls"
+#~ msgstr "активные"
+
+#~ msgid "not active moduls"
+#~ msgstr "не активные"
+
+#~ msgid "All categories"
+#~ msgstr "Все категории"
+
+#~ msgid "Edit exchange direction"
+#~ msgstr "Редактировать направление обмена"
+
+#~ msgid "Add exchange direction"
+#~ msgstr "Добавить направление обмена"
+
+#~ msgid "Copy direction exchange"
+#~ msgstr "Копировать направление обмена"
+
+#~ msgid "General settings"
+#~ msgstr "Основные настройки"
+
+#~ msgid "Payment systems fees"
+#~ msgstr "Комиссии платежных систем"
+
+#~ msgid "Exchange office fees"
+#~ msgstr "Комиссии обменного пункта"
+
+#~ msgid "Exchange amounts"
+#~ msgstr "Сумма обменов"
+
+#~ msgid "Customer information"
+#~ msgstr "Информация для пользователя"
+
+#~ msgid "Limitations and checking"
+#~ msgstr "Ограничения и проверки"
+
+#~ msgid "SEO"
+#~ msgstr "SEO"
+
+#~ msgid "Merchants and payouts"
+#~ msgstr "Мерчанты и выплаты"
+
+#~ msgid "Direction"
+#~ msgstr "Направление"
+
+#~ msgid "Permalink"
+#~ msgstr "Постоянная ссылка"
+
+#~ msgid ""
+#~ "Permanent link for exchange direction: http://site.ru/"
+#~ "exchange_PERMANENTLINK"
+#~ msgstr ""
+#~ "Постоянная ссылка для направления обмена: http://site.ru/"
+#~ "exchange_ПОСТОЯННАЯССЫЛКА"
+
+#~ msgid "Active direction"
+#~ msgstr "Активно"
+
+#~ msgid "Not active direction"
+#~ msgstr "Не активно"
+
+#~ msgid ""
+#~ "Enter amount of profit for this direction. Profit may be set to any "
+#~ "number (S), or in percent (%). This value is used for the affiliate "
+#~ "program."
+#~ msgstr ""
+#~ "Введите значение прибыли для этого направления. Прибыль может установлена "
+#~ "как числа (S) или как процент (%). Это величина используется для "
+#~ "партнерской программы."
+
+#~ msgid "User &rarr; Exchanger"
+#~ msgstr "Юзер &rarr; Обменник"
+
+#~ msgid "Exchanger &rarr; User"
+#~ msgstr "Обменник &rarr; Юзер"
+
+#~ msgid "Fees for not verified account"
+#~ msgstr "Комиссии для не верифицированного кошелька"
+
+#~ msgid "Fees for verified account"
+#~ msgstr "Комиссии для верифицированного кошелька"
+
+#~ msgid "exchanger pays fee"
+#~ msgstr "обменник платит комиссию"
+
+#~ msgid "Check this box if you pay a payment system fee instead of client."
+#~ msgstr ""
+#~ "Поставьте галочку, если вы оплачиваете комиссию платежной системы вместо "
+#~ "клиента."
+
+#~ msgid "no standard fee"
+#~ msgstr "нестандартная комиссия"
+
+#~ msgid "Check this box if a payment system takes a fee for incoming payment."
+#~ msgstr ""
+#~ "Поставьте галочку если, платежная система берет комиссию за входящий "
+#~ "платеж."
+
+#~ msgid "Min. amount of fee"
+#~ msgstr "Мин. сумма комиссии"
+
+#~ msgid "Max. amount of fee"
+#~ msgstr "Мак. сумма комиссии"
+
+#~ msgid "Additional fee from sender"
+#~ msgstr "Дополнительная комисся с отправителя"
+
+#~ msgid "Minimum fee from sender"
+#~ msgstr "Минимальная комиссия с отправителя"
+
+#~ msgid "Additional fee from recipient"
+#~ msgstr "Дополнительная комисся с получателя"
+
+#~ msgid "Minimum fee from recipient"
+#~ msgstr "Минимальная комиссия с получателя"
+
+#~ msgid "Minimum amount"
+#~ msgstr "Минимальная сумма"
+
+#~ msgid "Maximum amount"
+#~ msgstr "Максимальная сумма"
+
+#~ msgid "Member discount"
+#~ msgstr "Скидка для пользователей"
+
+#~ msgid "Max. member discount"
+#~ msgstr "Максимальная скидка"
+
+#~ msgid "Checking account for verification in PS"
+#~ msgstr "Проверка кошелька на верификацию в ПС"
+
+#~ msgid "Account Give and Get"
+#~ msgstr "Счета Отдаю и Получаю"
+
+#~ msgid "Required account verification in PS"
+#~ msgstr "Требовать наличие верифицированного кошелька в ПС"
+
+#~ msgid "Check/Uncheck all"
+#~ msgstr "Выбрать/Снять все"
+
+#~ msgid "Check box E-mail. It is necessary for user e-mail notification"
+#~ msgstr ""
+#~ "Отметьте галочкой параметр E-mail. Это необходимо для уведомления "
+#~ "пользователей по e-mail"
+
+#~ msgid "Exchange title (for H1)"
+#~ msgstr "Название обмена (для H1)"
+
+#~ msgid "Page title"
+#~ msgstr "Title"
+
+#~ msgid "Page keywords"
+#~ msgstr "Keywords"
+
+#~ msgid "Page description"
+#~ msgstr "Description"
+
+#~ msgid "OGP title"
+#~ msgstr "OGP title"
+
+#~ msgid "OGP description"
+#~ msgstr "OGP description"
+
+#~ msgid "Merchant"
+#~ msgstr "Мерчант"
+
+#~ msgid "Error! give may not be getting the same!"
+#~ msgstr "Ошибка! Валюты отдаете и получаете не могут быть одинаковыми!"
+
+#~ msgid "Error! You give currency does not exist!"
+#~ msgstr "Ошибка! Валюта отдаете не существует!"
+
+#~ msgid "Error! You get currency does not exist!"
+#~ msgstr "Ошибка! Валюта получаете не существует!"
+
+#~ msgid "Error! Exchange rate have to be greater than 0!"
+#~ msgstr "Ошибка! Курс обмена должен быть больше нуля!"
+
+#~ msgid "Error! Folder <b>%s</b> is missing or can not be written!"
+#~ msgstr ""
+#~ "Ошибка! Директория <b>%s</b> не существует или не может быть записана. "
+#~ "Создайте директорию или установите права 777."
+
+#~ msgid "Deleting technical exchange directions"
+#~ msgstr "Удаление технический направлений обмена"
+
+#~ msgid "Exchange directions"
+#~ msgstr "Направления обменов"
+
+#~ msgid "Exchange directions templates"
+#~ msgstr "Шаблоны направлений обмена"
+
+#~ msgid "Sort exchange directions for tariffs"
+#~ msgstr "Сортировка направлений обмена для тарифов"
+
+#~ msgid "Sort exchange directions for exchange table %s"
+#~ msgstr "Сортировка направлений обмена для таблицы обмена № %s"
+
+#~ msgid "Work with exchange directions"
+#~ msgstr "Работа с направлениями обмена"
+
+#~ msgid "Payment amount"
+#~ msgstr "Сумма платежа"
+
+#~ msgid "Links to files with rates"
+#~ msgstr "Ссылки на файлы с курсами"
+
+#~ msgid "active directions"
+#~ msgstr "активные"
+
+#~ msgid "not active directions"
+#~ msgstr "не активные"
+
+#~ msgid "Copy"
+#~ msgstr "Копировать"
+
+#~ msgid "not active direction"
+#~ msgstr "не активно"
+
+#~ msgid "active direction"
+#~ msgstr "активно"
+
+#~ msgid "ID"
+#~ msgstr "ID"
+
+#~ msgid "Exchange rate 1"
+#~ msgstr "Курс обмена 1"
+
+#~ msgid "Exchange rate 2"
+#~ msgstr "Курс обмена 2"
+
+#~ msgid "Auto payout"
+#~ msgstr "Авто выплаты"
+
+#~ msgid "Copy exchange direction"
+#~ msgstr "Копировать направление обмена"
+
+#~ msgid "Sort exchange directions"
+#~ msgstr "Сортировка направлений обмена"
+
+#~ msgid "Left column"
+#~ msgstr "Левая колонка"
+
+#~ msgid "Right column"
+#~ msgstr "Правая колонка"
+
+#~ msgid "Page does not exist"
+#~ msgstr "Страница не существует"
+
+#~ msgid "Edit schedule"
+#~ msgstr "Редактировать расписание"
+
+#~ msgid "Add schedule"
+#~ msgstr "Добавить расписание"
+
+#~ msgid "monday"
+#~ msgstr "понедельник"
+
+#~ msgid "tuesday"
+#~ msgstr "вторник"
+
+#~ msgid "wednesday"
+#~ msgstr "среда"
+
+#~ msgid "thursday"
+#~ msgstr "четверг"
+
+#~ msgid "friday"
+#~ msgstr "пятница"
+
+#~ msgid "saturday"
+#~ msgstr "суббота"
+
+#~ msgid "sunday"
+#~ msgstr "воскресенье"
+
+#~ msgid "Work time"
+#~ msgstr "Рабочее время"
+
+#~ msgid "Work days"
+#~ msgstr "Рабочие дни"
+
+#~ msgid "offline"
+#~ msgstr "offline"
+
+#~ msgid "online"
+#~ msgstr "online"
+
+#~ msgid "Work status"
+#~ msgstr "Статус работы"
+
+#~ msgid "Operator schedule"
+#~ msgstr "Расписание оператора"
+
+#~ msgid "Status work"
+#~ msgstr "Статус работы"
+
+#~ msgid "Schedules"
+#~ msgstr "Расписания"
+
+#~ msgid "Principle of determining work status"
+#~ msgstr "Принцип определения статуса работы"
+
+#~ msgid "Manually"
+#~ msgstr "Вручную"
+
+#~ msgid "Automatically"
+#~ msgstr "Автоматически"
+
+#~ msgid "Schedule"
+#~ msgstr "Расписание"
+
+#~ msgid "Text"
+#~ msgstr "Текст"
+
+#~ msgid "Operator button"
+#~ msgstr "Кнопка оператора"
+
+#~ msgid "Hide button"
+#~ msgstr "Скрыть кнопку"
+
+#~ msgid "Show button"
+#~ msgstr "Показать кнопку"
+
+#~ msgid "Button position"
+#~ msgstr "Положение кнопки"
+
+#~ msgid "left"
+#~ msgstr "Слева"
+
+#~ msgid "right"
+#~ msgstr "Справа"
+
+#~ msgid "Manual mode settings"
+#~ msgstr "Настройки ручного режима"
+
+#~ msgid "Auto mode settings"
+#~ msgstr "Настройки автоматического режима"
+
+#~ msgid "Operator logged in"
+#~ msgstr "Оператор залогинен"
+
+#~ msgid "Operator logged out"
+#~ msgstr "Оператор разлогинен"
+
+#~ msgid "Schedule settings"
+#~ msgstr "Настройки расписания"
+
+#~ msgid "Default status"
+#~ msgstr "Статус по умолчанию"
+
+#~ msgid "Rates parser"
+#~ msgstr "Парсер курсов ЦБ"
+
+#~ msgid "Parsers"
+#~ msgstr "Парсеры"
+
+#~ msgid "Rates"
+#~ msgstr "Курсы"
+
+#~ msgid "Work"
+#~ msgstr "Работа"
+
+#~ msgid "BSTAMP"
+#~ msgstr "BSTAMP"
+
+#~ msgid "BTC-E"
+#~ msgstr "BTC-E"
+
+#~ msgid "Done"
+#~ msgstr "Выполнено"
+
+#~ msgid "Cron function does not exist"
+#~ msgstr "Крон функция не существует"
+
+#~ msgid "Special file for update rates"
+#~ msgstr "Специальный файл для обновления курсов ЦБ"
+
+#~ msgid "Last update"
+#~ msgstr "Последнее обновление"
+
+#~ msgid "enabled parser"
+#~ msgstr "включить парсер"
+
+#~ msgid "Edit partners"
+#~ msgstr "Редактировать партнера"
+
+#~ msgid "Add partners"
+#~ msgstr "Добавить партнера"
+
+#~ msgid "Logo"
+#~ msgstr "Логотип"
+
+#~ msgid "Partners"
+#~ msgstr "Партнеры"
+
+#~ msgid "Sort partners"
+#~ msgstr "Сортировка партнеров"
+
+#~ msgid "Edit payment system"
+#~ msgstr "Редактировать платежную систему"
+
+#~ msgid "Add payment system"
+#~ msgstr "Добавить платежную систему"
+
+#~ msgid "PS title"
+#~ msgstr "Название ПС"
+
+#~ msgid "Error! You have not entered the name!"
+#~ msgstr "Ошибка! Вы не ввели название"
+
+#~ msgid "Error! this type of exchange already exists!"
+#~ msgstr "Ошибка! Такой тип валюты уже существует"
+
+#~ msgid "Payment systems"
+#~ msgstr "Платежные системы"
+
+#~ msgid "Work with payment systems"
+#~ msgstr "Работа с платежными системами"
+
+#~ msgid "Edit reserve transaction"
+#~ msgstr "Редактировать транзакцию"
+
+#~ msgid "Add reserve transaction"
+#~ msgstr "Добавить транзакцию"
+
+#~ msgid "Comment"
+#~ msgstr "Комментарий"
+
+#~ msgid "Adjustment reserve"
+#~ msgstr "Корректировка резерва"
+
+#~ msgid "Work with adjustment reserve"
+#~ msgstr "Работа с корректировкой резерва"
+
+#~ msgid "received"
+#~ msgstr "получено"
+
+#~ msgid "sent"
+#~ msgstr "отправлено"
+
+#~ msgid "Date of creation"
+#~ msgstr "Дата создания"
+
+#~ msgid "Created by"
+#~ msgstr "Создал"
+
+#~ msgid "Date of editing"
+#~ msgstr "Дата редактирования"
+
+#~ msgid "Edited by"
+#~ msgstr "Отредактировал"
+
+#~ msgid "Reserve settings"
+#~ msgstr "Настройки резерва"
+
+#~ msgid "Change reserve Give when bid has status"
+#~ msgstr "Изменять резерв Отдаю, когда заявки имеет статус"
+
+#~ msgid "Change reserve Get when bid has status"
+#~ msgstr "Изменять резерв Получаю, когда заявки имеет статус"
+
+#~ msgid "Edit review"
+#~ msgstr "Редактировать отзыв"
+
+#~ msgid "Add review"
+#~ msgstr "Добавить отзыв"
+
+#~ msgid "Publication date"
+#~ msgstr "Дата публикации"
+
+#~ msgid "Website"
+#~ msgstr "Сайт"
+
+#~ msgid "published review"
+#~ msgstr "опубликованный отзыв"
+
+#~ msgid "moderation review"
+#~ msgstr "отзыв на модерации"
+
+#~ msgid "Amount on page"
+#~ msgstr "Количество на странице"
+
+#~ msgid "Display reviews"
+#~ msgstr "Выводить отзывы"
+
+#~ msgid "by language"
+#~ msgstr "по языку"
+
+#~ msgid "Method of adding"
+#~ msgstr "Метод добавления"
+
+#~ msgid "Forbidden to add"
+#~ msgstr "Запрещено добавлять"
+
+#~ msgid "E-mail confirmation"
+#~ msgstr "Подтверждение по e-mail"
+
+#~ msgid "Moderation admin"
+#~ msgstr "Модерация админом"
+
+#~ msgid "Without moderation"
+#~ msgstr "Без модерации"
+
+#~ msgid "Website field"
+#~ msgstr "Включить поле \"Сайт\""
+
+#~ msgid "Reviews"
+#~ msgstr "Отзывы"
+
+#~ msgid "Work with reviews"
+#~ msgstr "Работа с отзывами"
+
+#~ msgid "New review"
+#~ msgstr "Новый отзыв"
+
+#~ msgid "Confirmation review"
+#~ msgstr "Подтверждение отзыва"
+
+#~ msgid "Management review"
+#~ msgstr "Управление отзывом"
+
+#~ msgid "Status review"
+#~ msgstr "Статус"
+
+#~ msgid "Link confirm"
+#~ msgstr "Ссылка подтверждения"
+
+#~ msgid "moderation"
+#~ msgstr "на модерации"
+
+#~ msgid "published"
+#~ msgstr "опубликован"
+
+#~ msgid "Unapproved reviews (%s)"
+#~ msgstr "Есть неодобренные отзывы (%s)"
+
+#~ msgid "published reviews"
+#~ msgstr "опубликованные"
+
+#~ msgid "moderation reviews"
+#~ msgstr "на модерации"
+
+#~ msgid "Approve"
+#~ msgstr "Одобрить"
+
+#~ msgid "Unapprove"
+#~ msgstr "Отклонить"
+
+#~ msgid "Manager"
+#~ msgstr "Менеджер"
+
+#~ msgid "Operator"
+#~ msgstr "Оператор"
+
+#~ msgid "Access to admin panel"
+#~ msgstr "Доступ в админ панель"
+
+#~ msgid "Switch themes"
+#~ msgstr "Переключать темы"
+
+#~ msgid "Edit theme options"
+#~ msgstr "Редактировать настройки темы"
+
+#~ msgid "Activate plugins"
+#~ msgstr "Активировать плагины"
+
+#~ msgid "Users list"
+#~ msgstr "Список пользователей"
+
+#~ msgid "Edit users"
+#~ msgstr "Редактирование пользователей"
+
+#~ msgid "Upload files"
+#~ msgstr "Загрузка файлов"
+
+#~ msgid "Edit files"
+#~ msgstr "Редактирование файлов"
+
+#~ msgid "Unfiltered upload"
+#~ msgstr "Нефильтровнная загрузка файлов"
+
+#~ msgid "Unfiltered html"
+#~ msgstr "Нефильтрованный вод html"
+
+#~ msgid "Edit posts and images"
+#~ msgstr "Редактирование записей и картинок"
+
+#~ msgid "Edit others posts and images"
+#~ msgstr "Редактирование чужих записей и картинок"
+
+#~ msgid "Edit published posts"
+#~ msgstr "Редактирование опубликованных записей"
+
+#~ msgid "Publish posts"
+#~ msgstr "Публикация записей"
+
+#~ msgid "Delete posts"
+#~ msgstr "Удаление записей"
+
+#~ msgid "Delete other posts"
+#~ msgstr "Удаление чужих записей"
+
+#~ msgid "Delete published posts"
+#~ msgstr "Удаление опубликованных записей"
+
+#~ msgid "Edit pages"
+#~ msgstr "Редактирование страниц"
+
+#~ msgid "Edit other pages"
+#~ msgstr "Редактирование чужих страниц"
+
+#~ msgid "Edit published pages"
+#~ msgstr "Редактирование опубликованных страниц"
+
+#~ msgid "Publish pages"
+#~ msgstr "Публикация страниц"
+
+#~ msgid "Delete pages"
+#~ msgstr "Удаление страниц"
+
+#~ msgid "Delete other pages"
+#~ msgstr "Удаление чужих страниц"
+
+#~ msgid "Delete published pages"
+#~ msgstr "Удаление опубликованных страниц"
+
+#~ msgid "User roles"
+#~ msgstr "Роли пользователей"
+
+#~ msgid "Error! There is no role!"
+#~ msgstr "Ошибка! Роль не существует!"
+
+#~ msgid "Work with SEO"
+#~ msgstr "Работать с SEO"
+
+#~ msgid "XML sitemap settings"
+#~ msgstr "Настройки XML карты сайта"
+
+#~ msgid "Robots.txt settings"
+#~ msgstr "Настройки robots.txt"
+
+#~ msgid "Seo"
+#~ msgstr "Seo"
+
+#~ msgid "Settings Robots.txt"
+#~ msgstr "Настройки robots.txt"
+
+#~ msgid "Home page"
+#~ msgstr "Главная страница"
+
+#~ msgid "OGP image"
+#~ msgstr "OGP image"
+
+#~ msgid "News"
+#~ msgstr "Новости"
+
+#~ msgid "News title template"
+#~ msgstr "Шаблон заголовка новостей"
+
+#~ msgid "Template"
+#~ msgstr "Шаблон"
+
+#~ msgid "Pages title template"
+#~ msgstr "Шаблон заголовка страниц"
+
+#~ msgid "Exchange page title template (for title)"
+#~ msgstr "Шаблон заголовка обменов (для title)"
+
+#~ msgid "Currency title 1"
+#~ msgstr "Название валюты 1"
+
+#~ msgid "Currency title 2"
+#~ msgstr "Название валюты 2"
+
+#~ msgid "Exchange page title template (for H1)"
+#~ msgstr "Шаблон заголовка обменов (для H1)"
+
+#~ msgid "Settings XML sitemap"
+#~ msgstr "Настройки XML карты сайта"
+
+#~ msgid "Images"
+#~ msgstr "Изображения"
+
+#~ msgid "Favicon"
+#~ msgstr "Иконка сайта"
+
+#~ msgid "Text in logo"
+#~ msgstr "Текст в логотипе"
+
+#~ msgid "TXT and XML export settings"
+#~ msgstr "Настройки TXT и XML экспорта"
+
+#~ msgid "TXT file?"
+#~ msgstr "TXT файл"
+
+#~ msgid "Number of characters in TXT file"
+#~ msgstr "Кол-во знаков в TXT файле"
+
+#~ msgid "XML file?"
+#~ msgstr "XML файл"
+
+#~ msgid "Number of characters in XML file"
+#~ msgstr "Кол-во знаков в XML файле"
+
+#~ msgid "XML course file"
+#~ msgstr "XML-файл курсов"
+
+#~ msgid "TXT course file"
+#~ msgstr "TXT-файл курсов"
+
+#~ msgid "Maintenance"
+#~ msgstr "Техническое обслуживание"
+
+#~ msgid "Export file disable"
+#~ msgstr "Файл курсов отключен"
+
+#~ msgid "Updates"
+#~ msgstr "Обновления"
+
+#~ msgid "No update"
+#~ msgstr "Обновлений нет"
+
+#~ msgid "Update is available"
+#~ msgstr "Доступно обновление"
+
+#~ msgid "Check updates"
+#~ msgstr "Проверка обновлений"
+
+#~ msgid "Comment to user"
+#~ msgstr "Комментарий для пользователя"
+
+#~ msgid "Error! Not specified id"
+#~ msgstr "Ошибка! Не указан id"
+
+#~ msgid "User information"
+#~ msgstr "Информация о пользователе"
+
+#~ msgid "Personal discount"
+#~ msgstr "Персональная скидка"
+
+#~ msgid "User exchanges"
+#~ msgstr "Обмены пользователя"
+
+#~ msgid "Ban"
+#~ msgstr "Бан"
+
+#~ msgid "not banned"
+#~ msgstr "не заблокирован"
+
+#~ msgid "banned"
+#~ msgstr "заблокирован"
+
+#~ msgid "Security settings"
+#~ msgstr "Настройки безопаности"
+
+#~ msgid "Recover password"
+#~ msgstr "Восстановление пароля"
+
+#~ msgid "Log in notification by e-mail"
+#~ msgstr "Уведомление на e-mail при авторизации"
+
+#~ msgid "Username"
+#~ msgstr "Логин"
+
+#~ msgid "Register date"
+#~ msgstr "Дата регистрации"
+
+#~ msgid "Role"
+#~ msgstr "Роль"
+
+#~ msgid "Control panel"
+#~ msgstr "Админ-панель"
+
+#~ msgid "Users in admin panel"
+#~ msgstr "Пользователи в админ-панели"
+
+#~ msgid "Edit user account"
+#~ msgstr "Редактировать счет"
+
+#~ msgid "Add user account"
+#~ msgstr "Добавить счет"
+
+#~ msgid "Account number"
+#~ msgstr "Номер счета"
+
+#~ msgid "Verify status"
+#~ msgstr "Статус"
+
+#~ msgid "Unverified account"
+#~ msgstr "Неверифицированный"
+
+#~ msgid "Verified account"
+#~ msgstr "Верифицированный аккаунт"
+
+#~ msgid "Error! Currency does not exist or disabled"
+#~ msgstr "Ошибка! Валюта не существует либо отключена"
+
+#~ msgid "User accounts"
+#~ msgstr "Счета пользователей"
+
+#~ msgid "Work with user accounts"
+#~ msgstr "Работа со счетами пользователей"
+
+#~ msgid "Verified accounts"
+#~ msgstr "Верифицированные счета"
+
+#~ msgid "Unverified accounts"
+#~ msgstr "Не верифицированные счета"
+
+#~ msgid "Verified"
+#~ msgstr "Верифицирован"
+
+#~ msgid "Unverified"
+#~ msgstr "Не верифицирован"
+
+#~ msgid "PS"
+#~ msgstr "ПС"
+
+#~ msgid "Edit currency"
+#~ msgstr "Редактировать валюту"
+
+#~ msgid "Add currency"
+#~ msgstr "Добавить валюту"
+
+#~ msgid "calculate by bids"
+#~ msgstr "вычислять по заявкам"
+
+#~ msgid "Currency code"
+#~ msgstr "Код валюты"
+
+#~ msgid "Name for XML"
+#~ msgstr "Обозначение для XML"
+
+#~ msgid "Allowed symbols: a-z, A-Z, 0-9_, min.: %1$s , max.: %2$s symbols"
+#~ msgstr ""
+#~ "Разрешенные символы: a-z, A-Z, 0-9,  min.: %1$s , max.: %2$s символов"
+
+#~ msgid ""
+#~ "Enter the name according to the standard: <a href=\"%s\">Estandards.ru</"
+#~ "a>."
+#~ msgstr ""
+#~ "Вводите обозначение согласно стандарту: <a href=\"%s\">Estandards.ru</a>."
+
+#~ msgid "Convert to"
+#~ msgstr "Преобразовать к"
+
+#~ msgid "Decimal places"
+#~ msgstr "Знаков, после запятой"
+
+#~ msgid "Reserve currency"
+#~ msgstr "Резерв валют"
+
+#~ msgid "Text indicating the verified purse"
+#~ msgstr "Текст обозначающий верифицированный кошелек"
+
+#~ msgid "Field title \"From account\""
+#~ msgstr "Название поля \"Со счета\""
+
+#~ msgid "Show field \"From account\"?"
+#~ msgstr "Выводить поле \"Со счета\"?"
+
+#~ msgid "Field title \"To account\""
+#~ msgstr "Название поля \"На счет\""
+
+#~ msgid "Show filed \"To account\"?"
+#~ msgstr "Выводить поле \"На счет\"?"
+
+#~ msgid ""
+#~ "Checking the first symbols of the client to enter your account number. "
+#~ "For example, for the purse WebMoney Z as the first symbol can be set Z."
+#~ msgstr ""
+#~ "Проверка первых символов счета, который вводит клиент. Например, для "
+#~ "кошелька Webmoney Z, первым символом может быть буква Z."
+
+#~ msgid "Allowed symbols"
+#~ msgstr "Разрешенные символы"
+
+#~ msgid "Numbers and letters"
+#~ msgstr "Цифры и буквы"
+
+#~ msgid "Numbers"
+#~ msgstr "Цифры"
+
+#~ msgid "Letters"
+#~ msgstr "Буквы"
+
+#~ msgid "Any symbols"
+#~ msgstr "Любые символы"
+
+#~ msgid "Account type"
+#~ msgstr "Тип"
+
+#~ msgid "Currency account"
+#~ msgstr "Счет"
+
+#~ msgid "Bank card"
+#~ msgstr "Банковская карта"
+
+#~ msgid "Active currency"
+#~ msgstr "Активная валюта"
+
+#~ msgid "Not active currency"
+#~ msgstr "Не активная валюта"
+
+#~ msgid ""
+#~ "Caution! After addition of the currency it is necessary to set a <a href="
+#~ "\"%s\">reserve</a>."
+#~ msgstr ""
+#~ "Внимание! После добавления валюты, для неё необходимо задать <a href=\"%s"
+#~ "\">резерв</a>."
+
+#~ msgid "Currency"
+#~ msgstr "Валюты"
+
+#~ msgid "Sort for reserve"
+#~ msgstr "Сортировка для резерва"
+
+#~ msgid "Work with currencies"
+#~ msgstr "Работа с валютами"
+
+#~ msgid "active currencies"
+#~ msgstr "активные валюты"
+
+#~ msgid "not active currencies"
+#~ msgstr "не активные валюты"
+
+#~ msgid "Update"
+#~ msgstr "Обновить"
+
+#~ msgid "not active currency"
+#~ msgstr "не активная валюта"
+
+#~ msgid "active currency"
+#~ msgstr "активная валюта"
+
+#~ msgid "Received"
+#~ msgstr "Получено"
+
+#~ msgid "Sent"
+#~ msgstr "Отправлено"
+
+#~ msgid "All codes"
+#~ msgstr "Все коды"
+
+#~ msgid "All payment systems"
+#~ msgstr "Все платежные системы"
+
+#~ msgid "Edit currency code"
+#~ msgstr "Редактировать код валюты"
+
+#~ msgid "Add currency code"
+#~ msgstr "Добавить код валюты"
+
+#~ msgid "Internal rate"
+#~ msgstr "Внутренний курс"
+
+#~ msgid "Automatic change of rate"
+#~ msgstr "Автокорректировка курса"
+
+#~ msgid "Add to rate"
+#~ msgstr "Прибавляем к курс"
+
+#~ msgid "Currency codes"
+#~ msgstr "Коды валют"
+
+#~ msgid "Work with currency codes"
+#~ msgstr "Работа с кодами валют"
+
+#~ msgid "Reserve value"
+#~ msgstr "Резерв по значению"
+
+#~ msgid "Auto adjust course"
+#~ msgstr "Автокорректировка курса"
+
+#~ msgid "Requests reserve"
+#~ msgstr "Запросы резерва"
+
+#~ msgid "Work with requests reserve"
+#~ msgstr "Работа с запросами резерва"
+
+#~ msgid "Reserve request"
+#~ msgstr "Запрос резерва"
+
+#~ msgid "Sum reserve"
+#~ msgstr "Сумма резерва"
+
+#~ msgid "Ordered sum"
+#~ msgstr "Заказанная сумма"
+
+#~ msgid "Reserve requests (%s)"
+#~ msgstr "Запросы резерва (%s)"
+
+#~ msgid "All directions"
+#~ msgstr "Все направления"
+
+#~ msgid "Submit request"
+#~ msgstr "Отправить запрос"
+
+#~ msgid "Request to reserve"
+#~ msgstr "Запрос резерва"
+
+#~ msgid "Request has been successfully created"
+#~ msgstr "Запрос успешно создан"
+
+#~ msgid "Error! Direction does not exist"
+#~ msgstr "Ошибка! Направления не существует"
+
+#~ msgid "Error! You have not entered e-mail"
+#~ msgstr "Ошибка! Вы не ввели e-mail"
+
+#~ msgid "Error! Requested amount is less than zero"
+#~ msgstr "Ошибка! Запрашиваемая сумма меньше нуля"
+
+#~ msgid "Choose or upload file"
+#~ msgstr "Выберите или загрузите файл"
+
+#~ msgid "Insert file into the field"
+#~ msgstr "Вставьте файл в поле"
+
+#~ msgid "Theme settings"
+#~ msgstr "Настройки темы"
+
+#~ msgid ""
+#~ "%1$s is <strong>deprecated</strong> since version %2$s! Use %3$s instead."
+#~ msgstr "%1$s <strong>устарела</strong> с версии %2$s! Используйте %3$s"
+
+#~ msgid ""
+#~ "%1$s is <strong>deprecated</strong> since version %2$s with no "
+#~ "alternative available."
+#~ msgstr "%1$s <strong>устарела</strong> с версии %2$s! Альтернативы нет."
+
+#~ msgid "The name is how it appears on your site."
+#~ msgstr "The name is how it appears on your site."
+
+#~ msgid ""
+#~ "The description is not prominent by default; however, some themes may "
+#~ "show it."
+#~ msgstr ""
+#~ "The description is not prominent by default; however, some themes may "
+#~ "show it."
+
+#~ msgid "Enter title here"
+#~ msgstr "Enter title here"
+
+#~ msgid "Excerpt"
+#~ msgstr "Excerpt"
+
+#~ msgid "Required amount"
+#~ msgstr "Необходимая сумма"
+
+#~ msgid "Your name"
+#~ msgstr "Ваше имя"
+
+#~ msgid "Your e-mail"
+#~ msgstr "Ваш e-mail"
+
+#~ msgid "ID exchange"
+#~ msgstr "ID обмена"
+
+#~ msgid "Login or email"
+#~ msgstr "Логин или e-mail"
+
+#~ msgid "Password"
+#~ msgstr "Пароль"
+
+#~ msgid "Login"
+#~ msgstr "Логин"
+
+#~ msgid "Password again"
+#~ msgstr "Пароль снова"
+
+#~ msgid "New password"
+#~ msgstr "Новый пароль"
+
+#~ msgid "New password again"
+#~ msgstr "Новый пароль повторно"
+
+#~ msgid "Review text"
+#~ msgstr "Текст отзыва"
+
+#~ msgid "not determined"
+#~ msgstr "не определено"
+
+#~ msgid "Exchange description"
+#~ msgstr "Описание обмена"
+
+#~ msgid "Deadline for exchange"
+#~ msgstr "Сроки выполнения"
+
+#~ msgid "Payment instruction"
+#~ msgstr "Инструкция по оплате"
+
+#~ msgid "Canceled bid"
+#~ msgstr "Текст для отмененной заявки"
+
+#~ msgid "Marked bid by user as paid"
+#~ msgstr "Текст для заявки, отмеченная пользователем, как оплаченная"
+
+#~ msgid "Paid bid"
+#~ msgstr "Текст для оплаченной заявки"
+
+#~ msgid "Paid bid from another purse"
+#~ msgstr "Текст для оплаченной заявки с другого кошелька"
+
+#~ msgid "Success bid"
+#~ msgstr "Текст для успешной заявки"
+
+#~ msgid "new bid"
+#~ msgstr "новая заявка"
+
+#~ msgid "canceled bid by user"
+#~ msgstr "отмененная пользователем заявка"
+
+#~ msgid "deleted bid"
+#~ msgstr "удаленная заявка"
+
+#~ msgid "when user goes to payment"
+#~ msgstr "когда пользователь перешел к оплате"
+
+#~ msgid "marked bid by user as paid"
+#~ msgstr "отмеченная пользователям заявка как оплаченная"
+
+#~ msgid "waiting for merchant confirmation"
+#~ msgstr "ожидание подтверждения от мерчанта"
+
+#~ msgid "paid bid"
+#~ msgstr "оплаченная заявка"
+
+#~ msgid "bid on checking"
+#~ msgstr "заявка на проверке"
+
+#~ msgid "error bid"
+#~ msgstr "ошибочная заявка"
+
+#~ msgid "waiting for auto pay confirmation"
+#~ msgstr "ожидание подтверждения от модуля автовыплат"
+
+#~ msgid "success bid"
+#~ msgstr "выполненная заявка"
+
+#~ msgid "custom status"
+#~ msgstr "пользовательский статус"
+
+#~ msgid "Including"
+#~ msgstr "С учетом"
+
+#~ msgid "add. service fee"
+#~ msgstr "доп. комиссии сервиса"
+
+#~ msgid "and"
+#~ msgstr "и"
+
+#~ msgid "payment system fee"
+#~ msgstr "комиссии платежной системы"
+
+#~ msgid "you give"
+#~ msgstr "вы отдаете"
+
+#~ msgid "you get"
+#~ msgstr "вы получаете"
+
+#~ msgid "Security check"
+#~ msgstr "Проверка безопасности"
+
+#~ msgid ""
+#~ "There is a dangerous script updater.php in root directory. Delete it."
+#~ msgstr "Опасный скрипт updater.php в корне сайта. Удалите файл."
+
+#~ msgid "There are a dangerous files damp_db.sql in root directory. Delete it"
+#~ msgstr "Опасный файл damp_db.sql в корне сайта. Удалите файл."
+
+#~ msgid "There is a dangerous folder installer in root directory. Delete it."
+#~ msgstr "Опасная папка installer в корне сайта. Удалите папку."
+
+#~ msgid "You use standard login for administrator. Change it."
+#~ msgstr "Вы используете стандартный логин администратора. Измените его."
+
+#~ msgid "You disabled authorization by e-mail."
+#~ msgstr ""
+#~ "Вы отключили авторзацию по e-mail. Настройте соответствующий e-mail "
+#~ "шаблон и включите авторизацию по e-mail в профиле пользователя."
+
+#~ msgid "You use standard password for administrator. Change it."
+#~ msgstr "Вы используете стандартный пароль администратора. Измените его."
+
+#~ msgid "Edit mode enable. Disable it."
+#~ msgstr "Включен режим редактирования. Отключите его."
+
+#~ msgid "Security status - OK"
+#~ msgstr "Статус безопасности - ОК"
+
+#~ msgid "Not config merchant file"
+#~ msgstr "Конфиг файл мерчанта не настроен"
+
+#~ msgid "Go to payment"
+#~ msgstr "Перейти к оплате"
+
+#~ msgid ""
+#~ "For pay bid id <b>%1$s</b> send amount <b>%2$s</b> BTC to address <b>"
+#~ "%3$s</b>"
+#~ msgstr ""
+#~ "Для оплаты заявки id <b>%1$s</b> отправьте сумму <b>%2$s</b> BTC на адрес "
+#~ "<b>%3$s</b>"
+
+#~ msgid ""
+#~ "Bid will change status to \"paid\" when we get <b>%1$s</b> confirmations"
+#~ msgstr ""
+#~ "Заявка изменит свой статус на \"оплачена\" когда мы получим <b>%1$s</b> "
+#~ "подтверждения"
+
+#~ msgid ""
+#~ "For pay bid id <b>%1$s</b> send amount <b>%2$s</b> %4$s to address <b>"
+#~ "%3$s</b>"
+#~ msgstr ""
+#~ "Для оплаты заявки id <b>%1$s</b> отправьте сумму <b>%2$s</b> %4$s на "
+#~ "адрес <b>%3$s</b>"
+
+#~ msgid "Attention! Click \"Check payment\", if you have paid the bid."
+#~ msgstr "Внимание! Нажмите \"Проверить оплату\" если вы оплатили заявку."
+
+#~ msgid "Check payment"
+#~ msgstr "Проверить оплату"
+
+#~ msgid "Error currency type! Only: %s!"
+#~ msgstr "Ошибка типа валюты! Только: %s!"
+
+#~ msgid "Invalid code"
+#~ msgstr "Неверный код"
+
+#~ msgid "Coupon not valid"
+#~ msgstr "Купон недействителен"
+
+#~ msgid "Payment error: invalid code or coupon not valid or invalid amount."
+#~ msgstr ""
+#~ "Ошибка платежа: неверный код или купон недействительный или неверная "
+#~ "сумма."
+
+#~ msgid "Invalid type of coupon"
+#~ msgstr "Неверный типа купона"
+
+#~ msgid "For payment bid id"
+#~ msgstr "Для оплаты заявки id"
+
+#~ msgid "enter coupon code nominal value"
+#~ msgstr "введите код купона номиналом"
+
+#~ msgid "Code"
+#~ msgstr "Код"
+
+#~ msgid "Submit code"
+#~ msgstr "Подтвердить код"
+
+#~ msgid "Not enough money"
+#~ msgstr "Недостаточно денег"
+
+#~ msgid "Domestic account"
+#~ msgstr "Внутренний счет"
+
+#~ msgid "Bid id %s"
+#~ msgstr "Заявка id %s"
+
+#~ msgid "Error API"
+#~ msgstr "Ошибка API"
+
+#~ msgid "Iframe error!"
+#~ msgstr "Iframe ошибка!"
+
+#~ msgid "Error! You can not control bid from another browser"
+#~ msgstr "Ошибка! Вы не можете управлять заявкой с другого браузера"
+
+#~ msgid "Check payment history by API"
+#~ msgstr "Проверять историю платежей по API"
+
+#~ msgid "Amount of payment is less than total bill"
+#~ msgstr "Сумма платежа меньше, чем общий счет"
+
+#~ msgid "Bid is non-existent"
+#~ msgstr "Заявка не существует"
+
+#~ msgid ""
+#~ "You have to pass <a href=\"%s\" target=\"_blank\">application "
+#~ "authorization</a>."
+#~ msgstr ""
+#~ "Для корректной работы вы должны пройти <a href=\"%s\" target=\"_blank"
+#~ "\">авторизацию приложения</a>."
+
+#~ msgid "Create new application"
+#~ msgstr "Адрес для создания нового приложения"
+
+#~ msgid "Authorization can do only account %s"
+#~ msgstr "Авторизацию может выполнить только аккаунт %s"
+
+#~ msgid "Try again"
+#~ msgstr "Попробуйте снова"
+
+#~ msgid "Payment system is configured"
+#~ msgstr "Платежная система уже настроена"
+
+#~ msgid "Requests for schet verification"
+#~ msgstr "Запросы на верификацию счета"
+
+#~ msgid "Possibility of account verification"
+#~ msgstr "Возможность верификации счета"
+
+#~ msgid "Conditions for account verification"
+#~ msgstr "Условия для верификации счета"
+
+#~ msgid "By submitting your verification"
+#~ msgstr "Отправлена заявка на верификацию"
+
+#~ msgid "Error! You must login"
+#~ msgstr "Ошибка! Вы должны пройти авторизацию"
+
+#~ msgid "Only for verified accounts on site"
+#~ msgstr "Только для верифицированных на сайте счетов "
+
+#~ msgid "account Give"
+#~ msgstr "счет Отдаю"
+
+#~ msgid "account Get"
+#~ msgstr "счет Получаю"
+
+#~ msgid "accounts Give and Get"
+#~ msgstr "счета Отдаю и Получаю"
+
+#~ msgid "account is not verified"
+#~ msgstr "счет не верифицирован"
+
+#~ msgid "Work with account verification"
+#~ msgstr "Работать с верификацией счетов"
+
+#~ msgid "Account verification"
+#~ msgstr "Верификация счета"
+
+#~ msgid "Requests for account verification"
+#~ msgstr "Запросы на верификацию счета"
+
+#~ msgid "Successful account verification "
+#~ msgstr "Успешная верификация счета"
+
+#~ msgid "Failure account verification"
+#~ msgstr "Отказ верификации счета"
+
+#~ msgid "Allow send request"
+#~ msgstr "Разрешить отправлять запросы"
+
+#~ msgid "Waiting applications"
+#~ msgstr "Заявки в ожидании"
+
+#~ msgid "Verified applications"
+#~ msgstr "Верифицированные заявки"
+
+#~ msgid "Unverified applications"
+#~ msgstr "Не верифицированные заявки "
+
+#~ msgid "Pending"
+#~ msgstr "Ожидает верификации"
+
+#~ msgid "Make verified"
+#~ msgstr "Сделать верифицированным"
+
+#~ msgid "Make not verified"
+#~ msgstr "Сделать не верифицированным"
+
+#~ msgid "Deleting admin captcha"
+#~ msgstr "Удаление админ-каптч"
+
+#~ msgid "replace task?"
+#~ msgstr "заменить задачу?"
+
+#~ msgid "<strong>Error:</strong> You have not entered control number."
+#~ msgstr "<strong>Ошибка:</strong> Вы не ввели проверочное число."
+
+#~ msgid "User auto registration"
+#~ msgstr "Авто регистрация пользователей"
+
+#~ msgid "Show all zero in rate"
+#~ msgstr "Показывать все нули в курсе обмена"
+
+#~ msgid "Separate numbers in rate by space (1000 or 1 000)"
+#~ msgstr "Разделять пробелом цифры в курсе (1000 или 1 000)"
+
+#~ msgid "Bids status log"
+#~ msgstr "Лог статусов заявок"
+
+#~ msgid "Deleting old bids status log"
+#~ msgstr "Удаление лога старых статусов заявок"
+
+#~ msgid "Complete removal"
+#~ msgstr "Полное удаление"
+
+#~ msgid "in admin-panel"
+#~ msgstr "в админ-панели"
+
+#~ msgid "on site"
+#~ msgstr "на сайте"
+
+#~ msgid "Site"
+#~ msgstr "Сайт"
+
+#~ msgid "System change"
+#~ msgstr "Системой"
+
+#~ msgid "User change"
+#~ msgstr "Пользователем"
+
+#~ msgid "Go to bid"
+#~ msgstr "Перейти к заявке"
+
+#~ msgid "Where"
+#~ msgstr "Где"
+
+#~ msgid "Change made"
+#~ msgstr "Изменение сделано"
+
+#~ msgid "Old status"
+#~ msgstr "Старый статус"
+
+#~ msgid "New status"
+#~ msgstr "Новый статус"
+
+#~ msgid "user comm."
+#~ msgstr "польз. комм."
+
+#~ msgid "admin comm."
+#~ msgstr "админ комм."
+
+#~ msgid "Comment to admin"
+#~ msgstr "Комментарий для админа"
+
+#~ msgid "Edit item"
+#~ msgstr "Редактировать элемент"
+
+#~ msgid "Add item"
+#~ msgstr "Добавить элемент"
+
+#~ msgid "Value"
+#~ msgstr "Значение"
+
+#~ msgid "account"
+#~ msgstr "счет"
+
+#~ msgid "e-mail"
+#~ msgstr "e-mail"
+
+#~ msgid "phone"
+#~ msgstr "телефон"
+
+#~ msgid "skype"
+#~ msgstr "skype"
+
+#~ msgid "ip"
+#~ msgstr "ip"
+
+#~ msgid "You have not entered a value"
+#~ msgstr "Вы не ввели значение"
+
+#~ msgid "Add list"
+#~ msgstr "Добавить списком"
+
+#~ msgid "Value (on a new line)"
+#~ msgstr "Значения (с новой строки)"
+
+#~ msgid "Enable checkfraud.info API"
+#~ msgstr "Включить checkfraud.info API"
+
+#~ msgid "Black list"
+#~ msgstr "Черный список"
+
+#~ msgid "Work with a black list"
+#~ msgstr "Работа с черным списком"
+
+#~ msgid "System error"
+#~ msgstr "Системная ошибка"
+
+#~ msgid "In black list"
+#~ msgstr "В черном списке"
+
+#~ msgid "Error! For your exchange denied"
+#~ msgstr "Ошибка! Ваш запрещено производить обмен"
+
+#~ msgid "add to blacklist"
+#~ msgstr "добавить в черный список"
+
+#~ msgid "everywhere"
+#~ msgstr "везде"
+
+#~ msgid "invoice"
+#~ msgstr "счет"
+
+#~ msgid "Export contacts"
+#~ msgstr "Экспорт контактов"
+
+#~ msgid "Select data"
+#~ msgstr "Выберите данные"
+
+#~ msgid "Unique key"
+#~ msgstr "Уникальный ключ"
+
+#~ msgid "Download"
+#~ msgstr "Загрузить"
+
+#~ msgid "Error! Could not create file!"
+#~ msgstr "Ошибка! Файл не создан!"
+
+#~ msgid "Daily limit for Give"
+#~ msgstr "Дневной лимит для Отдаю"
+
+#~ msgid ""
+#~ "Daily limit on purchase of currency. Exchanger can not buy currency more "
+#~ "than set."
+#~ msgstr ""
+#~ "Дневной лимит на покупку валют. Обменник не может купить валюты больше "
+#~ "чем задано."
+
+#~ msgid "Daily limit for Get"
+#~ msgstr "Дневной лимит для Получаю"
+
+#~ msgid ""
+#~ "Daily limit on sale of currency. Exchanger can not sell currency more "
+#~ "than set."
+#~ msgstr ""
+#~ "Дневной лимит на продажу валют. Обменник не может продать валюты больше "
+#~ "чем задано."
+
+#~ msgid "Month limit for Give"
+#~ msgstr "Месячный лимит для Отдаю"
+
+#~ msgid ""
+#~ "Month limit on purchase of currency. Exchanger can not buy currency more "
+#~ "than set."
+#~ msgstr ""
+#~ "Месячный лимит на покупку валют. Обменник не может купить валюты больше "
+#~ "чем задано."
+
+#~ msgid "Month limit for Get"
+#~ msgstr "Месячный лимит для Получаю"
+
+#~ msgid ""
+#~ "Month limit on sale of currency. Exchanger can not sell currency more "
+#~ "than set."
+#~ msgstr ""
+#~ "Месячный лимит на продажу валют. Обменник не может продать валюты больше "
+#~ "чем задано."
+
+#~ msgid "Default exchange direction in exchange table"
+#~ msgstr "Направление обмена в таблице  выбора направления по умолчанию"
+
+#~ msgid "Export/Import currency"
+#~ msgstr "Экспорт/импорт валют"
+
+#~ msgid "Allow paying affiliate remuneration"
+#~ msgstr "Разрешить вывод партнёрских средств"
+
+#~ msgid "Import"
+#~ msgstr "Импорт"
+
+#~ msgid "Upload"
+#~ msgstr "Загрузить"
+
+#~ msgid "Identifier"
+#~ msgstr "Идентификатор"
+
+#~ msgid "no"
+#~ msgstr "нет"
+
+#~ msgid "yes"
+#~ msgstr "да"
+
+#~ msgid "Error! Error loading file"
+#~ msgstr "Ошибка! Ошибка загрузки файла"
+
+#~ msgid "Error! Incorrect file size!"
+#~ msgstr "Ошибка! Неверный размер файла!"
+
+#~ msgid "Error! Incorrect file format!"
+#~ msgstr "Ошибка! Неверный формат файла!"
+
+#~ msgid "Error! Do not select a file!"
+#~ msgstr "Ошибка! Файл не выбран!"
+
+#~ msgid "Export/Import exchange directions"
+#~ msgstr "Экспорт/Импорт направлений обмена"
+
+#~ msgid "Minimum amount Give"
+#~ msgstr "Мин. сумма Отдаю"
+
+#~ msgid "Maximum amount Give"
+#~ msgstr "Макс. сумма Отдаю"
+
+#~ msgid "Minimum amount Get"
+#~ msgstr "Мин. сумма Получаю"
+
+#~ msgid "Maximum amount Get"
+#~ msgstr "Макс. сумма Получаю"
+
+#~ msgid "Additional sum fee from sender"
+#~ msgstr "Сумма доп. комиссии с отправителя"
+
+#~ msgid "Additional percent fee from sender"
+#~ msgstr "Процент доп. комиссии с отправителя"
+
+#~ msgid "Additional sum fee from recipient"
+#~ msgstr "Сумма доп. комиссии с получателя"
+
+#~ msgid "Additional percent fee from recipient"
+#~ msgstr "Процент доп. комиссии с получателя"
+
+#~ msgid "Sum fee Give"
+#~ msgstr "Сумма комиссии Отдаю"
+
+#~ msgid "Percent fee Give"
+#~ msgstr "Процент комиссии Отдаю"
+
+#~ msgid "Sum fee Get"
+#~ msgstr "Сумма комиссии Получаю"
+
+#~ msgid "Percent fee Get"
+#~ msgstr "Процент комиссии Получаю"
+
+#~ msgid "Sum fee Give for verfify account"
+#~ msgstr "Сумма комиссии Отдаю для верифицированного кошелька"
+
+#~ msgid "Percent fee Give for verfify account"
+#~ msgstr "Процент комиссии Отдаю для верифицированного кошелька"
+
+#~ msgid "Sum fee Get for verfify account"
+#~ msgstr "Сумма комиссии Получаю для верифицированного кошелька"
+
+#~ msgid "Percent fee Get for verfify account"
+#~ msgstr "Процент комиссии Получаю для верифицированного кошелька"
+
+#~ msgid "Exchanger pays fee Give"
+#~ msgstr "Обменник платит комиссию Отдаю"
+
+#~ msgid "Exchanger pays fee Get"
+#~ msgstr "Обменник платит комиссию Получаю"
+
+#~ msgid "Not standard fee Give"
+#~ msgstr "Нестандартная комиссия Отдаю"
+
+#~ msgid "Not standard fee Get"
+#~ msgstr "Нестандартная комиссия Получаю"
+
+#~ msgid "Min. amount of fee Give"
+#~ msgstr "Мин. сумма комиссии Отдаю"
+
+#~ msgid "Min. amount of fee Get"
+#~ msgstr "Мин. сумма комиссии Получаю"
+
+#~ msgid "Max. amount of fee Give"
+#~ msgstr "Макс. сумма комиссии Отдаю"
+
+#~ msgid "Max. amount of fee Get"
+#~ msgstr "Макс. сумма комиссии Получаю"
+
+#~ msgid "Activity"
+#~ msgstr "Активность"
+
+#~ msgid "Max. sum for direction"
+#~ msgstr "Лимит резерва для направления"
+
+#~ msgid "Max. affiliate program percent"
+#~ msgstr "Макс. партнерский процент"
+
+#~ msgid "Affiliate payments"
+#~ msgstr "Партнёрские отчисления"
+
+#~ msgid "Parser data Give"
+#~ msgstr "Прибавляем к курсу S или % Отдаю"
+
+#~ msgid "Parser value Give"
+#~ msgstr "Значение прибавляем к курсу Отдаю"
+
+#~ msgid "Parser data Get"
+#~ msgstr "Прибавляем к курсу S или % Получаю"
+
+#~ msgid "Parser value Get"
+#~ msgstr "Значение прибавляем к курсу Получаю"
+
+#~ msgid "Individual rate data Give"
+#~ msgstr "Свой курс S или % Отдаю"
+
+#~ msgid "Individual rate value Give"
+#~ msgstr "Значение прибавляем к своему курсу Отдаю"
+
+#~ msgid "Individual rate data Get"
+#~ msgstr "Свой курс S или % Получаю"
+
+#~ msgid "Individual rate value Get"
+#~ msgstr "Значение прибавляем к своему курсу Получаю"
+
+#~ msgid "Profit sum Give"
+#~ msgstr "Прибыль сумма Отдаю"
+
+#~ msgid "Profit percent Give"
+#~ msgstr "Прибыль процент Отдаю"
+
+#~ msgid "Profit sum Get"
+#~ msgstr "Прибыль сумма Получаю"
+
+#~ msgid "Profit percent Get"
+#~ msgstr "Прибыль процент Получаю"
+
+#~ msgid "Export exchanges"
+#~ msgstr "Экспорт обменов"
+
+#~ msgid "Edit date"
+#~ msgstr "Дата изменения"
+
+#~ msgid "Currency Give"
+#~ msgstr "Валюта Отдаю"
+
+#~ msgid "Currency Get"
+#~ msgstr "Валюта Получаю"
+
+#~ msgid "Add. fee sum Give"
+#~ msgstr "Сумма доп. комиссии Отдаю"
+
+#~ msgid "Sum Give with add. fees"
+#~ msgstr "Сумма Отдаю с доп. комиссией"
+
+#~ msgid "PS fee Give"
+#~ msgstr "Комиссия ПС Отдаю"
+
+#~ msgid "Sum Give with add. and PS fees"
+#~ msgstr "Сумма Отдаю с доп. комиссией и комиссией ПС"
+
+#~ msgid "Sum Give for reserv"
+#~ msgstr "Сумма Отдаю для резерва"
+
+#~ msgid "Add. fee sum Get"
+#~ msgstr "Сумма доп. комиссии Получаю"
+
+#~ msgid "Sum Get with add. fees"
+#~ msgstr "Сумма Получаю с доп. комиссией"
+
+#~ msgid "PS fee Get"
+#~ msgstr "Комиссия ПС Получаю"
+
+#~ msgid "Sum Get with add. and PS fees"
+#~ msgstr "Сумма Получаю с доп. комиссией и комиссией ПС"
+
+#~ msgid "Sum Get for reserv"
+#~ msgstr "Сумма Получаю для резерва"
+
+#~ msgid "Exchange sum in internal currency"
+#~ msgstr "Сумма обмена во внутренней валюте"
+
+#~ msgid "Merchant account"
+#~ msgstr "Счет мерчанта"
+
+#~ msgid "User discount"
+#~ msgstr "Скидка пользователя"
+
+#~ msgid "User discount sum"
+#~ msgstr "Сумма скидки пользователя"
+
+#~ msgid "Hash"
+#~ msgstr "Хэш"
+
+#~ msgid "Summ get by discount"
+#~ msgstr "Сумма с учетом скидки"
+
+#~ msgid "Add to bookmarks"
+#~ msgstr "Добавить в закладки"
+
+#~ msgid "Sort bookmarks"
+#~ msgstr "Сортировка закладок"
+
+#~ msgid "Financial statistics"
+#~ msgstr "Финансовая статистика"
+
+#~ msgid "Work with financial statistics"
+#~ msgstr "Работа с фин. статистикой"
+
+#~ msgid "not convert"
+#~ msgstr "не конвертировать"
+
+#~ msgid "Individual rate"
+#~ msgstr "Свой курс ЦБ"
+
+#~ msgid "multiplied by individual rate"
+#~ msgstr "умножать на свой курс"
+
+#~ msgid "consider affiliate payments"
+#~ msgstr "учитывать партнерские выплаты"
+
+#~ msgid "consider corrections of reserve"
+#~ msgstr "учитывать корректировки резерва"
+
+#~ msgid "Display statistics"
+#~ msgstr "Вывести статистику"
+
+#~ msgid "You have not chosen type of currency or currency"
+#~ msgstr "Вы не выбрали валюту или тип валюты"
+
+#~ msgid "Total exchange operations"
+#~ msgstr "Всего операций обмена"
+
+#~ msgid "Buy"
+#~ msgstr "Куплено"
+
+#~ msgid "Actually buy"
+#~ msgstr "Куплено фактически"
+
+#~ msgid "Sell"
+#~ msgstr "Продано"
+
+#~ msgid "Actually sell"
+#~ msgstr "Продано фактически"
+
+#~ msgid "Actually profit"
+#~ msgstr "Заработано фактически"
+
+#~ msgid "You do not have permission"
+#~ msgstr "У вас нет прав"
+
+#~ msgid "Block IP"
+#~ msgstr "Заблокировать IP"
+
+#~ msgid "IP addresses (on a new line)"
+#~ msgstr "IP адреса (с новой строки)"
+
+#~ msgid "Permit IP"
+#~ msgstr "Разрешить IP"
+
+#~ msgid "Edit template"
+#~ msgstr "Редактировать шаблон"
+
+#~ msgid "Add template"
+#~ msgstr "Добавить шаблон"
+
+#~ msgid "Template title"
+#~ msgstr "Название шаблона"
+
+#~ msgid "For selection"
+#~ msgstr "Для выбора"
+
+#~ msgid "Default template"
+#~ msgstr "Шаблон по умолчанию"
+
+#~ msgid "Prohibited country"
+#~ msgstr "Запрещенные страны"
+
+#~ msgid "Filtering by user country"
+#~ msgstr "Фильтрация по стране пользователя"
+
+#~ msgid "User country"
+#~ msgstr "Страна"
+
+#~ msgid "N/A"
+#~ msgstr "N/A"
+
+#~ msgid "Your ip is blocked"
+#~ msgstr "Ваш ip заблокирован"
+
+#~ msgid "Access to the site is prohibited"
+#~ msgstr "Доступ к сайту запрещен"
+
+#~ msgid "Access denied"
+#~ msgstr "Доступ закрыт"
+
+#~ msgid "For your country access to site is prohibited"
+#~ msgstr "Для вашей страны доступ запрещен"
+
+#~ msgid "Import countries"
+#~ msgstr "Импорт стран"
+
+#~ msgid "Search by name"
+#~ msgstr "Поиск по названию"
+
+#~ msgid "Country"
+#~ msgstr "Страна"
+
+#~ msgid "Download data of country"
+#~ msgstr "Загрузить данные страны"
+
+#~ msgid "Delete data of country"
+#~ msgstr "Удалить данные страны"
+
+#~ msgid "Error! Country file not open!"
+#~ msgstr "Ошибка! Файл со странами не открыт!"
+
+#~ msgid "Error! Country file empty!"
+#~ msgstr "Ошибка! Файл со странами пустой!"
+
+#~ msgid "Error! Country has uploaded!"
+#~ msgstr "Ошибка! Страна загружена!"
+
+#~ msgid "Error! No country!"
+#~ msgstr "Ошибка! Нет страны!"
+
+#~ msgid "Work with GEO IP"
+#~ msgstr "Работать с GEO IP"
+
+#~ msgid "GEO IP"
+#~ msgstr "GEO IP"
+
+#~ msgid "Templates"
+#~ msgstr "Шаблоны"
+
+#~ msgid "White list"
+#~ msgstr "Белый список"
+
+#~ msgid "allowed country"
+#~ msgstr "разрешенная страна"
+
+#~ msgid "prohibited country"
+#~ msgstr "запрещенная страна"
+
+#~ msgid "Default"
+#~ msgstr "По умолчанию"
+
+#~ msgid "To change"
+#~ msgstr "Для выбора"
+
+#~ msgid "Template type"
+#~ msgstr "Тип шаблона"
+
+#~ msgid "Hotkey"
+#~ msgstr "Горячие клавиши"
+
+#~ msgid "Action"
+#~ msgstr "Действие"
+
+#~ msgid "Set hot keys to change status of selected bids"
+#~ msgstr "Установите горячие клавиши для изменения статусов выбранных заявок"
+
+#~ msgid "Hotkeys"
+#~ msgstr "Быстрые действия"
+
+#~ msgid "Keyboard shortcut"
+#~ msgstr "Сочетание клавиш"
+
+#~ msgid "An error has occurred"
+#~ msgstr "Произошла ошибка"
+
+#~ msgid "We are sorry, but the request has not been executed due to an error"
+#~ msgstr "К сожалению, но запрос не был выполнен из-за ошибки"
+
+#~ msgid "SMTP settings"
+#~ msgstr "Настройки SMTP"
+
+#~ msgid "Enable SMTP"
+#~ msgstr "Включить SMTP"
+
+#~ msgid "SMTP Host"
+#~ msgstr "SMTP хост"
+
+#~ msgid "SMTP Port"
+#~ msgstr "SMTP порт"
+
+#~ msgid "SMTP Username"
+#~ msgstr "SMTP имя пользователя"
+
+#~ msgid "SMTP Password"
+#~ msgstr "SMTP пароль"
+
+#~ msgid "SMTP From name"
+#~ msgstr "SMTP От имени"
+
+#~ msgid "Info for yandex"
+#~ msgstr "Информация для Yandex"
+
+#~ msgid "Send test e-mail"
+#~ msgstr "Отправить тестовый e-mail"
+
+#~ msgid "Send"
+#~ msgstr "Отправить"
+
+#~ msgid "Error! You have not entered an e-mail!"
+#~ msgstr "Ошибка! Вы не ввели e-mail!"
+
+#~ msgid "Edit mode"
+#~ msgstr "Редактировать режим"
+
+#~ msgid "Add mode"
+#~ msgstr "Добавить режим"
+
+#~ msgid "Show"
+#~ msgstr "Не скрывать"
+
+#~ msgid "Show and text"
+#~ msgstr "Не скрывать и вывести текст"
+
+#~ msgid "Text for customers"
+#~ msgstr "Текст для клиентов"
+
+#~ msgid "Exchange page"
+#~ msgstr "Страницы обмена"
+
+#~ msgid "Tariffs page"
+#~ msgstr "Страница тарифов"
+
+#~ msgid "Operator status"
+#~ msgstr "Статус оператора"
+
+#~ msgid "Work with maintenance"
+#~ msgstr "Работать с режимом тех. обслуживания"
+
+#~ msgid "Maintenance mode"
+#~ msgstr "Режим тех. обслуживания"
+
+#~ msgid "Modes"
+#~ msgstr "Режимы"
+
+#~ msgid "How to switch maintenance mode"
+#~ msgstr "Как переключать режим тех. обслуживания"
+
+#~ msgid "Depending on operator status"
+#~ msgstr "В зависимости от статуса оператора"
+
+#~ msgid "Edit rate"
+#~ msgstr "Редактировать курс"
+
+#~ msgid "Add rate"
+#~ msgstr "Добавить курс"
+
+#~ msgid "Rate title"
+#~ msgstr "Название"
+
+#~ msgid "Snap to individual rate"
+#~ msgstr "Привязать к своему курсу ЦБ"
+
+#~ msgid "Auto adjust rate"
+#~ msgstr "Автокорректировка курса"
+
+#~ msgid "not installed"
+#~ msgstr "не установлен"
+
+#~ msgid "Work with individual rate"
+#~ msgstr "Работать со своим курсом ЦБ"
+
+#~ msgid "not to hide"
+#~ msgstr "не скрывать"
+
+#~ msgid "hide"
+#~ msgstr "скрывать"
+
+#~ msgid "Hide exchange directions from guests"
+#~ msgstr "Скрыть направления обменов от гостей"
+
+#~ msgid "Filtering guest users"
+#~ msgstr "Фильтрация гостевому пользователю"
+
+#~ msgid "Direction is available only for authorized users"
+#~ msgstr "Направление доступно только авторизованным пользователям"
+
+#~ msgid "Error! Direction are available only to authorized users"
+#~ msgstr "Ошибка! Направление доступно только авторизованным пользователям "
+
+#~ msgid "Reserve limit for direction"
+#~ msgstr "Лимит резерва для направления"
+
+#~ msgid "Show in XML/TXT file"
+#~ msgstr "Выводить в XML/TXT файле"
+
+#~ msgid "Prohibited IP and masks (on a new line)"
+#~ msgstr "Запрещенные IP адреса и маски (с новой строки)"
+
+#~ msgid "Max amount of exchange requests from one IP"
+#~ msgstr "Макс. кол-во заявок на обмен с одного IP"
+
+#~ msgid "Filtering by user language"
+#~ msgstr "Фильтрация по языку пользователя"
+
+#~ msgid "Error! Exchange direction is prohibited for your language"
+#~ msgstr "Ошибка! Направление обмена запрещено для вашего языка"
+
+#~ msgid "Account give"
+#~ msgstr "Счет отдаете"
+
+#~ msgid "Account get"
+#~ msgstr "Счет получаете"
+
+#~ msgid "Checker for new user"
+#~ msgstr "Проверка на \"новичка\""
+
+#~ msgid "Beginner"
+#~ msgstr "Новичок"
+
+#~ msgid "Attention! Beginner makes exchange"
+#~ msgstr "Внимание! Обмен делает новичок"
+
+#~ msgid "Edit reward"
+#~ msgstr "Редактировать отчисление"
+
+#~ msgid "Add reward"
+#~ msgstr "Добавить отчисление"
+
+#~ msgid "Percent reward"
+#~ msgstr "Процент вознаграждения"
+
+#~ msgid "Archiving partnership transitions"
+#~ msgstr "Архивация партнерских переходов"
+
+#~ msgid "Text materials"
+#~ msgstr "Текстовые материалы"
+
+#~ msgid "Banners"
+#~ msgstr "Баннеры"
+
+#~ msgid "Requests for payment (%s)"
+#~ msgstr "Запросов на выплату (%s)"
+
+#~ msgid "Affiliate program"
+#~ msgstr "Партнерская программа"
+
+#~ msgid "pay"
+#~ msgstr "выплачивать"
+
+#~ msgid "not pay"
+#~ msgstr "не выплачивать"
+
+#~ msgid "Fixed sum of payment to partner"
+#~ msgstr "Фиксированная сумма выплаты партнеру"
+
+#~ msgid "Min. sum of payment to partner"
+#~ msgstr "Мин. сумма выплаты партнеру"
+
+#~ msgid "Max. sum of payment to partner"
+#~ msgstr "Макс. сумма выплаты партнеру"
+
+#~ msgid "Individual percent of affiliate program"
+#~ msgstr "Индивидуальный процент  партнерской программы"
+
+#~ msgid "Maximum percent of affiliate program"
+#~ msgstr "Максимальный партнерский процент"
+
+#~ msgid "Work with affiliate program"
+#~ msgstr "Работать с партнерской программой"
+
+#~ msgid "Request for affiliate payout"
+#~ msgstr "Запрос выплаты партнерского вознаграждения"
+
+#~ msgid "Charge of partner profit"
+#~ msgstr "Начисление партнерского вознаграждения"
+
+#~ msgid "Currency type"
+#~ msgstr "Код валюты"
+
+#~ msgid "Statistic"
+#~ msgstr "Статистика"
+
+#~ msgid "Partnership exchanges"
+#~ msgstr "Партнерские обмены"
+
+#~ msgid "Transitions"
+#~ msgstr "Переходы"
+
+#~ msgid "Referrals"
+#~ msgstr "Рефералы"
+
+#~ msgid "Rewards"
+#~ msgstr "Отчисления"
+
+#~ msgid "Payouts"
+#~ msgstr "Выплаты"
+
+#~ msgid "Royalties"
+#~ msgstr "Отчисления"
+
+#~ msgid "Expulsion"
+#~ msgstr "Отчисление"
+
+#~ msgid "Percent"
+#~ msgstr "Процент"
+
+#~ msgid "Waiting"
+#~ msgstr "Ожидает"
+
+#~ msgid "Paid"
+#~ msgstr "Оплачено"
+
+#~ msgid "Cancelled"
+#~ msgstr "Отменено"
+
+#~ msgid "User canceled"
+#~ msgstr "Отмененные пользователем"
+
+#~ msgid "Bid is waiting"
+#~ msgstr "Заявка ожидает"
+
+#~ msgid "Bid was completed"
+#~ msgstr "Заявка была выполнена"
+
+#~ msgid "Bid was rejected"
+#~ msgstr "Заявка отменена"
+
+#~ msgid "Bid canceled by user"
+#~ msgstr "Заявка отменена пользователем"
+
+#~ msgid "Account"
+#~ msgstr "Счет"
+
+#~ msgid "Make waiting"
+#~ msgstr "Сделать ожидающей"
+
+#~ msgid "Make paid"
+#~ msgstr "Сделать выплаченой"
+
+#~ msgid "Make not paid"
+#~ msgstr "Сделать не выплаченой"
+
+#~ msgid "All users"
+#~ msgstr "Все пользователи"
+
+#~ msgid "Shortcodes"
+#~ msgstr "Шорткоды"
+
+#~ msgid "Partner link"
+#~ msgstr "Партнерская ссылка"
+
+#~ msgid "Site link"
+#~ msgstr "Ссылка на сайт"
+
+#~ msgid "Referrer"
+#~ msgstr "Пригласил"
+
+#~ msgid "Bid data"
+#~ msgstr "Дата заявки"
+
+#~ msgid "Partner earn"
+#~ msgstr "Партнер заработал"
+
+#~ msgid "Referrer site"
+#~ msgstr "Сайт"
+
+#~ msgid "Referral lifetime"
+#~ msgstr "Сроки жизни реферала"
+
+#~ msgid "Eternally"
+#~ msgstr "Вечно"
+
+#~ msgid "By cookies"
+#~ msgstr "По cookies"
+
+#~ msgid "Cookie lifetime (days)"
+#~ msgstr "Сроки жизни cookie (дни)"
+
+#~ msgid "Minimum payout"
+#~ msgstr "Минимальная выплата"
+
+#~ msgid "Consider affiliate reward from "
+#~ msgstr "Начислять партнерское вознаграждение с"
+
+#~ msgid "Only registered users"
+#~ msgstr "Только зарегистрированные пользователи"
+
+#~ msgid "Consider affiliate payments in reserve"
+#~ msgstr "Учитывать партнерские выплаты в резерве"
+
+#~ msgid "Affiliate account"
+#~ msgstr "Партнерский аккаунт"
+
+#~ msgid "Promotional"
+#~ msgstr "Рекламные материалы"
+
+#~ msgid "Affiliate links"
+#~ msgstr "Партнерские переходы"
+
+#~ msgid "Affiliate exchanges"
+#~ msgstr "Партнерские обмены"
+
+#~ msgid "Affiliate referals"
+#~ msgstr "Рефералы"
+
+#~ msgid "Affiliate payouts"
+#~ msgstr "Вывод партнёрских средств"
+
+#~ msgid "Affiliate FAQ"
+#~ msgstr "Партнерский FAQ"
+
+#~ msgid "Affiliate terms"
+#~ msgstr "Условия участия в партнерской программе"
+
+#~ msgid "Show sections"
+#~ msgstr "Показать разделы"
+
+#~ msgid "Identification number"
+#~ msgstr "ID"
+
+#~ msgid "Registration date"
+#~ msgstr "Дата регистрации"
+
+#~ msgid "Your aff. percent"
+#~ msgstr "Ваш парт. процент"
+
+#~ msgid "Statistics"
+#~ msgstr "Статистика"
+
+#~ msgid "Visitors"
+#~ msgstr "Посетителей"
+
+#~ msgid "Count referrals"
+#~ msgstr "Рефералов"
+
+#~ msgid "Exchanges"
+#~ msgstr "Обменов"
+
+#~ msgid "Amount of exchanges"
+#~ msgstr "Сумма обменов"
+
+#~ msgid "CTR"
+#~ msgstr "CTR"
+
+#~ msgid "Earned for all time"
+#~ msgstr "Заработано за все время"
+
+#~ msgid "Waiting payments"
+#~ msgstr "Ожидают выплаты"
+
+#~ msgid "Payout"
+#~ msgstr "Выплачено"
+
+#~ msgid "Current balance"
+#~ msgstr "Текущий баланс"
+
+#~ msgid "Available for payout"
+#~ msgstr "Доступно для выплаты"
+
+#~ msgid "Promotional materials"
+#~ msgstr "Рекламные материалы"
+
+#~ msgid ""
+#~ "Ad text with a link that you place on your site, blogs, forums, services, "
+#~ "questions and answers, social networks, bookmarking services will refer "
+#~ "users to the site, and you will receive a guaranteed remuneration for "
+#~ "referrals of users."
+#~ msgstr ""
+#~ "Рекламный текст с ссылкой, который вы разместите на Вашем сайте, в "
+#~ "блогах, форумах, сервисах вопросов и ответов, социальных сетях, сервисах "
+#~ "закладок будет вести пользователей на сайт, а Вы будете получать "
+#~ "гарантированное вознаграждене за переходы пользователей."
+
+#~ msgid ""
+#~ "Below are the basic options of promotional materials with your affiliate "
+#~ "link. You can use any text links, or use ours links. You just need to "
+#~ "copy the selected code, place it on your website and start making money."
+#~ msgstr ""
+#~ "Ниже представлены основные варианты рекламных материалов с Вашей "
+#~ "партнерской ссылкой. Вы можете использовать любые тексты ссылки или "
+#~ "воспользоваться нашими. Нужно просто скопировать выбранный код себе на "
+#~ "сайт и начать зарабатывать деньги."
+
+#~ msgid "Affiliate link"
+#~ msgstr "Партнерская ссылка"
+
+#~ msgid "Affiliate link in the HTML-code (for posting on websites and blogs)"
+#~ msgstr "Партнерская ссылка в HTML-коде (для размещения на сайтах и блогах)"
+
+#~ msgid "Currency exchange"
+#~ msgstr "Обмен валют"
+
+#~ msgid ""
+#~ "Hidden affiliate link in the HTML-code (for posting on websites and blogs)"
+#~ msgstr ""
+#~ "Скрытая партнерская ссылка в HTML-коде (для размещения на сайтах и блогах)"
+
+#~ msgid "Affiliate link in BBCode (for posting on forums)"
+#~ msgstr "Партнерская ссылка в BBCode (для размещения на форумах)"
+
+#~ msgid "Error! Page is available only for authorized users"
+#~ msgstr "Ошибка! Страница доступна только авторизованным пользователям"
+
+#~ msgid "Error! Page is disable"
+#~ msgstr "Ошибка! Страница отключена"
+
+#~ msgid ""
+#~ "Minimum withdrawal amount <span class=\"red\">%1$s %2$s</span>. Payments "
+#~ "are made after verification of your account by the administrator. As a "
+#~ "rule it takes less than 24 hours after submitting the application for "
+#~ "withdrawal."
+#~ msgstr ""
+#~ "Минимальная сумма для вывода <span class=\"red\">%1$s %2$s</span>. "
+#~ "Выплаты производятся после проверки администратором учетной записи. Как "
+#~ "правило, это занимает не более 24 часов с момента подачи заявки на снятие."
+
+#~ msgid "Purse"
+#~ msgstr "Кошелек"
+
+#~ msgid "Order money"
+#~ msgstr "Заказать"
+
+#~ msgid "Payoffs"
+#~ msgstr "Заявки на выплату"
+
+#~ msgid "Cancel payment"
+#~ msgstr "Отменить выплату"
+
+#~ msgid "Waiting bid"
+#~ msgstr "Ожидающая заявка"
+
+#~ msgid "Cancelled bid by user"
+#~ msgstr "Отклоненная заявка пользователем"
+
+#~ msgid "No items"
+#~ msgstr "Данных нет"
+
+#~ msgid "Payment successfully ordered"
+#~ msgstr "Выплата успешно заказана"
+
+#~ msgid "Error! Invalid account number"
+#~ msgstr "Ошибка! Неверный кошелек"
+
+#~ msgid "Error! Selected currency can not be ordered payment"
+#~ msgstr "Ошибка! На выбранную валюту запрещено выводить деньги"
+
+#~ msgid "Error! No enough money for order"
+#~ msgstr "Ошибка! Не достаточныо средства на счете"
+
+#~ msgid "Bids data"
+#~ msgstr "Данные"
+
+#~ msgid "Partner reward"
+#~ msgstr "Вознаграждение"
+
+#~ msgid ""
+#~ "Note: there are exemplary embodiments of the service description "
+#~ "specified here, which has already been published on many dozens of sites. "
+#~ "We strongly recommend you to rewrite the content in your own words using "
+#~ "any of the above text."
+#~ msgstr ""
+#~ "Примечание: здесь приведены примерные варианты описания сервиса, которые "
+#~ "опубликованы уже x многих десятках сайтов. Настоятельно рекомендуем, при "
+#~ "использовании какого-либо из приведенных текстов, переписывать его "
+#~ "содержание своими словами."
+
+#~ msgid "Show code"
+#~ msgstr "Показать код"
+
+#~ msgid "Hide code"
+#~ msgstr "Скрыть код"
+
+#~ msgid "Partnership transitions today"
+#~ msgstr "Партнерских переходов сегодня"
+
+#~ msgid "Partnership transitions"
+#~ msgstr "Партнерских переходов"
+
+#~ msgid "Partnership registrations today"
+#~ msgstr "Партнерских регистраций сегодня"
+
+#~ msgid "Partnership registrations"
+#~ msgstr "Партнерских регистраций"
+
+#~ msgid "Partnership exchanges today"
+#~ msgstr "Партнерских обменов сегодня"
+
+#~ msgid "Partner program"
+#~ msgstr "Партнерская программа"
+
+#~ msgid "Personal partnership interest"
+#~ msgstr "Персональный партнерский процент"
+
+#~ msgid "Partners exchange"
+#~ msgstr "Партнерские обмены"
+
+#~ msgid "Partnership interest"
+#~ msgstr "Партнерский процент"
+
+#~ msgid "The money in the account"
+#~ msgstr "Денег на счету"
+
+#~ msgid "Available for payment"
+#~ msgstr "Ожидает выплаты"
+
+#~ msgid "Captcha"
+#~ msgstr "Captcha"
+
+#~ msgid "Contact form"
+#~ msgstr "Форма контактов"
+
+#~ msgid "Login form"
+#~ msgstr "Форма авторизации"
+
+#~ msgid "Add reviews form"
+#~ msgstr "Форма добавления отзыва"
+
+#~ msgid "Registration form"
+#~ msgstr "Форма регистрации"
+
+#~ msgid "Lost password form"
+#~ msgstr "Форма восстановления пароля"
+
+#~ msgid "Reserve request form"
+#~ msgstr "Запрос резерва"
+
+#~ msgid "Delete standart captcha"
+#~ msgstr "Удаление стандартных каптч"
+
+#~ msgid "Type your answer"
+#~ msgstr "Введите ответ"
+
+#~ msgid "Error! You have not entered the control number."
+#~ msgstr "Ошибка! Вы ввели не верное число"
+
+#~ msgid "Rate is dependent on the amount of exchange"
+#~ msgstr "Курс зависящий от суммы обмена"
+
+#~ msgid ""
+#~ "Set amount of exchange in field \"Sum\" and special rate for this amount."
+#~ msgstr ""
+#~ "В поле \"Сумма\" укажите сумму обмена \"от\" которой будет действовать "
+#~ "заданный курс. Затем укажите курс для валют Отдаю и Получаю. Если "
+#~ "пользователь захочет отдать указанную сумму или больше, то для него будет "
+#~ "действовать указанный курс обмена."
+
+#~ msgid "Edit verification field"
+#~ msgstr "Редактировать поле"
+
+#~ msgid "Add verification field"
+#~ msgstr "Добавить поле"
+
+#~ msgid "Verification field title"
+#~ msgstr "Название поля"
+
+#~ msgid "Verification field type"
+#~ msgstr "Тип поля"
+
+#~ msgid "File"
+#~ msgstr "Файл"
+
+#~ msgid "Verification"
+#~ msgstr "Верификация"
+
+#~ msgid "verified"
+#~ msgstr "верифицирован"
+
+#~ msgid "not verified"
+#~ msgstr "не верефицирован"
+
+#~ msgid "Removal of unfilled requests for verification"
+#~ msgstr "Удаление незаполненных заявок на верификацию"
+
+#~ msgid "Only for verified users on site"
+#~ msgstr "Только для верифицированных на сайте пользователей"
+
+#~ msgid "Error! Exchange is available only for verified users"
+#~ msgstr "Ошибка! Обмен доступен только для верифицированных пользователей"
+
+#~ msgid "Verified user"
+#~ msgstr "Верифицированный пользователь"
+
+#~ msgid "Work with user verification"
+#~ msgstr "Работать с верификацией пользователей"
+
+#~ msgid "Verification field"
+#~ msgstr "Поля верификации"
+
+#~ msgid "Sort verification field"
+#~ msgstr "Сортировка полей верификации"
+
+#~ msgid "Requests for identity verification"
+#~ msgstr "Запросы на верификацию личности"
+
+#~ msgid "Successful verification"
+#~ msgstr "Успешная верификация"
+
+#~ msgid "Failure verification"
+#~ msgstr "Отказ верификации"
+
+#~ msgid "Failure reason"
+#~ msgstr "Причина отказа"
+
+#~ msgid "active fields"
+#~ msgstr "активные"
+
+#~ msgid "not active fields"
+#~ msgstr "не активные"
+
+#~ msgid "Required field"
+#~ msgstr "Обязательное поле"
+
+#~ msgid "Additional discount for verified users"
+#~ msgstr "Доп. скидка для верифицированных пользователей"
+
+#~ msgid "Info text on verification page"
+#~ msgstr "Информационный текст на странице верификации"
+
+#~ msgid "Max."
+#~ msgstr "Макс."
+
+#~ msgid "MB"
+#~ msgstr "МБ"
+
+#~ msgid "Error! You use old version of browser!"
+#~ msgstr "Ошибка! Вы используете устаревшую версию браузера!"
+
+#~ msgid "max."
+#~ msgstr "макс."
+
+#~ msgid "Requests for verification"
+#~ msgstr "Заявки на верификацию"
+
+#~ msgid "Waiting application"
+#~ msgstr "Ожидающая заявка"
+
+#~ msgid "Confirmed application"
+#~ msgstr "Подтвержденная заявка"
+
+#~ msgid "Denied application"
+#~ msgstr "Заявка отклонена"
+
+#~ msgid "auto status"
+#~ msgstr "авто"
+
+#~ msgid "Error! You have not entered \"%s\""
+#~ msgstr "Ошибка! вы не ввели \"%s\""
+
+#~ msgid "Error! You have not uploaded %s"
+#~ msgstr "Ошибка! Вы не загрузили %s"
+
+#~ msgid "Error! Incorrect file format"
+#~ msgstr "Ошибка! не верный формат файла"
+
+#~ msgid "Identity verification"
+#~ msgstr "Верификация личности"
+
+#~ msgid "Rejection reason"
+#~ msgstr "Причина отказа"
+
+#~ msgid "Refuse verification"
+#~ msgstr "Отказать в верификации"
+
+#~ msgid "Error! Not found"
+#~ msgstr "Ошибка! Не существует"
+
+#~ msgid "Confirmed applications"
+#~ msgstr "Подтвержденные заявки"
+
+#~ msgid "Cancelled applications"
+#~ msgstr "Отмененные заявки"
+
+#~ msgid "View application"
+#~ msgstr "Просмотреть данные"
+
+#~ msgid "Error! Access denied"
+#~ msgstr "Ошибка! Доступ запрещен"
+
+#~ msgid "Error! File does not exist"
+#~ msgstr "Ошибка! Файл не существует"
+
+#~ msgid "Verification passed"
+#~ msgstr "Верификация пройдена"
+
+#~ msgid "You have to pass verification"
+#~ msgstr "Вы должны пройти верификацию"
+
+#~ msgid "Go to verification"
+#~ msgstr "Пройти верификацию"
+
+#~ msgid "Text for verified"
+#~ msgstr "Текс для верифицированных"
+
+#~ msgid "Text for unverified"
+#~ msgstr "Текст для неверифицированных"
+
+#~ msgid "Text in link for verification"
+#~ msgstr "Текст ссылки для верификации"
+
+#~ msgid "Edit currency account"
+#~ msgstr "Редактировать счет"
+
+#~ msgid "Add currency account"
+#~ msgstr "Добавить счет"
+
+#~ msgid "Curency account"
+#~ msgstr "Счет"
+
+#~ msgid "Hits count"
+#~ msgstr "Просмотров"
+
+#~ msgid "Hits limit"
+#~ msgstr "Лимит показов"
+
+#~ msgid "Day limit"
+#~ msgstr "Дневной лимит"
+
+#~ msgid "Month limit"
+#~ msgstr "Месячный лимит"
+
+#~ msgid "not active account"
+#~ msgstr "не активен"
+
+#~ msgid "active account"
+#~ msgstr "активен"
+
+#~ msgid "You have not entered a currency title"
+#~ msgstr "Вы не ввели номер счета"
+
+#~ msgid "Curency accounts (on a new line)"
+#~ msgstr "Счета (с новой строки)"
+
+#~ msgid "Currency accounts"
+#~ msgstr "Счета валют"
+
+#~ msgid "Work with currency accounts"
+#~ msgstr "Работать со счетами валют"
+
+#~ msgid "active accounts"
+#~ msgstr "активные"
+
+#~ msgid "not active accounts"
+#~ msgstr "не активные"
+
+#~ msgid "About shortcodes"
+#~ msgstr "О шорткодах"
+
+#~ msgid "vid = \"0\" - show randomly once"
+#~ msgstr "vid = \"0\" - показать случайно один раз"
+
+#~ msgid "vid = \"1\" - show always randomly"
+#~ msgstr "vid = \"1\" - показывать всегда случайно"
+
+#~ msgid "vid = \"2\" - show consistently within each bid"
+#~ msgstr "vid = \"2\" - показывать постоянно в рамках одной заявки"
+
+#~ msgid "Shortcode-ID"
+#~ msgstr "id шорткода"
+
+#~ msgid "Shortcode"
+#~ msgstr "Шорткод"
+
+#~ msgid "Hits"
+#~ msgstr "Просмотров"
+
+#~ msgid "Sum of exchanges (today)"
+#~ msgstr "Сумма обменов (сегодня)"
+
+#~ msgid "Sum of exchanges (month)"
+#~ msgstr "Сумма обменов (месяц)"
+
+#~ msgid "Reset counter"
+#~ msgstr "Обнулить посещаемость"
+
+#~ msgid "Please contact us to provide your account number"
+#~ msgstr "Свяжитесь с нами, чтобы мы предоставили вам номер счета"
+
+#~ msgid "Edit message"
+#~ msgstr "Редактировать сообщение"
+
+#~ msgid "Add message"
+#~ msgstr "Добавить сообщение"
+
+#~ msgid "Warning messages"
+#~ msgstr "Уведомления"
+
+#~ msgid "X19"
+#~ msgstr "X19"
+
+#~ msgid "Cash at office"
+#~ msgstr "Наличные в офисе"
+
+#~ msgid "Webmoney"
+#~ msgstr "Webmoney"
+
+#~ msgid "Bank account"
+#~ msgstr "Банковский счет"
+
+#~ msgid "Money transfer systems"
+#~ msgstr "Система денежных переводов"
+
+#~ msgid "SMS"
+#~ msgstr "SMS"
+
+#~ msgid "PayPal"
+#~ msgstr "PayPal"
+
+#~ msgid "Skrill (Moneybookers)"
+#~ msgstr "Skrill (Moneybookers)"
+
+#~ msgid "QIWI"
+#~ msgstr "QIWI"
+
+#~ msgid "Yandex money"
+#~ msgstr "Yandex money"
+
+#~ msgid "EasyPay"
+#~ msgstr "EasyPay"
+
+#~ msgid "field filled not"
+#~ msgstr "поле не заполнено"
+
+#~ msgid "Purses belong to different WMID"
+#~ msgstr "Кошелек принадлежит другому WMID"
+
+#~ msgid "Invalid account Give"
+#~ msgstr "Неверный счет Отдаю"
+
+#~ msgid "Invalid account Get"
+#~ msgstr "Неверный счет Получаю"
+
+#~ msgid "WMID definition test"
+#~ msgstr "Проверка принадлежности WMID"
+
+#~ msgid "Webmoney purse"
+#~ msgstr "Кошелек Webmoney"
+
+#~ msgid "Test X19"
+#~ msgstr "Проверка X19"
+
+#~ msgid "Test"
+#~ msgstr "Проверка"
+
+#~ msgid "Mode"
+#~ msgstr "Статус"
+
+#~ msgid "You have not specified passport data"
+#~ msgstr "Вы не указали паспортные данные"
+
+#~ msgid "You have not specified account Give"
+#~ msgstr "Вы не указали счет Отдаю"
+
+#~ msgid "You have not specified account Get"
+#~ msgstr "Вы не указали счет Получаю"
+
+#~ msgid "You have not specified last name"
+#~ msgstr "Вы не указали фамилию"
+
+#~ msgid "You have not specified first name"
+#~ msgstr "Вы не указали имя"
+
+#~ msgid "Sberbank RF"
+#~ msgstr "Sberbank RF"
+
+#~ msgid "Owner has different purses"
+#~ msgstr "Владелец имеет различные кошельки"
+
+#~ msgid "OK"
+#~ msgstr "OK"
+
+#~ msgid "Script can not to determine WMID 2"
+#~ msgstr "Скрипт не может определить WMID 2"
+
+#~ msgid "Script can not to determine WMID"
+#~ msgstr "Скрипт не может определить WMID"
+
+#~ msgid "You have entered incorrect e-mail"
+#~ msgstr "Вы ввели неккоректный e-mail"
+
+#~ msgid "Passwords does not match"
+#~ msgstr "Пароль не совпадает с повторным"
+
+#~ msgid "Data saved successfully"
+#~ msgstr "Данные успешно сохранены"
+
+#~ msgid "Link to reply"
+#~ msgstr "Ссылка для ответа"
+
+#~ msgid "Reply"
+#~ msgstr "Ответить"
+
+#~ msgid "Your message has been successfully sent"
+#~ msgstr "Ваше сообщение успешно отправлено"
+
+#~ msgid "Error! You must enter a message"
+#~ msgstr "Ошибка! вы должны ввести текст сообщения"
+
+#~ msgid "Error! You must enter your e-mail"
+#~ msgstr "Ошибка! вы должны ввести свой e-mail"
+
+#~ msgid "Error! You must enter your name"
+#~ msgstr "Ошибка! Вы должны ввести свое имя"
+
+#~ msgid "Edit direction exchange"
+#~ msgstr "Редактировать направление обмена"
+
+#~ msgid "Edit \"%s\""
+#~ msgstr "Редактировать \"%s\""
+
+#~ msgid "Are you sure that you have paid?"
+#~ msgstr "Вы точно оплатили заявку?"
+
+#~ msgid "Error! Bid does not exist"
+#~ msgstr "Ошибка! Заявка не существует"
+
+#~ msgid "I read and agree with the <a href=\"%s\">rules</a> of service"
+#~ msgstr "С <a href=\"%s\">правилами сервиса</a> ознакомлен и согласен"
+
+#~ msgid "Create bid"
+#~ msgstr "Создать заявку"
+
+#~ msgid ""
+#~ "Clicking on button \"Create bid\" means that you accept all the basic "
+#~ "requirements for users of the service."
+#~ msgstr ""
+#~ "Использование сервиса после нажатия кнопки «Создать заявку» означает, что "
+#~ "вы принимаете все основные требования, предъявляемые к Пользователю "
+#~ "сервиса."
+
+#~ msgid "Carefully check all data before creating bid!"
+#~ msgstr ""
+#~ "Внимательно проверьте правильность платежных данных перед созданием "
+#~ "заявки!"
+
+#~ msgid "How to pay"
+#~ msgstr "Как оплатить"
+
+#~ msgid "accepted, waiting for pay"
+#~ msgstr "принята, ожидает оплаты клиентом"
+
+#~ msgid "Cancel bid"
+#~ msgstr "Отменить заявку"
+
+#~ msgid "I paid"
+#~ msgstr "Я оплатил"
+
+#~ msgid "Every 30 seconds we check the payment."
+#~ msgstr "Каждые 30 секунды мы проверяем оплату."
+
+#~ msgid "Further it will check automatically every 30 seconds."
+#~ msgstr "Далее проверка будет проходить автоматически каждые 30 секунд."
+
+#~ msgid "Check your payment"
+#~ msgstr "Проверить оплату"
+
+#~ msgid "Amount of payment"
+#~ msgstr "Сумма платежа"
+
+#~ msgid "Please be careful!"
+#~ msgstr "Пожалуйста, будьте внимательны!"
+
+#~ msgid ""
+#~ "All fields must be filled in accordance with the instructions, otherwise "
+#~ "we can not get the payment."
+#~ msgstr ""
+#~ "Все поля должны быть заполнены в точном соответствии с инструкцией, в "
+#~ "противном случае, платеж может не пройти."
+
+#~ msgid "Creation time"
+#~ msgstr "Время оформления"
+
+#~ msgid "Bid paid"
+#~ msgstr "Заявка оплачена"
+
+#~ msgid "Received confirmation of payment from the client"
+#~ msgstr "Получено подтверждение об оплате от клиента"
+
+#~ msgid "Bid deleted"
+#~ msgstr "Заявка удалена"
+
+#~ msgid "Refusal of payment"
+#~ msgstr "Отказ от оплаты"
+
+#~ msgid "Customer refused to pay"
+#~ msgstr "Клиент отказался от оплаты"
+
+#~ msgid "Bid completed"
+#~ msgstr "Заявка выполнена"
+
+#~ msgid "Only for user"
+#~ msgstr "Только для пользоватлей"
+
+#~ msgid "Only for guest"
+#~ msgstr "Только для гостей"
+
+#~ msgid "Log in"
+#~ msgstr "Войти"
+
+#~ msgid "Authorization"
+#~ msgstr "Авторизация"
+
+#~ msgid "Register"
+#~ msgstr "Регистрация"
+
+#~ msgid "Forgot password?"
+#~ msgstr "Забыли пароль?"
+
+#~ msgid "Error! Form is available only for unauthorized users"
+#~ msgstr "Ошибка! Форма доступна только неавторизованным пользователям"
+
+#~ msgid "Error! Wrong pair of username/password"
+#~ msgstr "Ошибка! Неверная пара логин/пароль"
+
+#~ msgid "Error! Incorrect password"
+#~ msgstr "Ошибка! Неккоректный пароль"
+
+#~ msgid "Error! Incorrect username or email"
+#~ msgstr "Ошибка! не верный логин или e-mail"
+
+#~ msgid "Password recovery"
+#~ msgstr "Восстановление пароля"
+
+#~ msgid "Email was sent to your e-mail with confirmation link"
+#~ msgstr "На ваш e-mail выслано письмо с подтверждением"
+
+#~ msgid "Error! Password recovery disabled"
+#~ msgstr "Ошибка! Восстановление пароля отключено"
+
+#~ msgid "Error! This e-mail is not registered"
+#~ msgstr "Ошибка! Этот e-mail не зарегистрирован"
+
+#~ msgid "Error! You have entered incorrect e-mail"
+#~ msgstr "Ошибка! Вы ввели неверный e-mail"
+
+#~ msgid "Password successfully changed"
+#~ msgstr "Пароль успешно изменен"
+
+#~ msgid "Error! system error 2"
+#~ msgstr "Ошибка! Системная ошибка 2"
+
+#~ msgid "Error! Password is incorrect or does not match with password agian"
+#~ msgstr "Ошибка! Пароль не верный или не совпадает с повторным"
+
+#~ msgid "Error! system error 1"
+#~ msgstr "Ошибка! Системная ошибка 1"
+
+#~ msgid "You have successfully registered"
+#~ msgstr "Вы успешно зарегистрированы"
+
+#~ msgid "You have successfully registered, you can now log into your account"
+#~ msgstr "Вы успешно зарегистрированы, теперь вы можете войти в свой аккаунт"
+
+#~ msgid "Error! Contact with site administrator"
+#~ msgstr "Ошибка! Свяжитесь с администратором сайта"
+
+#~ msgid "Error! This e-mail is already in use"
+#~ msgstr "Ошибка! Этот e-mail уже используется"
+
+#~ msgid "Error! This login is already in use"
+#~ msgstr "Ошибка! Этот логин уже используется"
+
+#~ msgid "Error! Password is incorrect or does not match with password again"
+#~ msgstr "Ошибка! Пароль неверный или не совпадает паролем снова"
+
+#~ msgid ""
+#~ "Error! You have entered an incorrect user name. The user name must "
+#~ "consist of numbers or letters and contain from 3 to 30 symbols."
+#~ msgstr ""
+#~ "Ошибка! вы ввели некорректное имя пользователя. Имя пользователя должно "
+#~ "состоять из цифр или латинских букв и содержать от трех до 30 символов."
+
+#~ msgid "Error! You did not agree with site rules"
+#~ msgstr "Ошибка! Вы не приняли правила сайта"
+
+#~ msgid "No reviews"
+#~ msgstr "Нет отзывов"
+
+#~ msgid "Post review"
+#~ msgstr "Опубликовать отзыв"
+
+#~ msgid ""
+#~ "Your review has successfully been added and is waiting for moderation"
+#~ msgstr "Ваш отзыв успешно добавлен и ожидает проверки"
+
+#~ msgid ""
+#~ "Your review has successfully been added. We sent your email for "
+#~ "confirmation"
+#~ msgstr "Ваш отзыв добавлен. На ваш e-mail выслано письмо с подтверждением"
+
+#~ msgid "Your review has successfully added"
+#~ msgstr "Ваш отзыв успешно добавлен"
+
+#~ msgid "Error! You must enter a text reviews"
+#~ msgstr "Ошибка! Вы должны ввести текст отзыва"
+
+#~ msgid "Error! Reviews disable"
+#~ msgstr "Ошибка! Отзывы отключены"
+
+#~ msgid "Pages"
+#~ msgstr "Страницы"
+
+#~ msgid "select currency"
+#~ msgstr "выберите валюту"
+
+#~ msgid "Enter your account number"
+#~ msgstr "Введите номер вашего счета"
+
+#~ msgid "Min. number of characters"
+#~ msgstr "Мин. кол-во символов"
+
+#~ msgid "Max. number of characters"
+#~ msgstr "Макс. кол-во символов"
+
+#~ msgid "use numbers and letters"
+#~ msgstr "используйте цифры и буквы"
+
+#~ msgid "use numbers"
+#~ msgstr "используйте цифры"
+
+#~ msgid "use letters"
+#~ msgstr "используйте буквы"
+
+#~ msgid "Enter your card number"
+#~ msgstr "Введите номер вашей карты"
+
+#~ msgid "Add account"
+#~ msgstr "Добавить счет"
+
+#~ msgid "Your accounts"
+#~ msgstr "Ваши счета"
+
+#~ msgid "Account successfully added"
+#~ msgstr "Счет успешно добавлен"
+
+#~ msgid "Error! Such account is already exists"
+#~ msgstr "Ошибка! Такой счет уже существует"
+
+#~ msgid "Your operation"
+#~ msgstr "Ваши операции"
+
+#~ msgid "Not config settings file"
+#~ msgstr "Конфиг файл модуля не настроен"
+
+#~ msgid "Your account is not verified"
+#~ msgstr "Ваш кошелек не верифицирован"
+
+#~ msgid "Script can not to determine type"
+#~ msgstr "Скрипт не может определить тип"
+
+#~ msgid "Exchange rates"
+#~ msgstr "Курсы валют"
+
+#~ msgid "update time"
+#~ msgstr "Дата обновления"
+
+#~ msgid "Recent exchange"
+#~ msgstr "Последний обмен"
+
+#~ msgid "Recent exchanges"
+#~ msgstr "Недавние обмены"
+
+#~ msgid "Exchanges per day"
+#~ msgstr "Обменов за день"
+
+#~ msgid "Count"
+#~ msgstr "Количество"
+
+#~ msgid "Show count of exchanges per day"
+#~ msgstr "Показывать кол-во обменов за день"
+
+#~ msgid "Personal area"
+#~ msgstr "Личный кабинет"
+
+#~ msgid "Exit"
+#~ msgstr "Выйти"
+
+#~ msgid "All news"
+#~ msgstr "Все новости"
+
+#~ msgid "Category"
+#~ msgstr "Раздел"
+
+#~ msgid "Orderby"
+#~ msgstr "Сортировать по"
+
+#~ msgid "Random"
+#~ msgstr "Случайно"
+
+#~ msgid "Order"
+#~ msgstr "Выводить по"
+
+#~ msgid "Asc"
+#~ msgstr "возрастанию"
+
+#~ msgid "Desc"
+#~ msgstr "убыванию"
+
+#~ msgid "Currency reserve"
+#~ msgstr "Резерв валют"
+
+#~ msgid "Show currency reserve"
+#~ msgstr "Показывать резерв валют"
+
+#~ msgid "All reviews"
+#~ msgstr "Все отзывы"
+
+#~ msgid "Auto payout error"
+#~ msgstr "Ошибка автовыплаты"
+
+#~ msgid "Transfer"
+#~ msgstr "Перевести"
+
+#~ msgid "Enter security code"
+#~ msgstr "Введите код безопасности"
+
+#~ msgid "Enter"
+#~ msgstr "Ввод"
+
+#~ msgid "Error! Auto payout disabled"
+#~ msgstr "Ошибка! Авто выплата отключена"
+
+#~ msgid "Direction privacy for guests"
+#~ msgstr "Приватность направления для гостей"
+
+#~ msgid "Table 1"
+#~ msgstr "Таблица 1"
+
+#~ msgid "Table 2"
+#~ msgstr "Таблица 2"
+
+#~ msgid "Table 3"
+#~ msgstr "Таблица 3"
+
+#~ msgid "Display news?"
+#~ msgstr "Выводить новости?"
+
+#~ msgid "Display exchanges?"
+#~ msgstr "Выводить обмены?"
+
+#~ msgid "Display pages?"
+#~ msgstr "Выводить страницы?"
+
+#~ msgid "Search"
+#~ msgstr "Поиск"
+
+#~ msgid "Confirmation by e-mail"
+#~ msgstr "Подтверждение по e-mail"
+
+#~ msgid "AJAX checker"
+#~ msgstr "AJAX чекер"
+
+#~ msgid "Administrator"
+#~ msgstr "Администратор"
+
+#~ msgid "Editor"
+#~ msgstr "Редактор"
+
+#~ msgid "Author"
+#~ msgstr "Автор"
+
+#~ msgid "Contributor"
+#~ msgstr "Участник"
+
+#~ msgid "Subscriber"
+#~ msgstr "Подписчик"
+
+#~ msgid "Add user role"
+#~ msgstr "Добавить роль "
+
+#~ msgid "New user registration on your site %s:"
+#~ msgstr "New user registration on your site %s:"
+
+#~ msgid "E-mail: %s"
+#~ msgstr "E-mail: %s"
+
+#~ msgid "[%s] Your username and password"
+#~ msgstr "[%s] Your username and password"
+
+#~ msgid ""
+#~ "New address to enter the admin panel. Use only letters and numbers. Be "
+#~ "sure to remember the entered address!"
+#~ msgstr ""
+#~ "Новый адрес, чтобы войти в админ панель. Используйте только маленькие "
+#~ "буквы и цифры. Запомните введенный адрес!"
+
+#~ msgid "Network payment priority"
+#~ msgstr "Приоритет платежа в сети"
+
+#~ msgid "Wrong currency code"
+#~ msgstr "Неверный код валюты"
+
+#~ msgid "Purse replaced"
+#~ msgstr "Кошелек заменен"
+
+#~ msgid "Client purse type does not match with currency code"
+#~ msgstr "Тип кошелька клиента не совпадает с кодом валюты"
+
+#~ msgid "Minimum payment amount is %s"
+#~ msgstr "Минимальная сумма оплаты %s"
+
+#~ msgid "The amount exceeds the daily limit for payouts"
+#~ msgstr "Сумма превышает установленный дневной лимит для авто выплат"
+
+#~ msgid "Auto payout has already been made"
+#~ msgstr "Авто выплата уже произведена"
+
+#~ msgid "Error payout"
+#~ msgstr "Ошибка выплаты"
+
+#~ msgid "Auto payout is made"
+#~ msgstr "Авто выплата выполнена"
+
+#~ msgid "%s auto payment"
+#~ msgstr "%s авто выплата"
+
+#~ msgid "Coupon code"
+#~ msgstr "Код купона"
+
+#~ msgid "Current payment identifier"
+#~ msgstr "Текущий ID платежа"
+
+#~ msgid "Exchange bid id %s"
+#~ msgstr "Exchange bid id %s"
+
+#~ msgid "Payment rejected"
+#~ msgstr "Платеж отклонен"
+
+#~ msgid "Use only latin symbols in payment note. Maximum: %s simbols."
+#~ msgstr ""
+#~ "Используйте только латинские буквы в примечание платежа. Макcимум: %s "
+#~ "символов."
+
+#~ msgid "Purse type set on website does not match with currency code"
+#~ msgstr "Тип кошелька, указанный на сайте, не совпадает с кодом валюты"
+
+#~ msgid "Error to make payment"
+#~ msgstr "Ошибка выполнить платеж"
+
+#~ msgid ""
+#~ "Payment successfully created. Waiting for confirmation from Privat24."
+#~ msgstr "Платеж успешно создан. Ожидайте подтверждения от Privat24."
+
+#~ msgid ""
+#~ "You can set the filter properties for the following objects. For example, "
+#~ "if the user will see the exchange direction on the home page if his "
+#~ "country is forbidden for this exchange direction. Will the user see on "
+#~ "the home page if it is not registered by the user, etc. %s"
+#~ msgstr ""
+#~ "Для перечисленных ниже объектов вы можете установить свойства "
+#~ "фильтрации.  Например, будет ли пользователь видеть направление обмена на "
+#~ "главной странице, если для его страны запрещено данное направление "
+#~ "обмена. Будет ли пользователь видеть направление обмена на главной, если "
+#~ "он является незарегистрированным пользователем и т.п."
+
+#~ msgid "Filtering by user IP"
+#~ msgstr "Фильтрация по IP пользователя"
+
+#~ msgid ""
+#~ "There are a dangerous files damp_db.sql in root directory and /wp-conten/"
+#~ "uploads/ directory. Delete it"
+#~ msgstr ""
+#~ "Опасный файл damp_db.sql в корне сайта и папке /wp-content/uploads/. "
+#~ "Удалите файл."
+
+#~ msgid "Exchange table and tarifs"
+#~ msgstr "Таблица выбора направления обмена и тарифы"
+
+#~ msgid "Tarifs"
+#~ msgstr "Тарифы"
+
+#~ msgid "The amount exceeds the limit for today"
+#~ msgstr "Сумма превышает лимит на сегодня"
+
+#~ msgid "Partner account"
+#~ msgstr "Партнерский аккаунт"
+
+#~ msgid "Partner links"
+#~ msgstr "Партнерские переход"
+
+#~ msgid "Partner exchanges"
+#~ msgstr "Партнерские обмены"
+
+#~ msgid "Partner referals"
+#~ msgstr "Рефералы"
+
+#~ msgid "Partner payouts"
+#~ msgstr "Вывод партнерских средств"
+
+#~ msgid "Partner faq"
+#~ msgstr "Партнерский FAQ"
+
+#~ msgid "Partner terms"
+#~ msgstr "Условия участия в партнерской программе"
+
+#~ msgid "Work with maintrance"
+#~ msgstr "Работать с режимом тех. обслуж"
+
+#~ msgid "Error! country file empty!"
+#~ msgstr "Error! country file empty!"
+
+#~ msgid "Allow send request?"
+#~ msgstr "Разрешить отправлять запросы"
+
+#~ msgid "active smsgate"
+#~ msgstr "активный sms"
+
+#~ msgid "Home table"
+#~ msgstr "Вы"
+
+#~ msgid "Mainteance mode"
+#~ msgstr "Режим тех. обслуживания"
+
+#~ msgid "active"
+#~ msgstr "активна"
+
+#~ msgid "not active"
+#~ msgstr "не активна"
+
+#~ msgid "Web"
+#~ msgstr "Web"
+
+#~ msgid "Mobile"
+#~ msgstr "Мобильное"
+
+#~ msgid "Exchange direction "
+#~ msgstr "Направление обмена"
+
+#~ msgid "Site version"
+#~ msgstr "Устройство"
+
+#~ msgid "not to hide, but to permit"
+#~ msgstr "не скрывать, но запретить"
+
+#~ msgid "Error! Direction is available only for registered users"
+#~ msgstr ""
+#~ "Ошибка! Направление доступ только для зарегистрированных пользователей"
+
+#~ msgid "Exchanges page title template (for H1)"
+#~ msgstr "Шаблон заголовка обменов (для H1)"
+
+#~ msgid "Exchanges title template"
+#~ msgstr "Шаблон заголовка обменов"
+
+#~ msgid "Enable accounts verification"
+#~ msgstr "Включить верификацию счетов"
+
+#~ msgid "Enable user verification"
+#~ msgstr "Включить верификацию личности"
+
+#~ msgid "Enable affiliate program"
+#~ msgstr "Включить партнерскую программу"
+
+#~ msgid "Error text for unverified accounts"
+#~ msgstr "Текст ошибки для не верифицированного кошелька"
+
+#~ msgid "Text for maintenance mode"
+#~ msgstr "Текст для режима тех. обслуживания"
+
+#~ msgid "Yes (special)"
+#~ msgstr "Да (специальный)"
+
+#~ msgid "Work with verification"
+#~ msgstr "Работа с верификацией"
+
+#~ msgid "Proceed to checkout"
+#~ msgstr "Перейти к оплате"
+
+#~ msgid ""
+#~ "Do not use auto payouts unnecessarily. Developer is not responsible for "
+#~ "the safety of money on your accounts. More details <a href=\"%s\">here</a>"
+#~ msgstr ""
+#~ "Не используйте авто выплаты без острой необходимости. Разработчик "
+#~ "программного обеспечения не несет ответственности за сохранность денежных "
+#~ "средств на ваших счетах. Подробнее читайте <a href=\"%s\">тут</a>."
+
+#~ msgid ""
+#~ "Do not use auto payouts unnecessarily. Developer is not responsible for "
+#~ "the safety of money on your accounts."
+#~ msgstr ""
+#~ "Не используйте авто выплаты без острой необходимости. Разработчик "
+#~ "программного обеспечения не несет ответственности за сохранность денежных "
+#~ "средств на ваших счетах."
+
+#~ msgid "Only for verified accounts"
+#~ msgstr "Только для верифицированных счетов"
+
+#~ msgid "Only for verified users"
+#~ msgstr "Только для верифицированных пользователей"
+
+#~ msgid "Checking account for verification"
+#~ msgstr "Проверка кошелька на верификацию"
+
+#~ msgid "Payout transaction ID"
+#~ msgstr "ID транзакции автовыплаты"
+
+#~ msgid "Enable SMTP?"
+#~ msgstr "Включить SMTP?"
+
+#~ msgid "Account for pay"
+#~ msgstr "Счет оплаты"
+
+#~ msgid "Transaction ID"
+#~ msgstr "ID транзакции мерчанта"
+
+#~ msgid "Percent fee Get to verfify account"
+#~ msgstr "д"
+
+#~ msgid "Sum fee Get to verfify account"
+#~ msgstr "Сумма комиссии Получаю для верифицированного кошелька"
+
+#~ msgid "Percent fee Give to verfify account"
+#~ msgstr "Процент комиссии Отдаю для верифицированного кошелька"
+
+#~ msgid "Sum fee Give to verfify account"
+#~ msgstr "Сумма комиссии Отдаю для верифицированного кошелька"
+
+#~ msgid "Logs status"
+#~ msgstr "Логи статусов"
+
+#~ msgid "Sort for reserv"
+#~ msgstr "Сортировка для резерва"
+
+#~ msgid "Fixed amount of payment to partner"
+#~ msgstr "Фиксированная сумма выплаты партнеру"
+
+#~ msgid "Fees"
+#~ msgstr "Комиссии"
+
+#~ msgid "active merchants"
+#~ msgstr "активные мерчанты"
+
+#~ msgid "not active merchants"
+#~ msgstr "не активные мерчанты"
+
+#~ msgid "Send SMS with the manual notification of payment?"
+#~ msgstr "Отправлять sms при ручном уведомлении об оплате?"
+
+#~ msgid "AJAX-checker"
+#~ msgstr "AJAX-чекер"
+
+#~ msgid "Captcha in admin panel"
+#~ msgstr "Капча в админ панели"
+
+#~ msgid ""
+#~ "Captcha in admin panel for authorization, registration and password "
+#~ "recovery."
+#~ msgstr ""
+#~ "Капча в админ панели для авторизации, регистрации и восстановления пароля."
+
+#~ msgid "SMS gates data"
+#~ msgstr "Данные SMS гейтов"
+
+#~ msgid "Enable X19 module?"
+#~ msgstr "Включить модуль Х19?"
+
+#~ msgid "Quick payment"
+#~ msgstr "Быстрая оплата"
+
+#~ msgid "Error! You have not entered name for site!"
+#~ msgstr "Ошибка! Вы не ввели обозначение для сайта!"
+
+#~ msgid "Error! Currency with this name for site already used!"
+#~ msgstr "Ошибка! валюта с таким обозначением для сайта уже существует!"
+
+#~ msgid "I read and agree with the<a href=\"%s\">rules</a> of service"
+#~ msgstr "С <a href=\"%s\">правилами сервиса</a> ознакомлен и согласен"
+
+#~ msgid "Payment application"
+#~ msgstr "Оплата заявки"
+
+#~ msgid "Checkout"
+#~ msgstr "Оплатить"
+
+#~ msgid "Continue"
+#~ msgstr "Продолжить"
+
+#~ msgid "PM checker"
+#~ msgstr "PM чекер"
+
+#~ msgid "Account Give must be verified"
+#~ msgstr "Аккаунт Отдаю должен быть верифицирован"
+
+#~ msgid "Account Get must be verified"
+#~ msgstr "Аккаунт Получаю должен быть верифицирован"
+
+#~ msgid "Accounts Give and Get must be verified"
+#~ msgstr "Аккаунт Отдаю и Получаю должен быть верифицирован"
+
+#~ msgid "Account no verified"
+#~ msgstr "Аккаунт не верифицирован"
+
+#~ msgid "Enable PM checker module?"
+#~ msgstr "Включить модуль PM чекер?"
+
+#~ msgid "HTML"
+#~ msgstr "HTML"
+
+#~ msgid "Minimum sum %s"
+#~ msgstr "Минимальная сумма %s"
+
+#~ msgid "Set keyboard shortcuts to change status of selected bids"
+#~ msgstr "Установите"
+
+#~ msgid "hide the application during the transition"
+#~ msgstr "скрывать заявки после перехода к ним"
+
+#~ msgid "Merchant error"
+#~ msgstr "Ошибка мерчанта"
+
+#~ msgid "Post"
+#~ msgstr "Опубликовать"
+
+#~ msgid ""
+#~ "Attention! Click \"Check for Payment\", if you have paid the application."
+#~ msgstr ""
+#~ "Внимание! Нажмите кнопку «Проверить оплату», если вы оплатили заявку."
+
+#~ msgid "Type of determining work status"
+#~ msgstr "Тип определения ста"
+
+#~ msgid "disabled parser"
+#~ msgstr "выключить парсер"
+
+#~ msgid "After payment click on button \"I paid bid\" on bid page."
+#~ msgstr "После оплаты нажмите на кнопку \"Я оплатил\" на странице заявки."
+
+#~ msgid "vid = \"1\" - show randomly"
+#~ msgstr "vid = \"1\" - показывать случайно"
+
+#~ msgid "Reload page and try again"
+#~ msgstr "Перезагрузите страницу и попробуйте снова"
+
+#~ msgid "Auto payout settings"
+#~ msgstr "Настройки авто выплат"
+
+#~ msgid "Merchants instructions"
+#~ msgstr "Инструкции мерчантов"
+
+#~ msgid "Auto payout instructions"
+#~ msgstr "Инструкции авто выплат"
+
+#~ msgid "You disabled authorization by e-mail"
+#~ msgstr "Вы отключили авторизация"
+
+#~ msgid "Authorization logs"
+#~ msgstr "Логи авторизации"
+
+#~ msgid "User language auto detecting "
+#~ msgstr "Авто определение языка пользователя"
+
+#~ msgid "Check your e-mail. We sent your link for authorization"
+#~ msgstr "Проверьте ваш e-mail. Мы отправил вам ссылку для авторизации"
+
+#~ msgid "Identify real account from which payment was made"
+#~ msgstr "Определять реальный счет с которого была произведена оплата"
+
+#~ msgid ""
+#~ "Error! Folder <b>%s</b> is missing or can not be written! Create folder "
+#~ "%s or set access rights 777."
+#~ msgstr ""
+#~ "Ошибка! Директория <b>%s</b> не существует или не может быть записана. "
+#~ "Создайте директорию %s или установите права доступа 777."
+
+#~ msgid "Security"
+#~ msgstr "Безопаность"
+
+#~ msgid "Unverified user account"
+#~ msgstr "Неверифицированный"
+
+#~ msgid "Verified user account"
+#~ msgstr "Верифицированный"
+
+#~ msgid "Authorization letter"
+#~ msgstr "Авторизация в админке по письму"
+
+#~ msgid "Error! this direction already exists!"
+#~ msgstr "Ошибка! Аналогичное направление уже существует!"
+
+#~ msgid "Generate XML for WM mass payment"
+#~ msgstr "Сгенерировать XML для масс. выплат WM"
+
+#~ msgid "Enable verification module?"
+#~ msgstr "Включить модуль верификации?"
+
+#~ msgid "Require second name"
+#~ msgstr "Запрашивать отчество"
+
+#~ msgid "Additional text field"
+#~ msgstr "Дополнительное текстовое поле"
+
+#~ msgid "Field for uploading photo"
+#~ msgstr "Поле для загрузки фото"
+
+#~ msgid "Name for site"
+#~ msgstr "Обозначение для сайта"
+
+#~ msgid "Allowed symbols: a-z, A-Z, 0-9, min.: %1$s , max.: %2$s symbols"
+#~ msgstr ""
+#~ "Разрешенные символы: a-z, A-Z, 0-9, min.: %1$s , max.: %2$s символов"
+
+#~ msgid "Validation login"
+#~ msgstr "Проверка логина"
+
+#~ msgid "For authorization go to"
+#~ msgstr "Для авторизации перейдите по"
+
+#~ msgid "<strong>Link for authorization was sent to your e-mail</strong>"
+#~ msgstr "Ссылка для авторизации была отправлена на ваш e-mail"
+
+#~ msgid "Error! Authorisation error!"
+#~ msgstr "Ошибка! Ошибка авторизации!"
+
+#~ msgid "Name for URL"
+#~ msgstr "Обозначение для URL"
+
+#~ msgid "to"
+#~ msgstr "к"
+
+#~ msgid "Error! system error 3"
+#~ msgstr "Ошибка! Системная ошибка 3"
+
+#~ msgid "Error! Invalid card number"
+#~ msgstr "Ошибка! Не верный номер карты"
+
+#~ msgid "Giving"
+#~ msgstr "Отдаете"
+
+#~ msgid "Receive"
+#~ msgstr "Получаете"
+
+#~ msgid "Verification is passed"
+#~ msgstr "Верификация пройдена"
+
+#~ msgid "You must pass the verification"
+#~ msgstr "Необходимо пройти верификацию"
+
+#~ msgid "Go verification"
+#~ msgstr "Пройти верификацию"
+
+#~ msgid "text for verified"
+#~ msgstr "текст для верифицированных"
+
+#~ msgid "text for unverified"
+#~ msgstr "текст для не верефицированных"
+
+#~ msgid "text in the link for verification"
+#~ msgstr "текст ссылки на верификацию"
+
+#~ msgid "date of renovation"
+#~ msgstr "дата обновления"
+
+#~ msgid "Received payment on the Application Number %s"
+#~ msgstr "Получена оплата по заявке id %s"
+
+#~ msgid "Course"
+#~ msgstr "Курс"
+
+#~ msgid "file exchange off"
+#~ msgstr "файл курсов отключен"
+
+#~ msgid "Error! such an account exists"
+#~ msgstr "Ошибка! такой счет уже существует"
+
+#~ msgid "Error! invalid card number"
+#~ msgstr "Ошибка! Не верный номер карты"
+
+#~ msgid "enter your card number"
+#~ msgstr "введите номер вашей карты"
+
+#~ msgid "enter your account number"
+#~ msgstr "введите номер вашего счета"
+
+#~ msgid "Error! you have not downloaded %s"
+#~ msgstr "Ошибка! Вы не загрузили %s"
+
+#~ msgid "Text reviews"
+#~ msgstr "Текст отзыва"
+
+#~ msgid "Leave feedback"
+#~ msgstr "Оставить отзыв"
+
+#~ msgid "Directions exchanges"
+#~ msgstr "Направления обменов"
+
+#~ msgid "Error! You are using outdated version of browser!"
+#~ msgstr "Ошибка! Вы используете устаревшую версию браузера!"
+
+#~ msgid "send your request"
+#~ msgstr "отправить заявку"
+
+#~ msgid "Error! you did not agree with the site rules"
+#~ msgstr "Ошибка! вы не приняли правила сайта"
+
+#~ msgid ""
+#~ "Error! you have entered an incorrect user name. The user name must "
+#~ "consist of numbers or letters and contain from three to 30 characters."
+#~ msgstr ""
+#~ "Ошибка! вы ввели некорректное имя пользователя. Имя пользователя должно "
+#~ "состоять из цифр или латинских букв и содержать от трех до 30 символов."
+
+#~ msgid "Application Status"
+#~ msgstr "Статус заявки"
+
+#~ msgid "Error! please contact the site administrator"
+#~ msgstr "Ошибка! Сообщите пожалуйста администратору сайта"
+
+#~ msgid "Error! you have entered an incorrect e-mail"
+#~ msgstr "Ошибка! вы ввели неккоректный e-mail"
+
+#~ msgid "Register form"
+#~ msgstr "Форма регистрации"
+
+#~ msgid "Password repeatedly"
+#~ msgstr "Пароль повторно"
+
+#~ msgid ""
+#~ "Note: Here are descriptions of exemplary embodiments of the service, "
+#~ "which has published many dozens of sites x. It is strongly recommended "
+#~ "when using any of the above text, rewriting the content in your own words."
+#~ msgstr ""
+#~ "Примечание: здесь приведены примерные варианты описания сервиса, которые "
+#~ "опубликованы уже x многих десятках сайтов. Настоятельно рекомендуем, при "
+#~ "использовании какого-либо из приведенных текстов, переписывать его "
+#~ "содержание своими словами."
+
+#~ msgid "Error! insufficient funds in the account"
+#~ msgstr "Ошибка! неверный номер счета"
+
+#~ msgid "Payment successfully commissioned"
+#~ msgstr "Выплата успешно заказана"
+
+#~ msgid "Error! invalid account number"
+#~ msgstr "Ошибка! Не верный номер счета"
+
+#~ msgid "Error! the selected currency can not be ordered payment"
+#~ msgstr "Ошибка! на выбранную валюту запрещено выводить деньги"
+
+#~ msgid "Application of waiting"
+#~ msgstr "Заявка в ожидании"
+
+#~ msgid "Application is made"
+#~ msgstr "Заявка выполнена"
+
+#~ msgid "Application is rejected"
+#~ msgstr "Заявка отменена"
+
+#~ msgid "Application canceled by the user"
+#~ msgstr "Заявка отменена пользователем"
+
+#~ msgid "Payment order"
+#~ msgstr "Заказать"
+
+#~ msgid ""
+#~ "Minimum withdrawal amount - <span class=\"red\">%1$s %2$s</span>. "
+#~ "Payments are made after checking your account administrator. Generally, "
+#~ "it takes no more than 24 hours from the time of application for "
+#~ "withdrawal."
+#~ msgstr ""
+#~ "Минимальная сумма для вывода – <span class=\"red\">%1$s %2$s</span>. "
+#~ "Выплаты осуществляются после проверки Вашего аккаунта администратором. "
+#~ "Как правило, на это уходит не более 24 часов с момента подачи заявки на "
+#~ "вывод."
+
+#~ msgid "Error! The page is available only to unauthorized users"
+#~ msgstr "Ошибка! Страница доступна только авторизованным пользователям"
+
+#~ msgid ""
+#~ "Advertising text links that you place on your website, blog, forums, "
+#~ "question and answer services, social networks, bookmarking services will "
+#~ "lead users to the site, and you will receive a guaranteed reward for the "
+#~ "user navigates."
+#~ msgstr ""
+#~ "Рекламный текст с ссылкой, который вы разместите на Вашем сайте, в "
+#~ "блогах, форумах, сервисах вопросов и ответов, социальных сетях, сервисах "
+#~ "закладок будет вести пользователей на сайт, а Вы будете получать "
+#~ "гарантированное вознаграждене за переходы пользователей.\n"
+#~ "\n"
+#~ "Ниже представлены основные варианты рекламных материалов с Вашей "
+#~ "партнерской ссылкой. Вы можете использовать любые тексты ссылки или "
+#~ "воспользоваться нашими. Нужно просто скопировать выбранный код себе на "
+#~ "сайт и начать зарабатывать деньги.\n"
+#~ "\n"
+#~ "Партнерская ссылка в HTML-коде (для размещения на сайтах и блогах)\n"
+#~ "Скрытая партнерская ссылка в HTML-коде (для размещения на сайтах и "
+#~ "блогах)\n"
+#~ "Партнерская ссылка в BBCode (для размещения на форумах)"
+
+#~ msgid ""
+#~ "Below are the main options of promotional materials to your affiliate "
+#~ "link. You can use any text or use our links. You just need to copy the "
+#~ "selected code on your website and start earning money."
+#~ msgstr ""
+#~ "Ниже представлены основные варианты рекламных материалов с Вашей "
+#~ "партнерской ссылкой. Вы можете использовать любые тексты ссылки или "
+#~ "воспользоваться нашими. Нужно просто скопировать выбранный код себе на "
+#~ "сайт и начать зарабатывать деньги."
+
+#~ msgid "Affiliate Link"
+#~ msgstr "Партнерская ссылка"
+
+#~ msgid ""
+#~ "Affiliate link in the HTML-code (for placement on websites and blogs)"
+#~ msgstr "Партнерская ссылка в HTML-коде (для размещения на сайтах и блогах)"
+
+#~ msgid ""
+#~ "Hidden affiliate link in the HTML-code (for placement on websites and "
+#~ "blogs)"
+#~ msgstr ""
+#~ "Скрытая партнерская ссылка в HTML-коде (для размещения на сайтах и блогах)"
+
+#~ msgid "Affiliate link to BBCode (for posting on the forums)"
+#~ msgstr "Партнерская ссылка в BBCode (для размещения на форумах)"
+
+#~ msgid "Identification Number"
+#~ msgstr "Идентификационный номер"
+
+#~ msgid "E-mail Communication"
+#~ msgstr "E-mail для связи"
+
+#~ msgid "Your commission"
+#~ msgstr "Ваша комиссия"
+
+#~ msgid "Pending payments"
+#~ msgstr "Ожидает выплаты"
+
+#~ msgid "Available for paying"
+#~ msgstr "Доступно для выплаты"
+
+#~ msgid "Error! the password is incorrect or does not coincide with the re-"
+#~ msgstr "Ошибка! Пароль не верный или не совпадает с повторным"
+
+#~ msgid "Email sent to your email with a link to confirm"
+#~ msgstr "На ваш e-mail выслано письмо с подтверждением"
+
+#~ msgid "Error! with this e-mail no registered"
+#~ msgstr "Ошибка! С этим e-mail никто не зарегистрирован"
+
+#~ msgid "Lost Password Form"
+#~ msgstr "Форма восстановления пароля"
+
+#~ msgid "Error! The form is available only to unauthorized users"
+#~ msgstr "Ошибка! Форма доступна только неавторизованным пользователям"
+
+#~ msgid "Only user"
+#~ msgstr "Для пользователей"
+
+#~ msgid "Only guest"
+#~ msgstr "Для гостей"
+
+#~ msgid "Time of registration"
+#~ msgstr "Время оформления"
+
+#~ msgid "error"
+#~ msgstr "ошибка"
+
+#~ msgid "received confirmation of payment from the client"
+#~ msgstr "получено подтверждение оплаты от клиента"
+
+#~ msgid "The application paid"
+#~ msgstr "Заявка оплачена"
+
+#~ msgid "The customer refused to pay"
+#~ msgstr "Клиент отказался от оплаты"
+
+#~ msgid "The application is removed"
+#~ msgstr "Заявка удалена"
+
+#~ msgid "the application paid"
+#~ msgstr "заявка оплачена"
+
+#~ msgid "The application is executed"
+#~ msgstr "Заявка исполнена"
+
+#~ msgid "Cancel the bid"
+#~ msgstr "Отменить заявку"
+
+#~ msgid "Every 30 seconds there is a check payment."
+#~ msgstr "Каждые 30 секунд мы проверяем оплату"
+
+#~ msgid "Further checks will take place automatically every 30 seconds."
+#~ msgstr "Далее проверка будет проходить автоматически каждые 30 секунд."
+
+#~ msgid "accepted, the client expects to pay"
+#~ msgstr "принята, ожидает оплаты клиентом"
+
+#~ msgid ""
+#~ "All fields must be filled out in strict accordance with the instructions, "
+#~ "otherwise the payment can not pass."
+#~ msgstr ""
+#~ "Все поля должны быть заполнены в точном соответствии с инструкцией, в "
+#~ "противном случае, платеж может не пройти."
+
+#~ msgid "Create request"
+#~ msgstr "Создать заявку"
+
+#~ msgid "Carefully check the data before making payment requests!"
+#~ msgstr ""
+#~ "Внимательно проверьте правильность платежных данных перед созданием "
+#~ "заявки!"
+
+#~ msgid ""
+#~ "The service after clicking \"Create request\" means that you accept all "
+#~ "the basic requirements for the users of the service."
+#~ msgstr ""
+#~ "Использование сервиса после нажатия кнопки «Создать заявку» означает, что "
+#~ "вы принимаете все основные требования, предъявляемые к Пользователю "
+#~ "сервиса."
+
+#~ msgid "With the <a href=\"%s\">rules</a> of service read and agree"
+#~ msgstr "С <a href=\"%s\">правилами сервиса</a> ознакомлен и согласен"
+
+#~ msgid "Error! Application does not exist"
+#~ msgstr "Ошибка! заявка не существует"
+
+#~ msgid "From the account"
+#~ msgstr "Со счета"
+
+#~ msgid "At the expense"
+#~ msgstr "На счет"
+
+#~ msgid "Are you sure you pay a claim?"
+#~ msgstr "Вы точно оплатили заявку?"
+
+#~ msgid "You have entered an incorrect e-mail"
+#~ msgstr "Вы ввели неккоректный e-mail"
+
+#~ msgid "New password repeatedly"
+#~ msgstr "Новый пароль повторно"
+
+#~ msgid "In view of the"
+#~ msgstr "С учетом"
+
+#~ msgid "additional commission service"
+#~ msgstr "доп. комиссии сервиса"
+
+#~ msgid "commission payment system"
+#~ msgstr "комиссии платежной системы"
+
+#~ msgid "Delete admin captcha"
+#~ msgstr "Удаление админ-каптч"
+
+#~ msgid "<strong>Error:</strong> You have not entered the control number."
+#~ msgstr "<strong>Ошибка:</strong>Вы не ввели контрольное число."
+
+#~ msgid "Direction exchange"
+#~ msgstr "Направления обменов"
+
+#~ msgid "Sum resrve"
+#~ msgstr "Сумма резерва"
+
+#~ msgid "Order price"
+#~ msgstr "Заказанная сумма"
+
+#~ msgid "Choose or upload a file"
+#~ msgstr "Выберите или загрузите файл"
+
+#~ msgid "Insert the file into the field"
+#~ msgstr "Вставить файл в поле"
+
+#~ msgid "Error! Action not taken"
+#~ msgstr "Ошибка! Действие не выполнено"
+
+#~ msgid "The action completed successfully"
+#~ msgstr "Действие успешно выполнено"
+
+#~ msgid "Error! You have not entered an e-mail"
+#~ msgstr "Ошибка! Вы не ввели e-mail"
+
+#~ msgid "Request has been successfully adopted"
+#~ msgstr "Запрос успешно создан"
+
+#~ msgid "Error! currency with the designation for the site already exists!"
+#~ msgstr "Ошибка! валюта с таким обозначением для сайта уже существует!"
+
+#~ msgid "Reset the counter"
+#~ msgstr "Обнулить посещаемость"
+
+#~ msgid "Error! access denied"
+#~ msgstr "Ошибка! доступ запрещен"
+
+#~ msgid "Error! file does not exist"
+#~ msgstr "Ошибка! Файл не существует"
+
+#~ msgid "Failure cause"
+#~ msgstr "Причина отказа"
+
+#~ msgid "is not verified"
+#~ msgstr "не верифицированно"
+
+#~ msgid "Error! currency does not exist or is disabled"
+#~ msgstr "Ошибка! валюта не существует либо отключена"
+
+#~ msgid "Blocking"
+#~ msgstr "Банн"
+
+#~ msgid "Users in the admin panel"
+#~ msgstr "Пользователи в админ-панели"
+
+#~ msgid "not blocked"
+#~ msgstr "не заблокирован"
+
+#~ msgid "blocked"
+#~ msgstr "заблокирован"
+
+#~ msgid "Error! Not id!"
+#~ msgstr "Ошибка! Не указан id!"
+
+#~ msgid "no updates :("
+#~ msgstr "нет обновлений :("
+
+#~ msgid "update available"
+#~ msgstr "доступно обновление"
+
+#~ msgid "List users"
+#~ msgstr "Список пользователей"
+
+#~ msgid "There are unapproved reviews (%s)"
+#~ msgstr "Есть неодобренные отзывы (%s)"
+
+#~ msgid "Error! reviews banned"
+#~ msgstr "Ошибка! отзывы закрыты"
+
+#~ msgid "incoming"
+#~ msgstr "приход"
+
+#~ msgid "outgoing"
+#~ msgstr "расход"
+
+#~ msgid ""
+#~ "Your review has successfully been added. Mail sent to your confirmation "
+#~ "email"
+#~ msgstr "Ваш отзыв добавлен. На ваш e-mail выслано письмо с подтверждением"
+
+#~ msgid "Reserv settings"
+#~ msgstr "Настройки резерва"
+
+#~ msgid "Stats"
+#~ msgstr "Статистика"
+
+#~ msgid "Add xml for webmoney"
+#~ msgstr "Сделать XML для webmoney"
+
+#~ msgid "not to hide, but to ban"
+#~ msgstr "не скрывать, но запретить"
+
+#~ msgid "Moduls"
+#~ msgstr "Модули"
+
+#~ msgid "Download the data of the country"
+#~ msgstr "Загрузить данные страны"
+
+#~ msgid "For your country access to the site is prohibited"
+#~ msgstr "Для вашей страны доступ запрещен"
+
+#~ msgid "Bought"
+#~ msgstr "Куплено"
+
+#~ msgid "Actually bought"
+#~ msgstr "Куплено фактически"
+
+#~ msgid "Sold"
+#~ msgstr "Продано"
+
+#~ msgid "Actually sold"
+#~ msgstr "Продано фактически"
+
+#~ msgid "You choose the type of currency or currency"
+#~ msgstr "вы не выбрали валюту или тип валюты"
+
+#~ msgid "Error! system error"
+#~ msgstr "Ошибка! Системная ошибка"
+
+#~ msgid "With the commission"
+#~ msgstr "С учетом комиссии"
+
+#~ msgid "Error! Direction is available only to registered users"
+#~ msgstr ""
+#~ "Ошибка! Направление доступ только для зарегистрированных пользователей"
+
+#~ msgid "The selected direction does not exist"
+#~ msgstr "Выбранное направление не существует"
+
+#~ msgid "I am missing?"
+#~ msgstr "Не хватает?"
+
+#~ msgid "directions are available only to authorized users"
+#~ msgstr "направления доступны только авторизованным пользователям"
+
+#~ msgid "Application successfully created"
+#~ msgstr "Заявка успешно создана"
+
+#~ msgid "Error! for your country denied exchange"
+#~ msgstr "Ошибка! для вашей страны обмен запрещен"
+
+#~ msgid "Error! directions are available only to authorized users"
+#~ msgstr ""
+#~ "Ошибка! Направление доступно только авторизованным пользователям Ошибка! "
+#~ "Направление обмена запрещено для вашего языка"
+
+#~ msgid "Error! The direction of the exchange-smoking for your language"
+#~ msgstr "Ошибка! Направление обмена запрещено для вашего языка"
+
+#~ msgid "giving"
+#~ msgstr "отдаете"
+
+#~ msgid "getting"
+#~ msgstr "получаете"
+
+#~ msgid "Error! For your IP exchange denied"
+#~ msgstr "Ошибка! Вашему IP запрещено производить обмен"
+
+#~ msgid "Error! for your ip denied exchange"
+#~ msgstr "Ошибка! Вашему IP запрещено производить обмен"
+
+#~ msgid "by blacklisted"
+#~ msgstr "в черном списке"
+
+#~ msgid "minuts"
+#~ msgstr "минут"
+
+#~ msgid "user com."
+#~ msgstr "польз. ком."
+
+#~ msgid "admin com."
+#~ msgstr "админ. ком."
+
+#~ msgid "Bill does not coincide with the initial"
+#~ msgstr "Счет не совпадает с первоночальным"
+
+#~ msgid "New user registration on your blog %s:"
+#~ msgstr "New user registration on your blog %s:"
+
+#~ msgid "Hide At a glance"
+#~ msgstr "Скрыть На виду"
+
+#~ msgid "Adding to API (checkfraud.info)"
+#~ msgstr "Добавление по API (checkfraud.info)"
+
+#~ msgid "Courses"
+#~ msgstr "Курсы"
+
+#~ msgid "Edit reserv transaction"
+#~ msgstr "Редактировать транзакцию"
+
+#~ msgid "Add reserv transaction"
+#~ msgstr "Добавить транзакцию"
+
+#~ msgid "Application for Moderation"
+#~ msgstr "Заявка на модерации"
+
+#~ msgid "Application confirmed"
+#~ msgstr "Заявка подтверждена"
+
+#~ msgid "Denied"
+#~ msgstr "Отказано"
+
+#~ msgid "Applications for moderation"
+#~ msgstr "Заявки на модерации"
+
+#~ msgid "Referals"
+#~ msgstr "Рефералы"
+
+#~ msgid "Add expulsion"
+#~ msgstr "Добавить отчисление"
+
+#~ msgid "Payments"
+#~ msgstr "Выплаты"
+
+#~ msgid "Daily limit for Received"
+#~ msgstr "Суточный лимит  на покупку"
+
+#~ msgid "Daily limit for Sent"
+#~ msgstr "Суточный лимит  на продажу"
+
+#~ msgid "Edit expulsion"
+#~ msgstr "Редактировать отчисление"
+
+#~ msgid "The amount of more than"
+#~ msgstr "Сумма больше"
+
+#~ msgid "Applications waiting"
+#~ msgstr "Заявки в ожидании"
+
+#~ msgid "Paid applications"
+#~ msgstr "Выполненые заявки"
+
+#~ msgid "System"
+#~ msgstr "Система"
+
+#~ msgid "Make expected"
+#~ msgstr "Сделать ожидающей"
+
+#~ msgid "Include affiliate program?"
+#~ msgstr "Включить партнерскую программу?"
+
+#~ msgid "Calculate your profit"
+#~ msgstr "Начислять партнерские"
+
+#~ msgid "Only users"
+#~ msgstr "Только пользователи"
+
+#~ msgid "To consider partnerships in the provision of payment?"
+#~ msgstr "Учитывать партнерские в резерве?"
+
+#~ msgid "Change reserv Give when bid has status"
+#~ msgstr "Изменять резерв Отдаю, когда заявка имеет статус"
+
+#~ msgid "Change reserv Get when bid has status"
+#~ msgstr "Изменять резерв Получаю, когда заявка имеет статус"
+
+#~ msgid "Allowed characters: a-zA-z0-9, min.: %1$s , max.: %2$s characters"
+#~ msgstr "Разрешенные символы: а-"
+
+#~ msgid "Sum give"
+#~ msgstr "Сумма отдаете"
+
+#~ msgid "Sum get"
+#~ msgstr "Сумма получаете"
+
+#~ msgid "Live settings"
+#~ msgstr "Live настройки"
+
+#~ msgid "disable update"
+#~ msgstr "отключено"
+
+#~ msgid "enable update"
+#~ msgstr "включено"
+
+#~ msgid "LIVE Applications"
+#~ msgstr "LIVE заявки"
+
+#~ msgid "Auto update bids"
+#~ msgstr "Автообновление заявок"
+
+#~ msgid "Time auto-update"
+#~ msgstr "Время автообновления"
+
+#~ msgid "minimize a window"
+#~ msgstr "свернуть окно"
+
+#~ msgid "Applications"
+#~ msgstr "Заявки"
+
+#~ msgid "Complete removal of the application site"
+#~ msgstr "Когда заявка удалена полностью с сайта"
+
+#~ msgid "Note! Exchange does novice!"
+#~ msgstr "Обратите внимание. Обмен делает новичок."
+
+#~ msgid "Committed a substitution data"
+#~ msgstr "Совершена подстановка данных"
+
+#~ msgid "Time registration"
+#~ msgstr "Время оформления"
+
+#~ msgid "Time change"
+#~ msgstr "Изменение статуса"
+
+#~ msgid "Sum (add. com.)"
+#~ msgstr "Сумма (доп.ком.)"
+
+#~ msgid "Sum (com.)"
+#~ msgstr "Сумма (комм.)"
+
+#~ msgid "All bids info"
+#~ msgstr "Информация"
+
+#~ msgid "Sum of profits"
+#~ msgstr "Сумма прибыли"
+
+#~ msgid "Amount in local currency"
+#~ msgstr "Сумма обмена во внутренней валюте"
+
+#~ msgid "Give info"
+#~ msgstr "Информация \"Отдаете\""
+
+#~ msgid "Sum add. comission"
+#~ msgstr "Сумма доп. комиссии"
+
+#~ msgid "Sum give add. comission"
+#~ msgstr "Сумма отдаете с комиссией"
+
+#~ msgid "Comission pay system"
+#~ msgstr "Комиссия ПС"
+
+#~ msgid "Sum give comission"
+#~ msgstr "Сумма отдаете с комиссией"
+
+#~ msgid "Sum from reserv"
+#~ msgstr "Сумма для резерва"
+
+#~ msgid "Get info"
+#~ msgstr "Информация \"Получаете\""
+
+#~ msgid "Sum from course"
+#~ msgstr "Сумма по курсу"
+
+#~ msgid "Sum get add. comission"
+#~ msgstr "Сумма отдаете с доп. комиссией"
+
+#~ msgid "Sum get comission"
+#~ msgstr "Сумма отдаете с комиссией"
+
+#~ msgid "Hide block"
+#~ msgstr "Скрыть блок"
+
+#~ msgid "Status bids"
+#~ msgstr "Статус заявки"
+
+#~ msgid "not paid bids"
+#~ msgstr "не оплаченные заявки"
+
+#~ msgid "paid bids"
+#~ msgstr "оплаченые заявки"
+
+#~ msgid "Sum give min."
+#~ msgstr "Мин. сумма отдаете"
+
+#~ msgid "Sum get min."
+#~ msgstr "Мин. сумма получаете"
+
+#~ msgid "Currency and types"
+#~ msgstr "Валюты и типы"
+
+#~ msgid "Currency title give"
+#~ msgstr "Валюта отдаете"
+
+#~ msgid "Currency title get"
+#~ msgstr "Валюта получаете"
+
+#~ msgid "PS title give"
+#~ msgstr "ПС отдаете"
+
+#~ msgid "PS title get"
+#~ msgstr "ПС получаете"
+
+#~ msgid "Currency code give"
+#~ msgstr "Код валюты отдаете"
+
+#~ msgid "Currency code get"
+#~ msgstr "Код валюты получаете"
+
+#~ msgid "Valuts account"
+#~ msgstr "Счет оплаты"
+
+#~ msgid "Error! the requested amount is less than zero"
+#~ msgstr "Ошибка! Сумма запроса должна быть больше 0"
+
+#~ msgid "Lost Password form"
+#~ msgstr "Форма восстановления пароля"
+
+#~ msgid "When you create an application for the exchange of"
+#~ msgstr "При создании заявки на обмен"
+
+#~ msgid "When you cancel an application for the exchange of"
+#~ msgstr "При отказе оплачивать заявки на обмен"
+
+#~ msgid "When a customer has pressed \"I paid application\""
+#~ msgstr "Когда клиент нажал \"я оплатил заявку\""
+
+#~ msgid "When the application is actually paid"
+#~ msgstr "Когда заявка реально оплачена"
+
+#~ msgid "When the application is paid to the other purse"
+#~ msgstr "Когда заявка оплачена с другого кошелька"
+
+#~ msgid "When the application is marked as an error"
+#~ msgstr "Когда заявка помечена ошибочной"
+
+#~ msgid "When an application is made"
+#~ msgstr "Когда заявка выполнена"
+
+#~ msgid "When you delete an application"
+#~ msgstr "При удалении заявки"
+
+#~ msgid "Course give"
+#~ msgstr "Курс отдаете"
+
+#~ msgid "Course get"
+#~ msgstr "Курс получаете"
+
+#~ msgid "Name ps give"
+#~ msgstr "Название ПС отдаете"
+
+#~ msgid "Name ps get"
+#~ msgstr "Название ПС получаете"
+
+#~ msgid "Currency type give"
+#~ msgstr "Тип валюты отдаете"
+
+#~ msgid "Currency type get"
+#~ msgstr "Тип валюты получаете"
+
+#~ msgid "Sum d.c. give"
+#~ msgstr "Сумма отдаете (доп.ком)"
+
+#~ msgid "Sum commis give"
+#~ msgstr "Сумма отдаете(комиссия п.с.)"
+
+#~ msgid "Sum d.c. get"
+#~ msgstr "Сумма получаете (доп.ком)"
+
+#~ msgid "Sum commis get"
+#~ msgstr "Сумма получаете(комиссия п.с.)"
+
+#~ msgid "Customizable"
+#~ msgstr "Настриваем"
+
+#~ msgid "To send a letter?"
+#~ msgstr "Отправлять письмо?"
+
+#~ msgid "E-mail recipient"
+#~ msgstr "E-mail получателя"
+
+#~ msgid ""
+#~ "Poluchaeteley if more than one, write their email separated by a comma"
+#~ msgstr "Если получаетелей больше одного, напишите их почту, через запятую"
+
+#~ msgid "Letter text"
+#~ msgstr "Текст письма"
+
+#~ msgid "Custom affiliate payout"
+#~ msgstr "Заказ партнерской выплаты"
+
+#~ msgid "Charge of Partner profit"
+#~ msgstr "Начисление партнерского вознаграждения"
+
+#~ msgid "Denial of verification"
+#~ msgstr "Отказ верификации"
+
+#~ msgid "Successful verification account"
+#~ msgstr "Подтверждение верификации номера счета"
+
+#~ msgid "Denial of verification account"
+#~ msgstr "Отказ верификации номера счета"
+
+#~ msgid "When available reserve"
+#~ msgstr "При доступном резерве"
+
+#~ msgid "Setting the reserv"
+#~ msgstr "Настройки резерва"
+
+#~ msgid "Consider the arrival of the application status"
+#~ msgstr "Считать приходом заявки со статусом"
+
+#~ msgid "Considered the status of the application flow"
+#~ msgstr "Считать расходом заявки со статусом"
+
+#~ msgid "new application"
+#~ msgstr "новая заявка"
+
+#~ msgid "canceled by the user"
+#~ msgstr "отменена пользователем"
+
+#~ msgid "delete application"
+#~ msgstr "удаленная заявка"
+
+#~ msgid "marked by the user as paid"
+#~ msgstr "отмечена пользователем как оплаченная"
+
+#~ msgid "paid application"
+#~ msgstr "оплаченая заявка"
+
+#~ msgid "paid from another purse"
+#~ msgstr "оплаченая с другого кошелька"
+
+#~ msgid "error application"
+#~ msgstr "ошибочная заявка"
+
+#~ msgid "success application"
+#~ msgstr "выполненная заявка"
+
+#~ msgid "user status"
+#~ msgstr "пользовательский статус"
+
+#~ msgid "Setting the exchange"
+#~ msgstr "Настройки обменов"
+
+#~ msgid "maintenance mode"
+#~ msgstr "Режим техобслуживания"
+
+#~ msgid "Text for maintenance"
+#~ msgstr "Тект при техобслуживании"
+
+#~ msgid "Hide exchange direction from the guests?"
+#~ msgstr "Скрыть направления обмена от гостей?"
+
+#~ msgid "Type table of exchange"
+#~ msgstr "Тип таблицы обмена"
+
+#~ msgid "If the chosen direction nothing"
+#~ msgstr "Если выбранного направления не существует"
+
+#~ msgid "Report an error"
+#~ msgstr "Выдавать ошибку"
+
+#~ msgid "The type of load"
+#~ msgstr "Подгружать по типу"
+
+#~ msgid "Exchange views"
+#~ msgstr "Вид обмена"
+
+#~ msgid "New page"
+#~ msgstr "На новой странице"
+
+#~ msgid "The main"
+#~ msgstr "На главной"
+
+#~ msgid "Amount give"
+#~ msgstr "Сумма отдаете"
+
+#~ msgid "The amount to give add. commission"
+#~ msgstr "Отдаете с доп. комиссией"
+
+#~ msgid "Sum give with commission"
+#~ msgstr "Отдаете с комиссией"
+
+#~ msgid "Amount get"
+#~ msgstr "Сумма получаете"
+
+#~ msgid "The amount to get add. commission"
+#~ msgstr "Получаете с доп.комиссией"
+
+#~ msgid "Sum get with commission"
+#~ msgstr "Получаете с комиссией"
+
+#~ msgid "How much to consider the amount of exchange?"
+#~ msgstr "Какую сумму считать суммой обмена?"
+
+#~ msgid "Allow query reserve?"
+#~ msgstr "Разрешить запрос резерва?"
+
+#~ msgid "Read on fly sum?"
+#~ msgstr "Обновлять сумму на лету?"
+
+#~ msgid "Redirect page exchange"
+#~ msgstr "Редирект на страницу обмена"
+
+#~ msgid "Automatic deletion of unpaid claims"
+#~ msgstr "Автоматическое удаление неоплаченных заявок"
+
+#~ msgid "Exchange order"
+#~ msgstr "Форма обмена"
+
+#~ msgid ""
+#~ "If for some reason your job does not work, you can contact on a direct "
+#~ "link to the"
+#~ msgstr ""
+#~ "Если по каким-то причинам ваши задания не срабатывают, вы можете "
+#~ "обратится на прямую к ссылке"
+
+#~ msgid "Special file for courses"
+#~ msgstr "Специальный файл для курсов"
+
+#~ msgid "Remove applications with inappropriate rules"
+#~ msgstr "Удаление заявок с непринятыми правилами"
+
+#~ msgid "Removal of unpaid claims"
+#~ msgstr "Удаление не оплаченных заявок"
+
+#~ msgid "Parser currency"
+#~ msgstr "Парсер валют"
+
+#~ msgid "Setting export txt and xml"
+#~ msgstr "Настройки экспорта txt и xml"
+
+#~ msgid "Settings HTML sitemap"
+#~ msgstr "Настройки HTML карты сайта"
+
+#~ msgid "output news?"
+#~ msgstr "выводить новости?"
+
+#~ msgid "output exchanges?"
+#~ msgstr "выводить обмены?"
+
+#~ msgid "output pages?"
+#~ msgstr "выводить страницы?"
+
+#~ msgid "exclude pages"
+#~ msgstr "исключить страницы"
+
+#~ msgid "Work with exchange applications"
+#~ msgstr "Работа с заявками на обмен"
+
+#~ msgid "Tagline"
+#~ msgstr "Tagline"
+
+#~ msgid "Captcha admin panel"
+#~ msgstr "Каптча в админ-панели"
+
+#~ msgid "Address of the admin panel"
+#~ msgstr "Адрес админ-панели"
+
+#~ msgid "Working with financial statistics"
+#~ msgstr "Работа с финансовой статистикой"
+
+#~ msgid "Working with GEO IP"
+#~ msgstr "Работа с GEO IP"
+
+#~ msgid "Working with an merchants"
+#~ msgstr "Работа с мерчантами"
+
+#~ msgid "Working with an affiliate program"
+#~ msgstr "Работа с партнерской программой"
+
+#~ msgid "General manager"
+#~ msgstr "Управляющий"
+
+#~ msgid "Access to the admin panel"
+#~ msgstr "Доступ в админ-панель"
+
+#~ msgid "Working with SEO"
+#~ msgstr "Работа с SEO"
+
+#~ msgid "Work with a currency accounts"
+#~ msgstr "Работа с счетами валют"
+
+#~ msgid "Working with queries reserve"
+#~ msgstr "Работа с запросами резерва"
+
+#~ msgid "Minimum commission from the sender"
+#~ msgstr "Мин. комиссия с отправителя"
+
+#~ msgid "Minimum commission from the recipient"
+#~ msgstr "Мин. комиссия с получателя"
+
+#~ msgid "The maximum percentage affiliate"
+#~ msgstr "Максимальный партнёрский процент"
+
+#~ msgid "Description exchange"
+#~ msgstr "Описание обмена"
+
+#~ msgid "Timeline for exchange"
+#~ msgstr "Срок выполнения обмена"
+
+#~ msgid "Instructions for payment"
+#~ msgstr "Инструкция по оплате"
+
+#~ msgid "Only verified users"
+#~ msgstr "Только для верифицированных пользователей"
+
+#~ msgid "Only verified accounts"
+#~ msgstr "Только для верифицированных счетов"
+
+#~ msgid "Giving and Receive"
+#~ msgstr "Отдаете и Получаете"
+
+#~ msgid "Add direction exchange"
+#~ msgstr "Добавить направление обмена"
+
+#~ msgid "General Settings"
+#~ msgstr "Общие настройки"
+
+#~ msgid "Commission payment systems"
+#~ msgstr "Комиссии платежных систем"
+
+#~ msgid "Commission of exchange office"
+#~ msgstr "Комиссии обменного пункта"
+
+#~ msgid "Amount of exchange"
+#~ msgstr "Суммы обмена"
+
+#~ msgid "Customer Information"
+#~ msgstr "Информация для клиентов"
+
+#~ msgid "Profit margin"
+#~ msgstr "Размер прибыли"
+
+#~ msgid "Add to the course"
+#~ msgstr "Прибавляем к курсу"
+
+#~ msgid "Your rate"
+#~ msgstr "Свой курс ЦБ"
+
+#~ msgid "Snap to its Central Bank rate"
+#~ msgstr "Привязать к своему курсу ЦБ"
+
+#~ msgid "Commission"
+#~ msgstr "Комиссия"
+
+#~ msgid "exchanger pays the commission"
+#~ msgstr "обменник оплачивает комиссию"
+
+#~ msgid "Min. amount of commission"
+#~ msgstr "Мин. сумма комиссии"
+
+#~ msgid "Max. amount of commission"
+#~ msgstr "Макс. сумма комиссии"
+
+#~ msgid "Additional commission from the sender"
+#~ msgstr "Доп комиссия с отправителя"
+
+#~ msgid "Additional commission from the recipient"
+#~ msgstr "Доп комиссия с получателя"
+
+#~ msgid "Limitation reserve towards"
+#~ msgstr "Ограничение резерва по направлению"
+
+#~ msgid "Privacy areas for guests"
+#~ msgstr "Приватность направления для гостей"
+
+#~ msgid "Banned country"
+#~ msgstr "Запрещенные страны"
+
+#~ msgid "Banned ip and masks (a new line)"
+#~ msgstr "Запрещенные IP и маски(с новой строки)"
+
+#~ msgid "Pay merchant"
+#~ msgstr "Мерчант выплаты"
+
+#~ msgid "Sort directions exchanges"
+#~ msgstr "Сортировка направлений обмена"
+
+#~ msgid "Templates exchange directions"
+#~ msgstr "Шаблоны направлений обмена"
+
+#~ msgid "Work with directions exchanges"
+#~ msgstr "Работа с направлениями обменов"
+
+#~ msgid "Exchange course 1"
+#~ msgstr "Курс 1"
+
+#~ msgid "Exchange course 2"
+#~ msgstr "Курс 2"
+
+#~ msgid "Full name"
+#~ msgstr "ФИО"
+
+#~ msgid "If you are using crowns server, select the \"special file\""
+#~ msgstr ""
+#~ "Если вы используете крон сервера, выберите вариант \"в специальном файле\""
+
+#~ msgid ""
+#~ "Captcha in the admin panel, authorization, registration and password "
+#~ "recovery"
+#~ msgstr ""
+#~ "Каптча в админ-панели, при авторизации, регистрации и восстановлении "
+#~ "пароля"
+
+#~ msgid "New address admin panel, instead of wp-login.php"
+#~ msgstr "Новый адрес админ-панели, вместо wp-login.php"
+
+#~ msgid "Hidden counters"
+#~ msgstr "Скрытые счетчики"
+
+#~ msgid "In header"
+#~ msgstr "В шапке"
+
+#~ msgid "In footer"
+#~ msgstr "В подвале"
+
+#~ msgid "Currency name"
+#~ msgstr "Валюта"
+
+#~ msgid "Currency type title"
+#~ msgstr "Тип валюты"
+
+#~ msgid "Error! currency does not exist"
+#~ msgstr "Ошибка! валюта не существует"
+
+#~ msgid "After confirmation of payment"
+#~ msgstr "После подтверждения оплаты"
+
+#~ msgid "After receipt of payment"
+#~ msgstr "После получения оплаты"
+
+#~ msgid "Receive payment from the other purse"
+#~ msgstr "Оплата с другого кошелька"
+
+#~ msgid "Block ip"
+#~ msgstr "Заблокировать ip"
+
+#~ msgid "Permit ip"
+#~ msgstr "Разрешить ip"
+
+#~ msgid "Title template"
+#~ msgstr "Название шаблона"
+
+#~ msgid "Pattern"
+#~ msgstr "Вид шаблона"
+
+#~ msgid "Possibility of verification"
+#~ msgstr "Возможность верификации"
+
+#~ msgid "Conditions for verification"
+#~ msgstr "Условия для верификации"
+
+#~ msgid "Designation for the site"
+#~ msgstr "Обозначение для сайта"
+
+#~ msgid "Designation for the xml"
+#~ msgstr "Обозначение для xml"
+
+#~ msgid ""
+#~ "Designation for the XML standard to be filled: <a href=\"%s\">Estandards."
+#~ "ru</a>."
+#~ msgstr ""
+#~ "Вводите обозначение согласно стандарту: <a href=\"%s\">Estandards.ru</a>."
+
+#~ msgid "Lead field"
+#~ msgstr "Привести поле"
+
+#~ msgid "Daily allowance for the purchase of"
+#~ msgstr "Суточный резерв на покупку"
+
+#~ msgid "The daily allowance for sale"
+#~ msgstr "Суточный резерв на продажу"
+
+#~ msgid "Field Name \"from the account\""
+#~ msgstr "Название поля \"со счета\""
+
+#~ msgid "Show the \"from the account\"?"
+#~ msgstr "Выводить поле \"со счета\"?"
+
+#~ msgid "Field Name \"at the expense\""
+#~ msgstr "Название поля \"на счет\""
+
+#~ msgid "Show the \"at the expense\"?"
+#~ msgstr "Выводить поле \"на счет\"?"
+
+#~ msgid "Tips on filling out account"
+#~ msgstr "Подсказка при вводе"
+
+#~ msgid "The first digits"
+#~ msgstr "Первые символы"
+
+#~ msgid "Available characters"
+#~ msgstr "Разрешенные символы"
+
+#~ msgid "Type account"
+#~ msgstr "Тип"
+
+#~ msgid "currency account"
+#~ msgstr "аккаунт"
+
+#~ msgid "card"
+#~ msgstr "карта"
+
+#~ msgid "The conclusion of partnership assets"
+#~ msgstr "Вывод партнёрских средств"
+
+#~ msgid ""
+#~ "Caution! After the addition of the currency it is necessary to set the <a "
+#~ "href=\"%s\">reserve</a>."
+#~ msgstr ""
+#~ "Внимание! После добавления валюты, для неё необходимо <a href=\"%s"
+#~ "\">задать резерв</a>."
+
+#~ msgid "Issued"
+#~ msgstr "Выдано"
+
+#~ msgid "Curency accounts (a new line)"
+#~ msgstr "Счета (с новой строки)"
+
+#~ msgid "Count visits"
+#~ msgstr "Просмотров"
+
+#~ msgid "Limit visits"
+#~ msgstr "Лимит показов"
+
+#~ msgid "Exchanges today"
+#~ msgstr "Обменов сегодня"
+
+#~ msgid "Exchanges this month"
+#~ msgstr "Обменов в месяце"
+
+#~ msgid "Custom fields currency"
+#~ msgstr "Доп.поля валют"
+
+#~ msgid "Work with the user status of applications"
+#~ msgstr "Работа с пользовательскими статусами заявок"
+
+#~ msgid "Edit User Status application"
+#~ msgstr "Редактировать пользовательский статус"
+
+#~ msgid "Add User Status application"
+#~ msgstr "Добавить пользовательский статус"
+
+#~ msgid "Status small description"
+#~ msgstr "Коментарий статуса"
+
+#~ msgid "Status application"
+#~ msgstr "Статусы заявок"
+
+#~ msgid "Count application"
+#~ msgstr "Кол-во заявок"
+
+#~ msgid "SMS gates sattings"
+#~ msgstr "Настройки SMS гейтов"
+
+#~ msgid "SMS gate data"
+#~ msgstr "Данные SMS гейтов"
+
+#~ msgid "SMS gate settings"
+#~ msgstr "Настройки"
+
+#~ msgid "Merchant settings"
+#~ msgstr "Настройки мерчантов"
+
+#~ msgid "Settings pay merchants"
+#~ msgstr "Настройки мерчантов выплаты"
+
+#~ msgid "Data sms gate"
+#~ msgstr "Данные sms гейтов"
+
+#~ msgid "Instructions merchants"
+#~ msgstr "Инструкции мерчантов"
+
+#~ msgid "Instructions pay merchants"
+#~ msgstr "Инструкции мерчантов выплаты"
+
+#~ msgid "Settings sms gate"
+#~ msgstr "Настройки sms гейтов"
+
+#~ msgid "Settings merchants"
+#~ msgstr "Настройки мерчантов"
+
+#~ msgid "When the output?"
+#~ msgstr "Когда выводить?"
+
+#~ msgid "receive"
+#~ msgstr "получаете"
+
+#~ msgid "Elections (new line)"
+#~ msgstr "Варианты (с новой строки)"
+
+#~ msgid "active custom_fields"
+#~ msgstr "активные"
+
+#~ msgid "not active custom_fields"
+#~ msgstr "не активные"
+
+#~ msgid "Domestic rate"
+#~ msgstr "Внутренний курс"
+
+#~ msgid "Individual course"
+#~ msgstr "Свой курс"
+
+#~ msgid "multiplied by individual course"
+#~ msgstr "умножать на свой курс"
+
+#~ msgid "Requests for purse verification"
+#~ msgstr "Запросы на верификацию счета"
+
+#~ msgid "Include verification module?"
+#~ msgstr "Включить модуль верификации?"
+
+#~ msgid "Additional discount for verified accounts"
+#~ msgstr "Доп. скидка для верифицированных"
+
+#~ msgid "additional text box"
+#~ msgstr "дополнительное текстовое поле"
+
+#~ msgid "title"
+#~ msgstr "название"
+
+#~ msgid "Field for uploading photos"
+#~ msgstr "Поле для загрузки фото"
+
+#~ msgid "Verified by"
+#~ msgstr "Верифицирован"
+
+#~ msgid "Verification of accounts"
+#~ msgstr "Заявки на верификацию аккаунта"
+
+#~ msgid "Deny verification"
+#~ msgstr "Отказать в верификации"
+
+#~ msgid "Proven applications"
+#~ msgstr "Подтвержденные заявки"
+
+#~ msgid "exchange rate 1"
+#~ msgstr "Курс обмена 1"
+
+#~ msgid "exchange rate 2"
+#~ msgstr "Курс обмена 2"
+
+#~ msgid "exchange 1"
+#~ msgstr "курс обмена 1"
+
+#~ msgid "exchange 2"
+#~ msgstr "курс обмена 2"
+
+#~ msgid "text"
+#~ msgstr "текст"
+
+#~ msgid "Location"
+#~ msgstr "Расположение"
+
+#~ msgid "Transaction reserve"
+#~ msgstr "Транзакции резерва"
+
+#~ msgid "expense"
+#~ msgstr "расход"
+
+#~ msgid "Edit reviews"
+#~ msgstr "Редактировать отзыв"
+
+#~ msgid "Add reviews"
+#~ msgstr "Добавить отзыв"
+
+#~ msgid "The amount on the page"
+#~ msgstr "Количество на странице"
+
+#~ msgid "Deduce"
+#~ msgstr "Выводить"
+
+#~ msgid "to language"
+#~ msgstr "по языку"
+
+#~ msgid "A method of adding"
+#~ msgstr "Метод добавления"
+
+#~ msgid "It is forbidden to add"
+#~ msgstr "Запрещено добавлять"
+
+#~ msgid "Value (a new line)"
+#~ msgstr "Значения(с новой строки)"
+
+#~ msgid "Adding to API"
+#~ msgstr "Добавление по API"
+
+#~ msgid "not active parser"
+#~ msgstr "не активен"
+
+#~ msgid "active parser"
+#~ msgstr "активен"
+
+#~ msgid "Its course"
+#~ msgstr "Свой курс"
+
+#~ msgid "to consider partnerships payments"
+#~ msgstr "учитывать партнерские выплаты"
+
+#~ msgid "to take into account transactions reserve"
+#~ msgstr "учитывать транзакции резерва"
+
+#~ msgid "Info"
+#~ msgstr "Информация"
+
+#~ msgid "success bids"
+#~ msgstr "завершенные заявки"
+
+#~ msgid "Partner"
+#~ msgstr "Партнер"
+
+#~ msgid "User Status application"
+#~ msgstr "Пользовательские статусы заявок"
+
+#~ msgid "Increasing the reserve when I give the application has the status"
+#~ msgstr "Увеличивать резерв Отдаю когда заявка имеет статус"
+
+#~ msgid "To reduce the reserve get when the application has the status"
+#~ msgstr "Уменьшать резерв получаю когда заявка имеет статус"
+
+#~ msgid "Domestic rate (1 dollar)"
+#~ msgstr "Внутренний курс (за 1 доллар)"
+
+#~ msgid ""
+#~ "Minimum withdrawal amount - <span class=\"red\">%s USD</span>. Payments "
+#~ "are made after checking your account administrator. Generally, it takes "
+#~ "no more than 24 hours from the time of application for withdrawal."
+#~ msgstr ""
+#~ "Минимальная сумма для вывода – <span class=\"red\">%s USD</span>. Выплаты "
+#~ "осуществляются после проверки Вашего аккаунта администратором. Как "
+#~ "правило, на это уходит не более 24 часов с момента подачи заявки на вывод."
+
+#~ msgid "CTI"
+#~ msgstr "CTI"
+
+#~ msgid "active filed"
+#~ msgstr "активное поле"
+
+#~ msgid "not active filed"
+#~ msgstr "не активное поле"
+
+#~ msgid "allowed"
+#~ msgstr "разрешена"
+
+#~ msgid "prohibited"
+#~ msgstr "запрещена"
+
+#~ msgid "Name"
+#~ msgstr "имя"
+
+#~ msgid "Register Date"
+#~ msgstr "Дата регистрации"
+
+#~ msgid "First"
+#~ msgstr "Первая"
+
+#~ msgid "Last"
+#~ msgstr "Последняя"
+
+#~ msgid "Cancel check payment"
+#~ msgstr "Отменить проверку оплату"
+
+#~ msgid "After completion of the exchange"
+#~ msgstr "После завершения обмена"
+
+#~ msgid "Daily allowance"
+#~ msgstr "Суточный резерв"
+
+#~ msgid "Type page sharing"
+#~ msgstr "Тип страницы обмена"
+
+#~ msgid "Type 1"
+#~ msgstr "Тип 1"
+
+#~ msgid "Type 2"
+#~ msgstr "Тип 2"
+
+#~ msgid "Select the desired"
+#~ msgstr "Выберите необходимые"
+
+#~ msgid "Sort custom field"
+#~ msgstr "Сортировка доп.полей"
+
+#~ msgid "CBR"
+#~ msgstr "CBR"
+
+#~ msgid "ECB"
+#~ msgstr "ECB"
+
+#~ msgid "privatbank"
+#~ msgstr "privatbank"
+
+#~ msgid "nationalbank"
+#~ msgstr "nationalbank"
+
+#~ msgid "nbrb"
+#~ msgstr "nbrb"
+
+#~ msgid "wm.exchanger"
+#~ msgstr "wm.exchanger"
+
+#~ msgid "CHINA"
+#~ msgstr "CHINA"

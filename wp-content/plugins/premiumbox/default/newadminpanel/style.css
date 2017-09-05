@@ -1,0 +1,222 @@
+*{margin:0;padding:0;}
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+	border: 0;
+	font-family: inherit;
+	font-size: 100%;
+	font-style: inherit;
+	font-weight: inherit;
+	margin: 0;
+	outline: 0;
+	padding: 0;
+	vertical-align: baseline;
+}
+
+html {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	overflow-y: scroll;
+}
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+main,
+nav,
+section {
+	display: block;
+}
+
+ol,
+ul {
+	list-style: none;
+}
+
+table{border-collapse:collapse;border-spacing:0; vertical-align: middle;}
+
+caption,
+th,
+td {
+	font-weight: normal;
+	text-align: left;
+	vertical-align: middle;
+}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+	content: "";
+}
+
+blockquote,
+q {
+	-webkit-hyphens: none;
+	-moz-hyphens: none;
+	-ms-hyphens: none;
+	hyphens: none;
+	quotes: none;
+}
+
+a:focus {
+	outline: 0;
+	outline: 0;
+}
+
+a:hover,
+a:active {
+	outline: 0;
+}
+
+a img {
+	border: 0;
+}
+
+dfn,
+cite,
+em,
+i {
+	font-style: italic;
+}
+
+img {
+	border: 0;
+}
+
+ins{text-decoration:none;}
+del{text-decoration:line-through;}
+
+sup {font-size:.7em;vertical-align: top;}
+sub {font-size:.7em;vertical-align: bottom;}
+small {font-size: 10px;}
+strong,dfn,dl dt,th{font-weight:600}
+
+h1, h2, h3, h4, h5, h6{ font-weight: normal;}
+
+select,input,textarea{
+padding:0;
+margin:0;
+outline:0;
+font-size:100%;
+vertical-align:baseline;
+}
+
+button, input[type=submit]{padding:0; margin:0; outline:0; font-size:100%; vertical-align:baseline; -webkit-appearance: none;} 
+
+a{text-decoration: underline; color:#333;}
+a:hover{text-decoration: none; color: #333;}
+body{
+font: 13px/1.3em sans-serif;
+color: #333;
+background: #e5e6e6;
+}
+
+#container{
+position: relative;
+width: 100%;
+min-width: 320px;
+padding: 160px 0 30px 0;
+}
+.wrap{
+width: 320px;
+margin: 0 auto;	
+}
+.form{
+background: #fff;
+padding: 20px 30px;
+border: 1px solid #c9caca;
+box-shadow: 1px 1px 2px #c9caca;
+}
+	.form_title{
+	text-align: center;
+	font: 500 26px sans-serif;
+	margin: 0 0 20px 0;
+	}
+	.form_links{
+	text-align: center;	
+	}
+	.form_line{
+	padding: 0 0 15px 0;	
+	}
+	.form_line.centered{
+	text-align: center;	
+	}
+		.form_label{
+		font: 13px sans-serif;
+		color: #999c9c;
+		padding: 0 0 5px 0;
+		}
+		input[type=text],input[type=email],input[type=password]{
+		border: 1px solid #fff;
+		border-bottom: 2px solid #999c9c;
+		background: #fff;
+		height: 38px;
+		width: 100%;
+		padding: 0; 
+		box-sizing: border-box;
+			-moz-box-sizing: border-box; 
+				-webkit-box-sizing: border-box;
+		color: #222;
+		font: 13px/38px sans-serif;	
+		}
+		input[type=text]:focus, input[type=email]:focus, input[type=password]:focus{
+		border-bottom: 2px solid #0aa89e;
+		color: #0aa89e;
+		}
+		input[type=submit]{
+		border: 1px solid #0aa89e;
+		background: #0aa89e;
+		height: 38px;
+		padding: 0 25px;
+		-webkit-transition: all 0.3s linear;
+			-moz-transition: all 0.3s linear;
+				-o-transition: all 0.3s linear;
+					transition: all 0.3s linear; 
+		box-sizing: border-box;
+			-moz-box-sizing: border-box; 
+				-webkit-box-sizing: border-box;
+		color: #fff;
+		font: 13px/38px sans-serif;		
+		cursor: pointer;
+		text-transform: uppercase;
+		}
+			input[type=submit]:hover{
+			background: #06655f;
+			border: 1px solid #06655f; 
+			text-decoration: none;
+			}
+			input[type=submit]:disabled{
+			background: #ccc;
+			border: 1px solid #ccc;
+			cursor: default;
+			} 	
+/* end forms */
+
+
+.resultfalse{
+position: relative;
+font: 500 13px 'Roboto', sans-serif;
+padding: 15px 40px 15px 20px;
+margin: 0 0 10px 0;
+background: #fff;		
+border-left: 3px solid #f44336;
+color: #f44336;	
+}
+.resulttrue{
+position: relative;
+font: 500 13px 'Roboto', sans-serif;
+padding: 15px 40px 15px 20px;
+margin: 0 0 10px 0;
+background: #fff;	
+border-left: 3px solid #4caf50;
+color: #4caf50;
+}
+
+.clear{
+clear: both;	
+}

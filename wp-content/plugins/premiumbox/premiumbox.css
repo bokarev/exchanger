@@ -1,0 +1,947 @@
+/* parser */
+.parser_up_time{
+float: left;
+padding: 10px 15px;
+margin: 0 0 15px 0;
+color: #333;
+border: 1px solid #e5e5e5;
+background: #ffffff;
+box-shadow: 1px 1px 1px #e5e5e5;
+font: 500 13px 'Roboto', sans-serif;	
+}
+	.parser_birg_title{
+	float: left;
+	background: #0aa89e;
+	color: #fff;
+	font: 15px 'Roboto', sans-serif;
+	padding: 5px 10px;
+	margin: 0 0 10px 0;
+	}
+	.parser_birg_div{
+	overflow: hidden;
+	}
+	.parser_div{
+	max-width: 400px;
+	padding: 10px 10px 5px;
+	margin: 0 0 10px 0;
+	color: #333;
+	border: 1px solid #e5e5e5;
+	background: #ffffff;
+	box-shadow: 1px 1px 1px #e5e5e5;		
+	}
+		.parser_title{
+		float: left;
+		background: #fafafa;
+		color: #0aa89e;
+		padding: 5px 15px;
+		margin: 0 0 5px 0;
+		font: 500 13px 'Roboto', sans-serif;
+		border-bottom: 2px solid #dbdbdb;
+		}
+		.parser_enable{
+		padding: 0 0 5px 0;	
+		}	
+		.parser_curs{
+		float: right;
+		background: #fafafa;
+		padding: 5px 15px;
+		margin: 0 0 5px 0;
+		font: 500 13px 'Roboto', sans-serif;
+		border-bottom: 2px solid #dbdbdb;	
+		} 
+/* end parser */
+
+a.js_button_small{
+float: left;
+cursor: pointer;
+padding: 2px 5px;
+border-radius: 4px;
+border: 1px solid #cccccc;
+border-bottom: 2px solid #cccccc;
+font: 12px 'Roboto', sans-serif;	
+text-decoration: none;
+background: #fff;
+color: #333;
+}
+	a.js_button_small:hover{
+	border: 1px solid #999999;
+	border-bottom: 2px solid #999999;
+	}
+		a.js_button_small.active{
+		background: #cccccc;
+		} 
+	
+input.back_filter{
+width: 30px;
+height: 30px;
+background: url(images/change.png) no-repeat center center;
+margin: 0 10px 0 5px;
+padding: 0;
+float: left;
+border: none;
+cursor: pointer;
+} 
+	
+/* add tabs wrap */
+.add_tabs_title{
+font: 500 20px 'Roboto', sans-serif;
+color: #4eb1bd;
+padding: 0 0 20px 0;	
+}	
+	.add_tabs_title.notactive{
+	color: #ccc;	
+	}
+.add_tabs_wrap{
+position: relative;
+}
+	.add_tabs_menu{
+	float: left;
+	width: 19%;
+	overflow: hidden;
+	}
+		@media all and (max-width: 1200px) {
+			.add_tabs_menu{
+			float: none;
+			width: auto;
+			overflow: hidden;
+			margin: 0 0 20px 0;
+			}	
+		}	
+		.one_tabs_menu{
+		padding: 10px 20px;
+		color: #333;
+		border: 1px solid #e5e5e5;
+		background: #ffffff;
+		box-shadow: 1px 1px 1px #e5e5e5;
+		margin: 0 0 5px 0;
+		cursor: pointer;
+		font: 500 13px 'Roboto', sans-serif;
+		}
+			.one_tabs_menu.active{
+			background: #f1f1f1;
+			}	
+	.add_tabs_body{
+	float: right;
+	width: 80%;
+	overflow: hidden;
+	}
+		@media all and (max-width: 1200px) {
+			.add_tabs_body{
+			float: none;
+			width: auto;
+			overflow: hidden;
+			}	
+		}
+		.one_tabs_body{
+		display: none;
+		border: 1px solid #e5e5e5;
+		background: #ffffff;
+		box-shadow: 1px 1px 1px #e5e5e5;
+		padding: 20px;
+		}
+			@media all and (max-width: 1200px) {
+				.one_tabs_body{
+				padding: 5px;
+				}
+			}	
+			.one_tabs_body.active{
+			display: block;
+			}    
+/* end add tabs wrap */	
+
+/* bids status */
+.stname{
+float: left;
+padding: 6px 15px;
+border-radius: 3px;
+color: #fff;
+font: 500 13px 'Roboto', sans-serif;
+}
+	.st_realdelete{ background: #000; }
+	.st_archived{ background: #946833; }
+	.st_new{ background: #2196f3; }
+	.st_cancel{ background: #e5e6e6; color: #333; }
+	.st_delete, .st_error, .st_payouterror{ background: #f44336; }
+	.st_payed{ background: #0aa89e; }
+	.st_coldpay, .st_techpay{ background: #7b93a3; }
+	.st_coldsuccess{ background: #81a37b; }
+	.st_realpay{ background: #066265; }
+	.st_verify{ background: #ff9800; }
+	.st_success { background: #4caf50; } 
+/* end bids status */
+
+/* bids head */
+.head_bids_div{
+position: relative;
+z-index: 1;
+} 
+	.hb_button{
+	margin: 0 10px 0 0;
+	float: left;
+	height: 40px;
+	font: 14px/40px 'Roboto', sans-serif;
+	padding: 0 20px 0 50px;
+	background: #fff;
+	border: 1px solid #dbdcdc;
+	box-shadow: 1px 1px 2px #dbdcdc;
+	cursor: pointer;
+	-webkit-transition: all 0.3s linear;
+		-moz-transition: all 0.3s linear;
+			-o-transition: all 0.3s linear;
+				transition: all 0.3s linear; 			
+	}
+		.hb_button.live_change{
+		background: #fff url(images/live_change.png) no-repeat 15px 8px;			
+		}
+			.hb_button.live_change.open{
+			height: 50px;
+			}				
+			.hb_button.live_change.active{
+			background: #fff url(images/live_change_work.gif) no-repeat 15px 8px;
+			}
+		.hb_button.filter_change{
+		background: #fff url(images/filter_change.png) no-repeat 15px 8px;			
+		}			
+			.hb_button.filter_change.open{
+			height: 50px;
+			}
+			.hb_button.filter_change.active{
+			background: #fff url(images/filter_change_work.gif) no-repeat 15px 8px;
+			}
+	.hb_timer{
+	float: left;
+	height: 40px;
+	background: #fff;
+	border: 1px solid #dbdcdc;
+	box-shadow: 1px 1px 2px #dbdcdc;
+	font: 500 20px/40px 'Roboto', sans-serif;
+	padding: 0 15px;
+	display: none; 
+	}
+		.hb_timer.active{
+		display: block;	
+		}
+	.hb_limit{
+	float: left;
+	height: 35px;
+	padding: 5px 10px 0;
+	margin: 0 10px 0 0;
+	background: #fff;
+	border: 1px solid #dbdcdc;
+	box-shadow: 1px 1px 2px #dbdcdc;
+	}
+		.hb_limit input{ width: 40px; } 
+/* end bids head */
+
+/* bids window */
+.head_bids_window{
+position: relative;
+z-index: 10;
+min-height: 10px;
+padding: 0 0 40px 0;
+}
+	.change_div{
+	position: relative;
+	max-width: 400px;
+	background: #fff;
+	padding: 15px 20px 20px;
+	border: 1px solid #dbdcdc;
+	box-shadow: 1px 1px 2px #dbdcdc;
+	display: none; 	
+	}
+		.change_div.filters_this{
+		max-width: 2900px;
+		}
+		.change_div_title{
+		font: 500 13px 'Roboto', sans-serif;
+		border-bottom: 1px solid #e6e7e7;
+		padding: 0 0 3px 0;
+		margin: 0 0 10px 0;
+		color: #007fae;
+		}	
+		.change_div_line{
+		margin: 0 0 10px 0;
+		}
+		.change_div_one{
+		padding: 0 0 0px 0;
+		}
+			.change_div_label{
+			font: 500 12px 'Roboto', sans-serif;
+			padding: 0 0 3px 0;
+			}
+			.change_div_action{
+			padding: 10px 0 0 0;
+			}	
+		.change_div_list{
+		width: 210px;
+		height: 60px;
+		float: left;
+		overflow: hidden;
+		margin: 0 20px 5px 0;
+		}		
+			.change_div_list.multi{
+			height: auto;	
+			}
+			.change_div_list.multi .change_div_input{
+			max-height: 60px;
+			overflow-y: scroll;
+			border: 1px solid #ddd;
+			padding: 5px;
+			}
+			.change_div_list select, .change_div_list input[type=text], .change_div_list input[type=search]{
+			width: 200px;
+			}			
+		.change_close_wrap{
+		position: absolute;
+		float: none;
+		bottom: -12px;
+		left: 20px;
+		height: 22px;
+		background: #fff;
+		border: 1px solid #dbdcdc;
+		box-shadow: 1px 1px 2px #dbdcdc;		
+		padding: 5px 5px;		
+		}
+			a.filter_link{
+			float: left;
+			margin: 0 5px;
+			height: 22px;
+			padding: 0 10px;
+			font: 12px/22px 'Roboto', sans-serif;
+			text-decoration: none;
+			color: #333;
+			background: #e5e6e6;
+			}
+				a.filter_link.f2{
+				background: #4caf50;
+				color: #fff;				
+				}
+				a.filter_link.f3{
+				background: #ff9800;
+				color: #fff;				
+				}
+				a.filter_link.f4{
+				background: #066265;
+				color: #fff;				
+				}
+				a.filter_link.f5{
+				background: #2196f3;
+				color: #fff;				
+				}				
+				a.filter_link:hover{
+				opacity: 0.8;
+				}
+				a.filter_link.active{
+				background: #20252b;
+				color: #fff;
+				}
+/* end bids window */
+
+/* live bids */
+.nobids{
+padding: 20px;
+margin: 0 0 30px 0;
+background: #fff;
+font: 500 13px 'Roboto', sans-serif;
+border: 1px solid #dbdcdc;
+box-shadow: 1px 1px 2px #dbdcdc;
+}
+.one_bids_live{
+width: 500px;
+padding: 20px;
+margin: 0 0 30px 0;
+background: #fff;
+font: 13px 'Roboto', sans-serif;
+border: 1px solid #dbdcdc;
+box-shadow: 1px 1px 2px #dbdcdc;
+}
+	.obl_id{ padding: 0 0 5px 0; }
+	.obl_why{ padding: 0 0 10px 0; }
+	.obl_status{ padding: 0 0 20px 0; }
+	a.obl_view, .obl_close{
+	float: left;
+	margin: 0 10px 0 0;
+	background: #e5e6e6;
+	padding: 6px 15px;
+	color: #333;
+	text-align: center;
+	text-decoration: none;
+	border-radius: 3px;
+	cursor: pointer;
+	}
+		a.obl_view:hover, .obl_close:hover{
+		opacity: 0.8;
+		}
+/* end live bids */
+
+/* bids body */
+.bids_datablock{
+padding: 0 0 30px 0;
+}	
+.tech_url{
+background: #fff;
+padding: 10px 25px;
+margin: 0 0 20px 0;
+border: 1px solid #dbdcdc;
+box-shadow: 1px 1px 2px #dbdcdc;		
+}
+	.bids_action_check{
+	position: relative;
+	float: left;
+	margin: 0 10px 0 0;
+	height: 42px;
+	width: 42px;
+	background: #fff;
+	border: 1px solid #dbdcdc;
+	box-shadow: 1px 1px 2px #dbdcdc;	
+	}
+		.bids_action_check input{
+		width: 18px;
+		height: 18px;
+		position: absolute;
+		float: none;
+		top: 50%;
+		left: 50%;
+		margin: -9px 0 0 -9px!important;
+		}
+	.bids_action_select{
+	height: 32px;
+	padding: 5px;
+	background: #fff;
+	border: 1px solid #dbdcdc;
+	box-shadow: 1px 1px 2px #dbdcdc;
+	float: left;
+	margin: 0 10px 0 0;
+	}
+		.bids_action_select select{
+		max-width: 200px;
+		max-height: 32px;
+		}
+	input.bids_action_apply{
+	float: left;
+	height: 44px;
+	padding: 0 10px;
+	margin: 0 10px 0 0;
+	background: #fff;
+	border: 1px solid #dbdcdc;
+	box-shadow: 1px 1px 2px #dbdcdc;
+	font: 500 13px/44px 'Roboto', sans-serif;
+	cursor: pointer;
+	-webkit-appearance: none;
+	}
+	.apply_loader{
+	display: none;
+	float: left;
+	height: 42px;
+	width: 42px;
+	background: #fff url(images/loader.gif) no-repeat center center;
+	border: 1px solid #dbdcdc;
+	box-shadow: 1px 1px 2px #dbdcdc;	
+	}
+	.bids_datablock_count{
+	float: right;
+	height: 44px;
+	font: 13px/44px 'Roboto', sans-serif;
+	}
+	.bids_pagenavi{
+	float: right;
+	}
+		.pagenavi{
+		margin: 0 0px 0 20px;
+		height: 32px;
+		background: #fff;
+		padding: 5px 5px;
+		border: 1px solid #dbdcdc;
+		box-shadow: 1px 1px 2px #dbdcdc;		
+		}
+		.pagenavi span, .pagenavi a{
+		float: left;
+		margin: 0 2px;
+		position: relative;
+		height: 32px;
+		font: 13px/32px 'Roboto', sans-serif;
+		padding: 0 10px; 
+		border-radius: 3px;
+		}
+		.pagenavi span.current{
+		background: #858c97;
+		color: #fff;
+		}
+		.pagenavi span{
+		color: #545454;
+		background: #eeeeee;		
+		}
+		.pagenavi a{
+		text-decoration:none;
+		color: #545454;
+		background: #fff;
+		}
+		.pagenavi a:hover{
+		color: #545454;
+		background: #eeeeee;
+		text-decoration: none;
+		}
+/* end bids body */
+
+/* hotkey */	
+.hotkey_div{
+background: #fff;
+padding: 10px 25px;
+margin: 0 0 20px 0;
+border: 1px solid #dbdcdc;
+box-shadow: 1px 1px 2px #dbdcdc;			
+}
+	.hotkey_div_title{
+	font: 500 13px 'Roboto', sans-serif;
+	color: #007fae;
+	border-bottom: 1px solid #e6e7e7;
+	padding: 0 0 3px 0;
+	margin: 0 0 10px 0;
+	}
+		.hotkey_table table{
+		border: 1px solid #e6e7e7;	
+		}
+		.hotkey_table table th{
+		text-align: left;
+		padding: 10px 10px;
+		border: 1px solid #e6e7e7;
+		font: 500 13px 'Roboto', sans-serif;
+		}
+		.hotkey_table table td{
+		text-align: left;	
+		padding: 10px 10px;
+		border: 1px solid #e6e7e7;
+		font: 13px 'Roboto', sans-serif;
+		}
+		span.hdl_kn{
+		position: relative;
+		padding: 4px 10px;
+		background: #066265;
+		border-radius: 4px;
+		color: #fff;
+		font: 500 13px 'Roboto', sans-serif;
+		}
+			.hotkey_table tr.active span.hdl_kn{
+			background: #ff9800;	
+			}   
+/* end hotkey */
+
+/* bid template */
+.one_bids{
+margin: 0px 0 15px 0;
+}
+	.one_bids_wrap{
+	position: relative;				
+	}
+		.one_bids_abs{
+		padding: 0;			
+		}
+			.one_bids.checked .one_bids_ins, .one_bids.checked .bids_checkbox{
+			background: #e5f2fc;	
+			}
+				.bids_checkbox{
+				position: relative;
+				float: left;
+				width: 30px;
+				height: 30px;
+				margin: 0 10px 5px 5px;
+				background: #fff;
+				border: 1px solid #dbdcdc;
+				box-shadow: 1px 1px 2px #dbdcdc;
+				-webkit-transition: all 0.3s linear;
+					-moz-transition: all 0.3s linear;
+						-o-transition: all 0.3s linear;
+							transition: all 0.3s linear;			
+				}
+					input.check_one{
+					position: absolute;
+					top: 6px;
+					left: 50%;
+					float: none;
+					width: 18px;
+					height: 18px;
+					margin: 0 0 0 -9px!important;
+					}
+				.bids_label{
+				float: left;
+				margin: 0 10px 5px 0;
+				width: 30px;
+				height: 30px;
+				background: #fff;
+				border: 1px solid #dbdcdc;
+				box-shadow: 1px 1px 2px #dbdcdc;
+				cursor: help;
+				}
+					.bids_label_img{
+					width: 30px;
+					height: 30px;
+					display: table-cell;
+					vertical-align: middle;
+					text-align: center;
+					}
+						.bids_label_img img{
+						max-width: 30px;
+						max-height: 30px;
+						}
+				.bids_label_txt{
+				float: left;
+				font: 500 13px/30px 'Roboto', sans-serif;
+				margin: 0 10px 5px 0;
+				text-align: center;
+				padding: 0 10px;
+				height: 30px;
+				background: #fff;
+				border: 1px solid #dbdcdc;
+				box-shadow: 1px 1px 2px #dbdcdc;
+				}						
+			a.one_action_bid_link{
+			box-shadow: 1px 1px 2px #dbdcdc;	
+			float: left;
+			margin: 0 10px 5px 0;
+			height: 24px;
+			background: #e5e6e6;
+			padding: 0px 15px;
+			color: #333;
+			text-align: center;
+			text-decoration: none;
+			font: 500 13px/24px 'Roboto', sans-serif;
+			}	
+				a.one_action_bid_link:hover{
+				opacity: 0.8;	
+				}
+				a.one_action_bid_link.to_pay{
+				color: #fff;
+				background: #ff9800;
+				}
+				a.one_action_bid_link.pay_merch{
+				color: #fff;	
+				background: #4caf50;
+				} 
+				a.one_action_bid_link.editting{
+				
+				}				
+		.one_bids_ins{
+		position: relative;
+		z-index: 10;
+		min-height: 30px;
+		margin: 0px 0 2px 0;
+		top: -7px;
+		background: #fff;
+		border: 1px solid #dbdcdc;
+		box-shadow: 1px 1px 2px #dbdcdc;
+		-webkit-transition: all 0.3s linear;
+			-moz-transition: all 0.3s linear;
+				-o-transition: all 0.3s linear;
+					transition: all 0.3s linear;			
+		}
+		.abs_line{
+		position: absolute;
+		top: 0;
+		float: none;
+		width: 1px;
+		height: 100%;
+		background: #dbdcdc;
+		z-index: 5;
+		}		
+			.abs_line.al1{ left: 25%; }
+			.abs_line.al2{ left: 50%; }	
+			.abs_line.al3{ left: 75%; }	
+		.bids_col{
+		float: left;
+		width: 25%;
+		position: relative;
+		z-index: 3;
+		word-break: break-all;
+		}
+			.bids_col select{
+			width: 100%;
+			max-width: 250px;
+			}
+			.bids_col_bg.four{
+			position: absolute;
+			z-index: 1;
+			float: none;
+			top: 0;
+			right: 0;
+			width: 25%;
+			height: 100%;
+			background: #eef8f0;
+			}
+		.one_bids_info{
+		position: relative;
+		z-index: 15;
+		border-top: 1px solid #dbdcdc;
+		padding: 20px 20px 15px;
+		top: -1px;
+		overflow: hidden;
+		background: #fff;
+		display: none; 
+		}	
+			.bids_text{
+			padding: 5px 20px;
+			margin: 0 0 0 1px;
+			border-bottom: 1px solid #dbdcdc;
+			}					
+				.bids_text.btbg_fiol{
+				background: #f6f6f8;
+				border-bottom: 1px solid #dbdcdc;
+				}
+				.bids_text.btbg_redded{
+				background: #f8e1e1;
+				border-bottom: 1px solid #dbdcdc;
+				}				
+				.bids_text.btbg_green{
+				background: #eef8f0;	
+				border-bottom: 1px solid #dbdcdc;
+				}	
+					.bids_text .onebid_item {
+					font-weight: 500;
+					}
+				.bids_text .bt{
+				font-weight: 500;
+				color: #007fae;
+				}
+				.bids_text .bt_fix{
+				display: inline;	
+				}
+				@media all and (max-width: 1200px) {
+					.bids_text .bt_fix{
+					display: block;	
+					}
+				}		
+		.bi_block{
+		float: left;
+		width: 300px;
+		}
+			.bi_bigtitle{
+			font: 500 13px 'Roboto', sans-serif;
+			color: #333;
+			margin: 0 0 10px 0;
+			}
+			.bi_title{
+			float: left;
+			width: 140px;
+			font: 500 13px 'Roboto', sans-serif;
+			color: #007fae;
+			padding: 0 20px 10px 0;
+			}
+			.bi_div{
+			font: 13px 'Roboto', sans-serif;
+			float: left;
+			width: 100px;			
+			margin: 0 0 10px 0;
+			}	
+		.action_bids_abs{
+		top: -10px;
+		margin: 0px 0 0 0;
+		position: relative;			
+		}
+.bs_comus, .bs_comad{
+float: right;
+margin: 0 0px 5px 10px;
+padding: 0 20px;
+height: 30px;
+background: #fff;
+border: 1px solid #dbdcdc;
+box-shadow: 1px 1px 2px #dbdcdc;
+font: 500 13px/30px 'Roboto', sans-serif;
+cursor: pointer;
+}
+	.bs_comus.active{
+	background: #607d8b;
+	color: #fff;
+	}
+	.bs_comad.active{
+	background: #066265;
+	color: #fff;					
+	}
+		.bs_comus:hover, .bs_comad:hover{
+		opacity: 0.8;
+		}	
+/* end bid template */	
+
+/* finstats */
+.finresults{
+background: #fff;
+border: 1px solid #dbdcdc;
+box-shadow: 1px 1px 2px #dbdcdc;
+padding: 20px;
+max-width: 500px;
+}
+.finfiletrs{
+background: #fff;
+border: 1px solid #dbdcdc;
+box-shadow: 1px 1px 2px #dbdcdc;
+padding: 20px;
+margin: 0 0 30px 0;
+max-width: 500px;
+}
+	.fin_line{
+	margin: 0 0 10px 0;
+	}
+	.fin_list{
+	width: 210px;
+	height: 60px;
+	float: left;
+	overflow: hidden;
+	margin: 0 20px 0px 0;
+	}		
+		.fin_list select, .fin_list input[type=text], .fin_list input[type=search]{
+		width: 200px;
+		}			
+		.fin_label{
+		font: 500 12px 'Roboto', sans-serif;
+		padding: 0 0 3px 0;
+		}
+ 			input.finstat_link{
+			float: left;
+			margin: 0 10px 0 0;
+			height: 32px;
+			padding: 0 10px;
+			font: 12px/32px 'Roboto', sans-serif;
+			text-decoration: none;
+			color: #fff;
+			background: #4caf50;
+			border: none;
+			cursor: pointer;
+			}
+				input.finstat_link:hover{
+				opacity: 0.8;
+				}
+			.finstat_ajax{
+			display: none;
+			float: left;
+			height: 32px;
+			width: 32px;
+			background: url(images/loader.gif) no-repeat center center;
+			}  
+/* end finstats */		
+
+/* geoip table */
+.geoip_table{
+border: 1px solid #e5e5e5;
+background: #ffffff;
+box-shadow: 1px 1px 1px #e5e5e5;
+padding: 15px;
+max-width: 600px;
+margin: 0 0 20px 0;
+}	
+	.geoip_table table{
+	width: 100%;
+	}
+	.geoip_table table th{
+	background: #f9f9f9;
+	color: #313534;
+	font: 500 15px 'Roboto', sans-serif;
+	padding: 10px 10px;
+	border-top: 2px solid #e4e6e6;
+	border-bottom: 1px solid #e4e6e6;
+	text-shadow: 1px 1px 1px #fff;
+	}
+	.geoip_table table td{
+	border-bottom: 1px solid #e4e6e6;
+	padding: 5px 10px;
+	text-align: center;
+	}
+	.geoip_table table tr:hover td{
+	background: #faebd4;
+	}	
+		a.geoip_active_button{
+		display: block;
+		width: 20px;
+		height: 20px;
+		}
+			a.geoip_active_button.geoip_active_upload{
+			background: url(images/geoip_upload.png) no-repeat center center;
+			}
+			a.geoip_active_button.geoip_deactive_upload{
+			background: url(images/geoip_remove.png) no-repeat center center;
+			}			
+			a.geoip_active_button.act{
+			background: url(images/ajax-loader.gif) no-repeat center center;
+			}
+		a.indicator{
+		display: block;
+		width: 16px;
+		height: 16px;
+		box-shadow: inset 1px 1px 1px #cde6cf;
+		border-radius: 16px;
+		background: url(images/geo_ind.png) no-repeat center -186px;
+		}
+			a.indicator.proh{
+			background: url(images/geo_ind.png) no-repeat center 1px;
+			box-shadow: inset 1px 1px 1px #e5d0ce;
+			border-radius: 16px;
+			}
+			a.indicator.act{
+			box-shadow: none;
+			border-radius: 0;
+			background: url(images/ajax-loader.gif) no-repeat center center;
+			}	
+		.indicator_label_div{
+		margin: 0 0 10px 10px;
+		}
+		.indicator_label{
+		padding: 5px 0 5px 20px;
+		background: url(images/geo_ind.png) no-repeat 0 -179px;
+		}
+			.indicator_label.proh{
+			background: url(images/geo_ind.png) no-repeat 0 7px;
+			} 
+/* end geoip table */
+
+/* partners */
+.plusminusblock{
+padding: 5px 0 0 0;
+float: right;
+}
+    a.plminlink{
+	float: left;
+	width: 16px;
+	height: 16px;
+	margin: 0 5px 0 0;
+	}
+	    a.plminlink.plussed{ background: url(images/plmin.png) no-repeat 0 0; }
+		a.plminlink.minussed{ background: url(images/plmin.png) no-repeat 0 -17px; } 
+/* end partners */
+
+/* sumcurs */
+.napscurs_line{
+background: #fafafa;
+padding: 10px 20px;
+border-bottom: 2px solid #dbdbdb;
+}
+	.napscurs_item{
+	float: left;
+	margin: 0 10px 0 0;
+	}
+		.napscurs_line_title{
+		font: 500 13px 'Roboto', sans-serif;
+		padding: 5px 0 5px 0;
+		}	
+		.napscurs_title{
+		height: 20px;
+		font: 500 13px/20px 'Roboto', sans-serif;	
+		}
+		.napscurs_add, .napscurs_del{
+		float: left;
+		margin: 20px 10px 0 0;
+		cursor: pointer;
+		padding: 4px 10px;
+		border-radius: 4px;
+		border: 1px solid #cccccc;
+		border-bottom: 2px solid #cccccc;
+		font: 13px 'Roboto', sans-serif;
+		}
+		.napscurs_del{
+		color: #ff0000;
+		}
+			.napscurs_add:hover, .napscurs_del:hover{
+			border: 1px solid #999999;
+			border-bottom: 2px solid #999999;
+			border-radius: 4px;
+			}
+			.napscurs_add.active, .napscurs_del.active{
+			background: #cccccc;
+			}
+/* end sumcurs */

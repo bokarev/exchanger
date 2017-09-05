@@ -1,0 +1,23 @@
+Options All -Indexes 
+<files wp-config.php> 
+ order allow,deny 
+ deny from all 
+</files> 
+
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteRule ^rtest.html$ /wp-content/plugins/premiumbox/sitepage/test.php [QSA,L]
+RewriteRule ^blackping.html$ /wp-content/plugins/premiumbox/sitepage/blackping.php [QSA,L]
+RewriteRule ^curscron.html$ /wp-content/plugins/premiumbox/sitepage/curscron.php [QSA,L]
+RewriteRule ^sitemap.xml$ /wp-content/plugins/premiumbox/sitepage/sitemap.php [QSA,L]
+RewriteRule ^exportxml.xml$ /wp-content/plugins/premiumbox/sitepage/exportxml.php [QSA,L]
+RewriteRule ^exporttxt.txt$ /wp-content/plugins/premiumbox/sitepage/exporttxt.php [QSA,L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
